@@ -20,5 +20,5 @@ Localizados na pasta metadata/metadata_csv_and_dicom/ em um arquivo .json
 #### <strong>Caso as pastas estejam vazias</strong> 
 - Abrir os notebooks catalogar_dicom_imagens e dicionario_meta na pasta src/catalogar_imagens
 - Mudar path do DDSM na variável path_exam_files nos notebooks
-- Rodar notebook os notebooks (20min de tempo estimado de execução)
+- Rodar os notebooks (20min de tempo estimado de execução)
 
