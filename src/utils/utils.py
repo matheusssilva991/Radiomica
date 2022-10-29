@@ -4,6 +4,8 @@ import json
 from pydicom.valuerep import PersonName
 from pydicom.sequence import Sequence
 from pydicom.multival import MultiValue
+import re
+import numpy
 
 def load_json(object_name: str, path = None) -> None | object:
     """Carregar arquivos em JSON"""
@@ -35,7 +37,10 @@ def save_json(object_name: str, data: list | dict, path = None) -> None:
 
 def get_dicom_meta_seq(seq_element):
     """Extrai metadados de elementos sequencia dicom"""
-    
+    dict_tags_seq = {"(0008, 0100)": "code_value",
+                     "(0008, 0102)": "coding_scheme_designator",
+                     "(0008, 0104)": "code_meaning",
+                     "(0054, 0222)": "View Modifier Code Sequence"}
     elements = []
     
     for element in seq_element:
@@ -43,6 +48,9 @@ def get_dicom_meta_seq(seq_element):
         
         for key, value in element.to_json_dict().items():
             new_key = f"({key[:4:]}, {key[4::]})"
+            
+            if new_key in dict_tags_seq.keys():
+                new_key = f"{dict_tags_seq[new_key]} {new_key}"
             dict_temp[new_key] = value['Value'][0] if len(value['Value']) >= 1 else ""
             
         elements.append(dict_temp)
@@ -109,3 +117,27 @@ def preprocessing_path(path: str) -> str:
     path = path[0]
     
     return path
+
+
+
+def read_pgm(filename, byteorder='>'):
+    """Return image data from a raw PGM file as numpy array.
+
+    Format specification: http://netpbm.sourceforge.net/doc/pgm.html
+
+    """
+    with open(filename, 'rb') as f:
+        buffer = f.read()
+    try:
+        header, width, height, maxval = re.search(
+            b"(^P5\s(?:\s*#.*[\r\n])*"
+            b"(\d+)\s(?:\s*#.*[\r\n])*"
+            b"(\d+)\s(?:\s*#.*[\r\n])*"
+            b"(\d+)\s(?:\s*#.*[\r\n]\s)*)", buffer).groups()
+    except AttributeError:
+        raise ValueError("Not a raw PGM file: '%s'" % filename)
+    return numpy.frombuffer(buffer,
+                            dtype='u1' if int(maxval) < 256 else byteorder+'u2',
+                            count=int(width)*int(height),
+                            offset=len(header)
+                            ).reshape((int(height), int(width))), bytes.decode(header)
