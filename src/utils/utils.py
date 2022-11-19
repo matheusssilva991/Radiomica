@@ -5,7 +5,8 @@ from pydicom.valuerep import PersonName
 from pydicom.sequence import Sequence
 from pydicom.multival import MultiValue
 import re
-import numpy
+import numpy as np
+import pandas as pd
 
 def load_json(object_name: str, path = None) -> None | object:
     """Carregar arquivos em JSON"""
@@ -136,8 +137,82 @@ def read_pgm(filename, byteorder='>'):
             b"(\d+)\s(?:\s*#.*[\r\n]\s)*)", buffer).groups()
     except AttributeError:
         raise ValueError("Not a raw PGM file: '%s'" % filename)
-    return numpy.frombuffer(buffer,
+    return np.frombuffer(buffer,
                             dtype='u1' if int(maxval) < 256 else byteorder+'u2',
                             count=int(width)*int(height),
                             offset=len(header)
                             ).reshape((int(height), int(width))), bytes.decode(header)
+
+
+def merge_dictionary(left_dict:dict, right_dict: dict) -> dict:
+    """Junta dois dicionários de tags"""
+    
+    list_keys = list(left_dict.keys()) + list(right_dict.keys())
+    dictionary_merged = {}
+
+    for key in list_keys:
+        if key in set(left_dict.keys()) & set(right_dict.keys()): # key contido (left^right)
+            dictionary_merged[key] = left_dict[key] + right_dict[key]
+        elif key in left_dict.keys(): # key contido em left
+            dictionary_merged[key] = left_dict[key]
+        else: # key contido em right
+            dictionary_merged[key] = right_dict[key]
+            
+    return dictionary_merged
+
+def get_bits_allocated(value: int) -> int:
+    value = int(value)
+    
+    if 0 <= value < 256:
+        return 8
+    elif 256 <= value < 4096:
+        return 12
+    elif 4096 <= value < 65536:
+        return 16
+    
+def create_dict_meta(metadata: list, type:str) -> dict:
+    """Retorna um dicionário de tags contidas em uma lista de estudos
+    
+       metadata: lista contendo os estudos
+       type: csv or txt
+    """
+    dictionary_metadata = {}
+    dict_keys_to_rename = {
+        "ID1": "Patient_id",
+        "LeftRight": "Left or right breast",
+        "abnormality": "Abnormality_type",
+        "classification": "Pathology",
+        "reference_number": "Patient_id"
+    }
+
+    for current_meta in metadata: # Iterar sobre os estudos
+        meta_csv_files = current_meta[f'metadata_{type}']
+        
+        for key, value in meta_csv_files.items():
+            if key in dict_keys_to_rename.keys():
+                key = dict_keys_to_rename[key]
+            
+            key = key.lower()
+            
+            if key not in dictionary_metadata.keys():
+                if value in ['NaN', '']:
+                    dictionary_metadata[key] = 0
+                else:
+                    dictionary_metadata[key] = 1
+            else:
+                if value not in ['NaN', '']:
+                    dictionary_metadata[key] += 1
+                    
+    return dictionary_metadata
+
+def buscar_tags(df: pd.DataFrame, freq: int) -> pd.DataFrame:
+    """Retorna um DataFrame com as tags que contém a frequência informada"""
+    return df.loc[df['frequencia'] == freq].copy(deep=True).reset_index(drop=True)
+
+def create_df(dictionary: dict, x_label: str) -> pd.DataFrame: 
+    """Cria um dataframe da frequência por tag/atribute"""
+    keys = [key for key in dictionary.keys()]
+    values = [value for value in dictionary.values()]
+
+    df = pd.DataFrame({x_label: keys, "frequencia": values})
+    return df
