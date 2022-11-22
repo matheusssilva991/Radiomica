@@ -6,8 +6,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "535",
-         "y_image-coordinates_centre_abnormality": "425",
+         "x_centre_abnormality": "535",
+         "y_centre_abnormality": "425",
          "radius": "197"
       },
       "metadata_pgm_file": {
@@ -25,8 +25,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "522",
-         "y_image-coordinates_centre_abnormality": "280",
+         "x_centre_abnormality": "522",
+         "y_centre_abnormality": "280",
          "radius": "69"
       },
       "metadata_pgm_file": {
@@ -74,8 +74,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "477",
-         "y_image-coordinates_centre_abnormality": "133",
+         "x_centre_abnormality": "477",
+         "y_centre_abnormality": "133",
          "radius": "30"
       },
       "metadata_pgm_file": {
@@ -93,8 +93,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "500",
-         "y_image-coordinates_centre_abnormality": "168",
+         "x_centre_abnormality": "500",
+         "y_centre_abnormality": "168",
          "radius": "26"
       },
       "metadata_pgm_file": {
@@ -172,8 +172,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "525",
-         "y_image-coordinates_centre_abnormality": "425",
+         "x_centre_abnormality": "525",
+         "y_centre_abnormality": "425",
          "radius": "33"
       },
       "metadata_pgm_file": {
@@ -206,8 +206,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "471",
-         "y_image-coordinates_centre_abnormality": "458",
+         "x_centre_abnormality": "471",
+         "y_centre_abnormality": "458",
          "radius": "40"
       },
       "metadata_pgm_file": {
@@ -225,8 +225,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Other, ill-defined masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "667",
-         "y_image-coordinates_centre_abnormality": "365",
+         "x_centre_abnormality": "667",
+         "y_centre_abnormality": "365",
          "radius": "31"
       },
       "metadata_pgm_file": {
@@ -259,8 +259,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "595",
-         "y_image-coordinates_centre_abnormality": "864",
+         "x_centre_abnormality": "595",
+         "y_centre_abnormality": "864",
          "radius": "68"
       },
       "metadata_pgm_file": {
@@ -293,8 +293,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "547",
-         "y_image-coordinates_centre_abnormality": "573",
+         "x_centre_abnormality": "547",
+         "y_centre_abnormality": "573",
          "radius": "48"
       },
       "metadata_pgm_file": {
@@ -327,8 +327,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "653",
-         "y_image-coordinates_centre_abnormality": "477",
+         "x_centre_abnormality": "653",
+         "y_centre_abnormality": "477",
          "radius": "49"
       },
       "metadata_pgm_file": {
@@ -361,8 +361,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "493",
-         "y_image-coordinates_centre_abnormality": "125",
+         "x_centre_abnormality": "493",
+         "y_centre_abnormality": "125",
          "radius": "49"
       },
       "metadata_pgm_file": {
@@ -395,8 +395,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "538",
-         "y_image-coordinates_centre_abnormality": "681",
+         "x_centre_abnormality": "538",
+         "y_centre_abnormality": "681",
          "radius": "29"
       },
       "metadata_pgm_file": {
@@ -429,8 +429,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "674",
-         "y_image-coordinates_centre_abnormality": "443",
+         "x_centre_abnormality": "674",
+         "y_centre_abnormality": "443",
          "radius": "79"
       },
       "metadata_pgm_file": {
@@ -478,8 +478,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "338",
-         "y_image-coordinates_centre_abnormality": "314",
+         "x_centre_abnormality": "338",
+         "y_centre_abnormality": "314",
          "radius": "56"
       },
       "metadata_pgm_file": {
@@ -512,8 +512,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Other, ill-defined masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "322",
-         "y_image-coordinates_centre_abnormality": "676",
+         "x_centre_abnormality": "322",
+         "y_centre_abnormality": "676",
          "radius": "43"
       },
       "metadata_pgm_file": {
@@ -546,8 +546,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Other, ill-defined masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "388",
-         "y_image-coordinates_centre_abnormality": "742",
+         "x_centre_abnormality": "388",
+         "y_centre_abnormality": "742",
          "radius": "66"
       },
       "metadata_pgm_file": {
@@ -940,8 +940,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Other, ill-defined masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "318",
-         "y_image-coordinates_centre_abnormality": "359",
+         "x_centre_abnormality": "318",
+         "y_centre_abnormality": "359",
          "radius": "27"
       },
       "metadata_pgm_file": {
@@ -1019,8 +1019,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Other, ill-defined masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "546",
-         "y_image-coordinates_centre_abnormality": "463",
+         "x_centre_abnormality": "546",
+         "y_centre_abnormality": "463",
          "radius": "33"
       },
       "metadata_pgm_file": {
@@ -1113,8 +1113,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "462",
-         "y_image-coordinates_centre_abnormality": "406",
+         "x_centre_abnormality": "462",
+         "y_centre_abnormality": "406",
          "radius": "44"
       },
       "metadata_pgm_file": {
@@ -1162,8 +1162,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Asymmetry",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "266",
-         "y_image-coordinates_centre_abnormality": "517",
+         "x_centre_abnormality": "266",
+         "y_centre_abnormality": "517",
          "radius": "28"
       },
       "metadata_pgm_file": {
@@ -1211,8 +1211,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Asymmetry",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "468",
-         "y_image-coordinates_centre_abnormality": "717",
+         "x_centre_abnormality": "468",
+         "y_centre_abnormality": "717",
          "radius": "23"
       },
       "metadata_pgm_file": {
@@ -1290,8 +1290,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "432",
-         "y_image-coordinates_centre_abnormality": "149",
+         "x_centre_abnormality": "432",
+         "y_centre_abnormality": "149",
          "radius": "20"
       },
       "metadata_pgm_file": {
@@ -1309,8 +1309,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Asymmetry",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "492",
-         "y_image-coordinates_centre_abnormality": "473",
+         "x_centre_abnormality": "492",
+         "y_centre_abnormality": "473",
          "radius": "131"
       },
       "metadata_pgm_file": {
@@ -1343,8 +1343,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Asymmetry",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "544",
-         "y_image-coordinates_centre_abnormality": "194",
+         "x_centre_abnormality": "544",
+         "y_centre_abnormality": "194",
          "radius": "38"
       },
       "metadata_pgm_file": {
@@ -1452,8 +1452,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Asymmetry",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "510",
-         "y_image-coordinates_centre_abnormality": "547",
+         "x_centre_abnormality": "510",
+         "y_centre_abnormality": "547",
          "radius": "49"
       },
       "metadata_pgm_file": {
@@ -1471,8 +1471,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "680",
-         "y_image-coordinates_centre_abnormality": "494",
+         "x_centre_abnormality": "680",
+         "y_centre_abnormality": "494",
          "radius": "20"
       },
       "metadata_pgm_file": {
@@ -1490,8 +1490,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Asymmetry",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "423",
-         "y_image-coordinates_centre_abnormality": "662",
+         "x_centre_abnormality": "423",
+         "y_centre_abnormality": "662",
          "radius": "43"
       },
       "metadata_pgm_file": {
@@ -1539,8 +1539,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Asymmetry",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "466",
-         "y_image-coordinates_centre_abnormality": "517",
+         "x_centre_abnormality": "466",
+         "y_centre_abnormality": "517",
          "radius": "29"
       },
       "metadata_pgm_file": {
@@ -1573,8 +1573,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Asymmetry",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "612",
-         "y_image-coordinates_centre_abnormality": "297",
+         "x_centre_abnormality": "612",
+         "y_centre_abnormality": "297",
          "radius": "34"
       },
       "metadata_pgm_file": {
@@ -1607,8 +1607,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Asymmetry",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "714",
-         "y_image-coordinates_centre_abnormality": "340",
+         "x_centre_abnormality": "714",
+         "y_centre_abnormality": "340",
          "radius": "23"
       },
       "metadata_pgm_file": {
@@ -1656,8 +1656,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Asymmetry",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "415",
-         "y_image-coordinates_centre_abnormality": "460",
+         "x_centre_abnormality": "415",
+         "y_centre_abnormality": "460",
          "radius": "38"
       },
       "metadata_pgm_file": {
@@ -1690,8 +1690,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Asymmetry",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "357",
-         "y_image-coordinates_centre_abnormality": "365",
+         "x_centre_abnormality": "357",
+         "y_centre_abnormality": "365",
          "radius": "50"
       },
       "metadata_pgm_file": {
@@ -1709,8 +1709,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Asymmetry",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "516",
-         "y_image-coordinates_centre_abnormality": "279",
+         "x_centre_abnormality": "516",
+         "y_centre_abnormality": "279",
          "radius": "98"
       },
       "metadata_pgm_file": {
@@ -1743,8 +1743,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Asymmetry",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "600",
-         "y_image-coordinates_centre_abnormality": "621",
+         "x_centre_abnormality": "600",
+         "y_centre_abnormality": "621",
          "radius": "111"
       },
       "metadata_pgm_file": {
@@ -1792,8 +1792,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Asymmetry",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "190",
-         "y_image-coordinates_centre_abnormality": "427",
+         "x_centre_abnormality": "190",
+         "y_centre_abnormality": "427",
          "radius": "51"
       },
       "metadata_pgm_file": {
@@ -1811,8 +1811,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Asymmetry",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "505",
-         "y_image-coordinates_centre_abnormality": "575",
+         "x_centre_abnormality": "505",
+         "y_centre_abnormality": "575",
          "radius": "107"
       },
       "metadata_pgm_file": {
@@ -1875,8 +1875,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "461",
-         "y_image-coordinates_centre_abnormality": "532",
+         "x_centre_abnormality": "461",
+         "y_centre_abnormality": "532",
          "radius": "117"
       },
       "metadata_pgm_file": {
@@ -1909,8 +1909,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "480",
-         "y_image-coordinates_centre_abnormality": "576",
+         "x_centre_abnormality": "480",
+         "y_centre_abnormality": "576",
          "radius": "84"
       },
       "metadata_pgm_file": {
@@ -1958,8 +1958,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "423",
-         "y_image-coordinates_centre_abnormality": "262",
+         "x_centre_abnormality": "423",
+         "y_centre_abnormality": "262",
          "radius": "79"
       },
       "metadata_pgm_file": {
@@ -1977,8 +1977,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "492",
-         "y_image-coordinates_centre_abnormality": "434",
+         "x_centre_abnormality": "492",
+         "y_centre_abnormality": "434",
          "radius": "87"
       },
       "metadata_pgm_file": {
@@ -2026,8 +2026,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "366",
-         "y_image-coordinates_centre_abnormality": "620",
+         "x_centre_abnormality": "366",
+         "y_centre_abnormality": "620",
          "radius": "33"
       },
       "metadata_pgm_file": {
@@ -2045,8 +2045,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "700",
-         "y_image-coordinates_centre_abnormality": "552",
+         "x_centre_abnormality": "700",
+         "y_centre_abnormality": "552",
          "radius": "60"
       },
       "metadata_pgm_file": {
@@ -2064,8 +2064,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "191",
-         "y_image-coordinates_centre_abnormality": "549",
+         "x_centre_abnormality": "191",
+         "y_centre_abnormality": "549",
          "radius": "23"
       },
       "metadata_pgm_file": {
@@ -2083,8 +2083,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "523",
-         "y_image-coordinates_centre_abnormality": "551",
+         "x_centre_abnormality": "523",
+         "y_centre_abnormality": "551",
          "radius": "48"
       },
       "metadata_pgm_file": {
@@ -2132,8 +2132,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "220",
-         "y_image-coordinates_centre_abnormality": "552",
+         "x_centre_abnormality": "220",
+         "y_centre_abnormality": "552",
          "radius": "28"
       },
       "metadata_pgm_file": {
@@ -2166,8 +2166,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "252",
-         "y_image-coordinates_centre_abnormality": "788",
+         "x_centre_abnormality": "252",
+         "y_centre_abnormality": "788",
          "radius": "52"
       },
       "metadata_pgm_file": {
@@ -2185,8 +2185,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "335",
-         "y_image-coordinates_centre_abnormality": "766",
+         "x_centre_abnormality": "335",
+         "y_centre_abnormality": "766",
          "radius": "18"
       },
       "metadata_pgm_file": {
@@ -2219,8 +2219,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Other, ill-defined masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "469",
-         "y_image-coordinates_centre_abnormality": "728",
+         "x_centre_abnormality": "469",
+         "y_centre_abnormality": "728",
          "radius": "49"
       },
       "metadata_pgm_file": {
@@ -2328,8 +2328,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "470",
-         "y_image-coordinates_centre_abnormality": "759",
+         "x_centre_abnormality": "470",
+         "y_centre_abnormality": "759",
          "radius": "29"
       },
       "metadata_pgm_file": {
@@ -2347,8 +2347,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "347",
-         "y_image-coordinates_centre_abnormality": "636",
+         "x_centre_abnormality": "347",
+         "y_centre_abnormality": "636",
          "radius": "26"
       },
       "metadata_pgm_file": {
@@ -2381,8 +2381,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Other, ill-defined masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "233",
-         "y_image-coordinates_centre_abnormality": "994",
+         "x_centre_abnormality": "233",
+         "y_centre_abnormality": "994",
          "radius": "29"
       },
       "metadata_pgm_file": {
@@ -2400,8 +2400,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Other, ill-defined masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "313",
-         "y_image-coordinates_centre_abnormality": "540",
+         "x_centre_abnormality": "313",
+         "y_centre_abnormality": "540",
          "radius": "27"
       },
       "metadata_pgm_file": {
@@ -2419,8 +2419,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "669",
-         "y_image-coordinates_centre_abnormality": "543",
+         "x_centre_abnormality": "669",
+         "y_centre_abnormality": "543",
          "radius": "49"
       },
       "metadata_pgm_file": {
@@ -2468,8 +2468,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Spiculated masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "326",
-         "y_image-coordinates_centre_abnormality": "607",
+         "x_centre_abnormality": "326",
+         "y_centre_abnormality": "607",
          "radius": "174"
       },
       "metadata_pgm_file": {
@@ -2502,8 +2502,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Architectural distortion",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "351",
-         "y_image-coordinates_centre_abnormality": "661",
+         "x_centre_abnormality": "351",
+         "y_centre_abnormality": "661",
          "radius": "62"
       },
       "metadata_pgm_file": {
@@ -2536,8 +2536,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Architectural distortion",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "675",
-         "y_image-coordinates_centre_abnormality": "486",
+         "x_centre_abnormality": "675",
+         "y_centre_abnormality": "486",
          "radius": "48"
       },
       "metadata_pgm_file": {
@@ -2585,8 +2585,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Architectural distortion",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "448",
-         "y_image-coordinates_centre_abnormality": "480",
+         "x_centre_abnormality": "448",
+         "y_centre_abnormality": "480",
          "radius": "95"
       },
       "metadata_pgm_file": {
@@ -2634,8 +2634,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Architectural distortion",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "540",
-         "y_image-coordinates_centre_abnormality": "565",
+         "x_centre_abnormality": "540",
+         "y_centre_abnormality": "565",
          "radius": "88"
       },
       "metadata_pgm_file": {
@@ -2668,8 +2668,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Architectural distortion",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "536",
-         "y_image-coordinates_centre_abnormality": "519",
+         "x_centre_abnormality": "536",
+         "y_centre_abnormality": "519",
          "radius": "61"
       },
       "metadata_pgm_file": {
@@ -2717,8 +2717,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "391",
-         "y_image-coordinates_centre_abnormality": "365",
+         "x_centre_abnormality": "391",
+         "y_centre_abnormality": "365",
          "radius": "50"
       },
       "metadata_pgm_file": {
@@ -2751,8 +2751,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "537",
-         "y_image-coordinates_centre_abnormality": "490",
+         "x_centre_abnormality": "537",
+         "y_centre_abnormality": "490",
          "radius": "42"
       },
       "metadata_pgm_file": {
@@ -2785,8 +2785,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Architectural distortion",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "574",
-         "y_image-coordinates_centre_abnormality": "657",
+         "x_centre_abnormality": "574",
+         "y_centre_abnormality": "657",
          "radius": "35"
       },
       "metadata_pgm_file": {
@@ -2834,8 +2834,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "489",
-         "y_image-coordinates_centre_abnormality": "480",
+         "x_centre_abnormality": "489",
+         "y_centre_abnormality": "480",
          "radius": "82"
       },
       "metadata_pgm_file": {
@@ -2853,8 +2853,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Architectural distortion",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "462",
-         "y_image-coordinates_centre_abnormality": "627",
+         "x_centre_abnormality": "462",
+         "y_centre_abnormality": "627",
          "radius": "62"
       },
       "metadata_pgm_file": {
@@ -2917,8 +2917,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "592",
-         "y_image-coordinates_centre_abnormality": "670",
+         "x_centre_abnormality": "592",
+         "y_centre_abnormality": "670",
          "radius": "33"
       },
       "metadata_pgm_file": {
@@ -2966,8 +2966,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "492",
-         "y_image-coordinates_centre_abnormality": "600",
+         "x_centre_abnormality": "492",
+         "y_centre_abnormality": "600",
          "radius": "70"
       },
       "metadata_pgm_file": {
@@ -2985,8 +2985,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "600",
-         "y_image-coordinates_centre_abnormality": "514",
+         "x_centre_abnormality": "600",
+         "y_centre_abnormality": "514",
          "radius": "67"
       },
       "metadata_pgm_file": {
@@ -3019,8 +3019,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "519",
-         "y_image-coordinates_centre_abnormality": "362",
+         "x_centre_abnormality": "519",
+         "y_centre_abnormality": "362",
          "radius": "54"
       },
       "metadata_pgm_file": {
@@ -3068,8 +3068,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Spiculated masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "352",
-         "y_image-coordinates_centre_abnormality": "624",
+         "x_centre_abnormality": "352",
+         "y_centre_abnormality": "624",
          "radius": "114"
       },
       "metadata_pgm_file": {
@@ -3102,8 +3102,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "403",
-         "y_image-coordinates_centre_abnormality": "524",
+         "x_centre_abnormality": "403",
+         "y_centre_abnormality": "524",
          "radius": "47"
       },
       "metadata_pgm_file": {
@@ -3136,8 +3136,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "406",
-         "y_image-coordinates_centre_abnormality": "617",
+         "x_centre_abnormality": "406",
+         "y_centre_abnormality": "617",
          "radius": "61"
       },
       "metadata_pgm_file": {
@@ -3170,8 +3170,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "512",
-         "y_image-coordinates_centre_abnormality": "621",
+         "x_centre_abnormality": "512",
+         "y_centre_abnormality": "621",
          "radius": "31"
       },
       "metadata_pgm_file": {
@@ -3189,8 +3189,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "594",
-         "y_image-coordinates_centre_abnormality": "516",
+         "x_centre_abnormality": "594",
+         "y_centre_abnormality": "516",
          "radius": "41"
       },
       "metadata_pgm_file": {
@@ -3223,8 +3223,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "399",
-         "y_image-coordinates_centre_abnormality": "563",
+         "x_centre_abnormality": "399",
+         "y_centre_abnormality": "563",
          "radius": "132"
       },
       "metadata_pgm_file": {
@@ -3257,8 +3257,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Spiculated masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "725",
-         "y_image-coordinates_centre_abnormality": "129",
+         "x_centre_abnormality": "725",
+         "y_centre_abnormality": "129",
          "radius": "26"
       },
       "metadata_pgm_file": {
@@ -3306,8 +3306,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "568",
-         "y_image-coordinates_centre_abnormality": "612",
+         "x_centre_abnormality": "568",
+         "y_centre_abnormality": "612",
          "radius": "93"
       },
       "metadata_pgm_file": {
@@ -3325,8 +3325,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "641",
-         "y_image-coordinates_centre_abnormality": "177",
+         "x_centre_abnormality": "641",
+         "y_centre_abnormality": "177",
          "radius": "31"
       },
       "metadata_pgm_file": {
@@ -3374,8 +3374,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "557",
-         "y_image-coordinates_centre_abnormality": "772",
+         "x_centre_abnormality": "557",
+         "y_centre_abnormality": "772",
          "radius": "37"
       },
       "metadata_pgm_file": {
@@ -3408,8 +3408,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Spiculated masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "336",
-         "y_image-coordinates_centre_abnormality": "399",
+         "x_centre_abnormality": "336",
+         "y_centre_abnormality": "399",
          "radius": "21"
       },
       "metadata_pgm_file": {
@@ -3442,8 +3442,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Spiculated masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "368",
-         "y_image-coordinates_centre_abnormality": "200",
+         "x_centre_abnormality": "368",
+         "y_centre_abnormality": "200",
          "radius": "17"
       },
       "metadata_pgm_file": {
@@ -3461,8 +3461,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Spiculated masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "571",
-         "y_image-coordinates_centre_abnormality": "564",
+         "x_centre_abnormality": "571",
+         "y_centre_abnormality": "564",
          "radius": "19"
       },
       "metadata_pgm_file": {
@@ -3495,8 +3495,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "647",
-         "y_image-coordinates_centre_abnormality": "503",
+         "x_centre_abnormality": "647",
+         "y_centre_abnormality": "503",
          "radius": "87"
       },
       "metadata_pgm_file": {
@@ -3529,8 +3529,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "680",
-         "y_image-coordinates_centre_abnormality": "327",
+         "x_centre_abnormality": "680",
+         "y_centre_abnormality": "327",
          "radius": "13"
       },
       "metadata_pgm_file": {
@@ -3548,8 +3548,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "687",
-         "y_image-coordinates_centre_abnormality": "882",
+         "x_centre_abnormality": "687",
+         "y_centre_abnormality": "882",
          "radius": "3"
       },
       "metadata_pgm_file": {
@@ -3567,8 +3567,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "547",
-         "y_image-coordinates_centre_abnormality": "520",
+         "x_centre_abnormality": "547",
+         "y_centre_abnormality": "520",
          "radius": "45"
       },
       "metadata_pgm_file": {
@@ -3586,8 +3586,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "582",
-         "y_image-coordinates_centre_abnormality": "916",
+         "x_centre_abnormality": "582",
+         "y_centre_abnormality": "916",
          "radius": "11"
       },
       "metadata_pgm_file": {
@@ -3650,8 +3650,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "519",
-         "y_image-coordinates_centre_abnormality": "629",
+         "x_centre_abnormality": "519",
+         "y_centre_abnormality": "629",
          "radius": "8"
       },
       "metadata_pgm_file": {
@@ -3669,8 +3669,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "546",
-         "y_image-coordinates_centre_abnormality": "756",
+         "x_centre_abnormality": "546",
+         "y_centre_abnormality": "756",
          "radius": "29"
       },
       "metadata_pgm_file": {
@@ -3718,8 +3718,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "398",
-         "y_image-coordinates_centre_abnormality": "427",
+         "x_centre_abnormality": "398",
+         "y_centre_abnormality": "427",
          "radius": "17"
       },
       "metadata_pgm_file": {
@@ -3737,8 +3737,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "523",
-         "y_image-coordinates_centre_abnormality": "482",
+         "x_centre_abnormality": "523",
+         "y_centre_abnormality": "482",
          "radius": "29"
       },
       "metadata_pgm_file": {
@@ -3756,8 +3756,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "591",
-         "y_image-coordinates_centre_abnormality": "529",
+         "x_centre_abnormality": "591",
+         "y_centre_abnormality": "529",
          "radius": "6"
       },
       "metadata_pgm_file": {
@@ -3805,8 +3805,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "287",
-         "y_image-coordinates_centre_abnormality": "610",
+         "x_centre_abnormality": "287",
+         "y_centre_abnormality": "610",
          "radius": "7"
       },
       "metadata_pgm_file": {
@@ -3824,8 +3824,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "329",
-         "y_image-coordinates_centre_abnormality": "550",
+         "x_centre_abnormality": "329",
+         "y_centre_abnormality": "550",
          "radius": "25"
       },
       "metadata_pgm_file": {
@@ -3843,8 +3843,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "531",
-         "y_image-coordinates_centre_abnormality": "721",
+         "x_centre_abnormality": "531",
+         "y_centre_abnormality": "721",
          "radius": "8"
       },
       "metadata_pgm_file": {
@@ -3862,8 +3862,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "504",
-         "y_image-coordinates_centre_abnormality": "467",
+         "x_centre_abnormality": "504",
+         "y_centre_abnormality": "467",
          "radius": "9"
       },
       "metadata_pgm_file": {
@@ -3926,8 +3926,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "603",
-         "y_image-coordinates_centre_abnormality": "538",
+         "x_centre_abnormality": "603",
+         "y_centre_abnormality": "538",
          "radius": "44"
       },
       "metadata_pgm_file": {
@@ -3960,7 +3960,7 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "\n"
+         "x_centre_abnormality": "\n"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4007,8 +4007,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "276",
-         "y_image-coordinates_centre_abnormality": "824",
+         "x_centre_abnormality": "276",
+         "y_centre_abnormality": "824",
          "radius": "14"
       },
       "metadata_pgm_file": {
@@ -4041,8 +4041,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "522",
-         "y_image-coordinates_centre_abnormality": "553",
+         "x_centre_abnormality": "522",
+         "y_centre_abnormality": "553",
          "radius": "17"
       },
       "metadata_pgm_file": {
@@ -4060,8 +4060,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "645",
-         "y_image-coordinates_centre_abnormality": "755",
+         "x_centre_abnormality": "645",
+         "y_centre_abnormality": "755",
          "radius": "40"
       },
       "metadata_pgm_file": {
@@ -4079,8 +4079,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "567",
-         "y_image-coordinates_centre_abnormality": "808",
+         "x_centre_abnormality": "567",
+         "y_centre_abnormality": "808",
          "radius": "25"
       },
       "metadata_pgm_file": {
@@ -4098,8 +4098,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "643",
-         "y_image-coordinates_centre_abnormality": "614",
+         "x_centre_abnormality": "643",
+         "y_centre_abnormality": "614",
          "radius": "23"
       },
       "metadata_pgm_file": {
@@ -4117,8 +4117,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "453",
-         "y_image-coordinates_centre_abnormality": "678",
+         "x_centre_abnormality": "453",
+         "y_centre_abnormality": "678",
          "radius": "38"
       },
       "metadata_pgm_file": {
@@ -4166,8 +4166,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "466",
-         "y_image-coordinates_centre_abnormality": "567",
+         "x_centre_abnormality": "466",
+         "y_centre_abnormality": "567",
          "radius": "52"
       },
       "metadata_pgm_file": {
@@ -4185,7 +4185,7 @@
          "background_tissue": "Fatty",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "\n"
+         "x_centre_abnormality": "\n"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4232,8 +4232,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "378",
-         "y_image-coordinates_centre_abnormality": "601",
+         "x_centre_abnormality": "378",
+         "y_centre_abnormality": "601",
          "radius": "10"
       },
       "metadata_pgm_file": {
@@ -4251,8 +4251,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "544",
-         "y_image-coordinates_centre_abnormality": "508",
+         "x_centre_abnormality": "544",
+         "y_centre_abnormality": "508",
          "radius": "48"
       },
       "metadata_pgm_file": {
@@ -4270,8 +4270,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "575",
-         "y_image-coordinates_centre_abnormality": "639",
+         "x_centre_abnormality": "575",
+         "y_centre_abnormality": "639",
          "radius": "64"
       },
       "metadata_pgm_file": {
@@ -4319,8 +4319,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Calcification",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "439",
-         "y_image-coordinates_centre_abnormality": "367",
+         "x_centre_abnormality": "439",
+         "y_centre_abnormality": "367",
          "radius": "23"
       },
       "metadata_pgm_file": {
@@ -4338,8 +4338,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "733",
-         "y_image-coordinates_centre_abnormality": "564",
+         "x_centre_abnormality": "733",
+         "y_centre_abnormality": "564",
          "radius": "28"
       },
       "metadata_pgm_file": {
@@ -4387,8 +4387,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Calcification",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "400",
-         "y_image-coordinates_centre_abnormality": "484",
+         "x_centre_abnormality": "400",
+         "y_centre_abnormality": "484",
          "radius": "37"
       },
       "metadata_pgm_file": {
@@ -4511,8 +4511,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Other, ill-defined masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "596",
-         "y_image-coordinates_centre_abnormality": "431",
+         "x_centre_abnormality": "596",
+         "y_centre_abnormality": "431",
          "radius": "36"
       },
       "metadata_pgm_file": {
@@ -4530,8 +4530,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Other, ill-defined masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "593",
-         "y_image-coordinates_centre_abnormality": "498",
+         "x_centre_abnormality": "593",
+         "y_centre_abnormality": "498",
          "radius": "60"
       },
       "metadata_pgm_file": {
@@ -4564,8 +4564,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Other, ill-defined masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "793",
-         "y_image-coordinates_centre_abnormality": "481",
+         "x_centre_abnormality": "793",
+         "y_centre_abnormality": "481",
          "radius": "56"
       },
       "metadata_pgm_file": {
@@ -4613,8 +4613,8 @@
          "background_tissue": "Fatty-glandular",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "356",
-         "y_image-coordinates_centre_abnormality": "945",
+         "x_centre_abnormality": "356",
+         "y_centre_abnormality": "945",
          "radius": "72"
       },
       "metadata_pgm_file": {
@@ -4632,8 +4632,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Other, ill-defined masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "784",
-         "y_image-coordinates_centre_abnormality": "270",
+         "x_centre_abnormality": "784",
+         "y_centre_abnormality": "270",
          "radius": "68"
       },
       "metadata_pgm_file": {
@@ -4681,8 +4681,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Other, ill-defined masses",
          "classification": "Malignant",
-         "x_image-coordinates_centre_abnormality": "127",
-         "y_image-coordinates_centre_abnormality": "505",
+         "x_centre_abnormality": "127",
+         "y_centre_abnormality": "505",
          "radius": "123"
       },
       "metadata_pgm_file": {
@@ -4925,8 +4925,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "337",
-         "y_image-coordinates_centre_abnormality": "353",
+         "x_centre_abnormality": "337",
+         "y_centre_abnormality": "353",
          "radius": "45"
       },
       "metadata_pgm_file": {
@@ -5259,8 +5259,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Other, ill-defined masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "240",
-         "y_image-coordinates_centre_abnormality": "263",
+         "x_centre_abnormality": "240",
+         "y_centre_abnormality": "263",
          "radius": "20"
       },
       "metadata_pgm_file": {
@@ -5293,8 +5293,8 @@
          "background_tissue": "Fatty",
          "abnormality": "Other, ill-defined masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "518",
-         "y_image-coordinates_centre_abnormality": "191",
+         "x_centre_abnormality": "518",
+         "y_centre_abnormality": "191",
          "radius": "39"
       },
       "metadata_pgm_file": {
@@ -5312,8 +5312,8 @@
          "background_tissue": "Dense-glandular",
          "abnormality": "Well-defined/circumscribed masses",
          "classification": "Benign",
-         "x_image-coordinates_centre_abnormality": "516",
-         "y_image-coordinates_centre_abnormality": "447",
+         "x_centre_abnormality": "516",
+         "y_centre_abnormality": "447",
          "radius": "93"
       },
       "metadata_pgm_file": {

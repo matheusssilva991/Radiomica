@@ -1,10 +1,10 @@
 {
-   "patient_id": 5770,
+   "patient_id": 5440,
    "left or right breast": 5440,
    "age": 1872,
    "number": 1872,
-   "abnormality_type": 2202,
-   "pathology": 5561,
+   "abnormality_type": 1872,
+   "pathology": 5440,
    "subtype": 749,
    "breast density": 1872,
    "image view": 3568,
@@ -18,9 +18,5 @@
    "cropped_image_path": 3568,
    "breast_density": 1696,
    "mass shape": 1692,
-   "mass margins": 1636,
-   "background_tissue": 330,
-   "x_image-coordinates_centre_abnormality": 121,
-   "y_image-coordinates_centre_abnormality": 119,
-   "radius": 119
+   "mass margins": 1636
 }

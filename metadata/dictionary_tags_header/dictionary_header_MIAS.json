@@ -1,7 +1,6 @@
 {
-   "rows (0028, 0010)": 330,
-   "columns (0028, 0011)": 330,
-   "bits_allocated (0028, 0100)": 330,
-   "bits_stored (0028, 0101)": 330,
-   "high_bit (0028, 0102)": 330
+   "header": 330,
+   "rows": 330,
+   "columns": 330,
+   "max_value": 330
 }
