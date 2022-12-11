@@ -88,6 +88,12 @@ def get_dicom_meta(dicom_file: object, drop=False) -> dict:
             
         if isinstance(value, bytes):
             value = value.decode("utf-8")
+        elif isinstance(value, np.integer):
+            value = int(value)
+        elif isinstance(value, np.floating):
+            value = float(value)
+        elif value is None:
+            value = ""
         
         dictionary[f"{tag_name} {tag}"] = value
     
@@ -182,7 +188,10 @@ def create_dict_meta(metadata: list, type:str) -> dict:
         "LeftRight": "Left or right breast",
         "abnormality": "Abnormality_type",
         "classification": "Pathology",
-        "reference_number": "Patient_id"
+        "reference_number": "Patient_id",
+        "laterality": "Left or right breast",
+        "view": "Image View",
+        'assessment': "Bi-Rads"
     }
 
     for current_meta in metadata: # Iterar sobre os estudos
@@ -191,6 +200,9 @@ def create_dict_meta(metadata: list, type:str) -> dict:
         for key, value in meta_csv_files.items():
             if key in dict_keys_to_rename.keys():
                 key = dict_keys_to_rename[key]
+                
+            if key == 'image_path' or key == 'cropped_image_path' or key == 'original_image_path' or key == 'file_name':
+                continue
             
             key = key.lower()
             

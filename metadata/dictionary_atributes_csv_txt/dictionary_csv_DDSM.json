@@ -7,11 +7,9 @@
    "abnormality type": 3568,
    "calc type": 1848,
    "calc distribution": 1433,
-   "assessment": 3568,
+   "bi-rads": 3568,
    "pathology": 3568,
    "subtlety": 3568,
-   "original_image_path": 3568,
-   "cropped_image_path": 3568,
    "breast_density": 1696,
    "mass shape": 1692,
    "mass margins": 1636
