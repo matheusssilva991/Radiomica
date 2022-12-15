@@ -1,9 +1,10 @@
 [
    {
+      "study_name": "normal_0_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22678622",
@@ -48,16 +49,17 @@
       }
    },
    {
+      "study_name": "nodulo_1_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22678646",
          "acr": "4",
          "bi-rads": "3",
-         "findings_notes": "nódulo",
+         "findings_notes": "nodulo",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22678646_61b13c59bcba149e_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -96,10 +98,11 @@
       }
    },
    {
+      "study_name": "normal_2_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22678670",
@@ -144,16 +147,17 @@
       }
    },
    {
+      "study_name": "nodulo_3_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22678694",
          "acr": "4",
          "bi-rads": "3",
-         "findings_notes": "nódulo",
+         "findings_notes": "nodulo",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22678694_61b13c59bcba149e_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -192,16 +196,17 @@
       }
    },
    {
+      "study_name": "nodulo_4_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22614074",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo QSE + micros",
+         "findings_notes": "nodulo QSE + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22614074_6bd24a0a42c19ce1_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -240,10 +245,11 @@
       }
    },
    {
+      "study_name": "nodulo_5_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22614097",
@@ -288,16 +294,17 @@
       }
    },
    {
+      "study_name": "nodulo_6_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22614127",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo QSE  + micros",
+         "findings_notes": "nodulo QSE  + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22614127_6bd24a0a42c19ce1_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -336,16 +343,17 @@
       }
    },
    {
+      "study_name": "nodulo_7_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22614150",
          "acr": "2",
          "bi-rads": "2",
-         "findings_notes": "nódulo + micros ",
+         "findings_notes": "nodulo + micros ",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22614150_6bd24a0a42c19ce1_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -384,10 +392,11 @@
       }
    },
    {
+      "study_name": "micro_8_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50997434",
@@ -432,10 +441,11 @@
       }
    },
    {
+      "study_name": "nodulo_9_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50997461",
@@ -480,10 +490,11 @@
       }
    },
    {
+      "study_name": "micro_10_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50997488",
@@ -528,10 +539,11 @@
       }
    },
    {
+      "study_name": "nodulo_11_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50997515",
@@ -576,16 +588,17 @@
       }
    },
    {
+      "study_name": "Nodulo_12_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200801",
          "file_name": "24055445",
          "acr": "1",
          "bi-rads": "4c",
-         "findings_notes": "Nódulo + micros",
+         "findings_notes": "Nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24055445_ac3185e18ffdc7b6_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -624,16 +637,17 @@
       }
    },
    {
+      "study_name": "Nodulo_13_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200801",
          "file_name": "24055464",
          "acr": "1",
          "bi-rads": "4c",
-         "findings_notes": "Nódulo + micros",
+         "findings_notes": "Nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24055464_ac3185e18ffdc7b6_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -672,16 +686,17 @@
       }
    },
    {
+      "study_name": "nodulo_14_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200801",
          "file_name": "24055483",
          "acr": "1",
          "bi-rads": "4c",
-         "findings_notes": "nódulo +micros",
+         "findings_notes": "nodulo +micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24055483_ac3185e18ffdc7b6_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -720,16 +735,17 @@
       }
    },
    {
+      "study_name": "Nodulo_15_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200801",
          "file_name": "24055502",
          "acr": "1",
          "bi-rads": "4c",
-         "findings_notes": "Nódulo + micros",
+         "findings_notes": "Nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24055502_ac3185e18ffdc7b6_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -768,16 +784,17 @@
       }
    },
    {
+      "study_name": "nodulo_16_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22580192",
          "acr": "2",
          "bi-rads": "3",
-         "findings_notes": "nódulo benigno",
+         "findings_notes": "nodulo benigno",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22580192_5530d5782fc89dd7_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -816,10 +833,11 @@
       }
    },
    {
+      "study_name": "normal_17_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22580218",
@@ -864,10 +882,11 @@
       }
    },
    {
+      "study_name": "nodulo_18_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22580244",
@@ -912,10 +931,11 @@
       }
    },
    {
+      "study_name": "normal_19_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22580270",
@@ -960,10 +980,11 @@
       }
    },
    {
+      "study_name": "micros_20_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50998032",
@@ -1008,10 +1029,11 @@
       }
    },
    {
+      "study_name": "micros_21_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50998059",
@@ -1056,10 +1078,11 @@
       }
    },
    {
+      "study_name": "micros_22_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50998086",
@@ -1104,10 +1127,11 @@
       }
    },
    {
+      "study_name": "micros_23_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50998113",
@@ -1152,10 +1176,11 @@
       }
    },
    {
+      "study_name": "micros_24_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50997742",
@@ -1200,10 +1225,11 @@
       }
    },
    {
+      "study_name": "micros_25_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50997769",
@@ -1248,10 +1274,11 @@
       }
    },
    {
+      "study_name": "micros_26_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50997796",
@@ -1296,10 +1323,11 @@
       }
    },
    {
+      "study_name": "micros_27_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50997823",
@@ -1344,16 +1372,17 @@
       }
    },
    {
+      "study_name": "nodulo_28_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22670620",
          "acr": "1",
          "bi-rads": "2",
-         "findings_notes": "nódulo QSE - já biopsado - fibroadenoma",
+         "findings_notes": "nodulo QSE - já biopsado - fibroadenoma",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22670620_e15a16f87b4f9782_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -1392,10 +1421,11 @@
       }
    },
    {
+      "study_name": "normal_29_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22670643",
@@ -1440,16 +1470,17 @@
       }
    },
    {
+      "study_name": "nodulo_30_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22670673",
          "acr": "1",
          "bi-rads": "2",
-         "findings_notes": "nódulo QSE - já biopsado - fibroadenoma",
+         "findings_notes": "nodulo QSE - já biopsado - fibroadenoma",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22670673_e15a16f87b4f9782_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -1488,10 +1519,11 @@
       }
    },
    {
+      "study_name": "normal_31_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22670703",
@@ -1536,10 +1568,11 @@
       }
    },
    {
+      "study_name": "normal_32_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53581379",
@@ -1584,10 +1617,11 @@
       }
    },
    {
+      "study_name": "nodulo_33_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53581406",
@@ -1632,10 +1666,11 @@
       }
    },
    {
+      "study_name": "normal_34_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53581433",
@@ -1680,10 +1715,11 @@
       }
    },
    {
+      "study_name": "nodulo_35_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53581460",
@@ -1728,10 +1764,11 @@
       }
    },
    {
+      "study_name": "micros_36_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200802",
          "file_name": "24065833",
@@ -1776,10 +1813,11 @@
       }
    },
    {
+      "study_name": "micros_37_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200802",
          "file_name": "24065860",
@@ -1824,10 +1862,11 @@
       }
    },
    {
+      "study_name": "micros_38_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200802",
          "file_name": "24065887",
@@ -1872,10 +1911,11 @@
       }
    },
    {
+      "study_name": "micros_39_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200802",
          "file_name": "24065914",
@@ -1920,10 +1960,11 @@
       }
    },
    {
+      "study_name": "micro_40_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24055877",
@@ -1968,10 +2009,11 @@
       }
    },
    {
+      "study_name": "calcificações_41_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24055904",
@@ -2016,10 +2058,11 @@
       }
    },
    {
+      "study_name": "micro_42_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24055931",
@@ -2064,10 +2107,11 @@
       }
    },
    {
+      "study_name": "calcificações_43_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24055958",
@@ -2112,10 +2156,11 @@
       }
    },
    {
+      "study_name": "micro_44_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53587427",
@@ -2160,10 +2205,11 @@
       }
    },
    {
+      "study_name": "micros_45_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53587454",
@@ -2208,10 +2254,11 @@
       }
    },
    {
+      "study_name": "micros_46_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53587481",
@@ -2256,10 +2303,11 @@
       }
    },
    {
+      "study_name": "micro_47_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53587508",
@@ -2304,10 +2352,11 @@
       }
    },
    {
+      "study_name": "micros_48_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "51049462",
@@ -2352,10 +2401,11 @@
       }
    },
    {
+      "study_name": "microcalcificações_49_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "51049489",
@@ -2400,10 +2450,11 @@
       }
    },
    {
+      "study_name": "micros_50_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "51049516",
@@ -2448,10 +2499,11 @@
       }
    },
    {
+      "study_name": "calcificações_51_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "51049543",
@@ -2496,10 +2548,11 @@
       }
    },
    {
+      "study_name": "micros_52_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "51049628",
@@ -2544,10 +2597,11 @@
       }
    },
    {
+      "study_name": "calcificações_53_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "51049655",
@@ -2592,10 +2646,11 @@
       }
    },
    {
+      "study_name": "micros_54_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "51049682",
@@ -2640,10 +2695,11 @@
       }
    },
    {
+      "study_name": "calcificações_55_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "51070197",
@@ -2688,10 +2744,11 @@
       }
    },
    {
+      "study_name": "micros_56_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53580611",
@@ -2736,10 +2793,11 @@
       }
    },
    {
+      "study_name": "microcalcificações_57_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53580638",
@@ -2784,10 +2842,11 @@
       }
    },
    {
+      "study_name": "micros_58_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53580665",
@@ -2832,10 +2891,11 @@
       }
    },
    {
+      "study_name": "microcalcificações_59_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53580692",
@@ -2880,16 +2940,17 @@
       }
    },
    {
+      "study_name": "pos-cirurgia_60_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53586960",
          "acr": "1",
          "bi-rads": "2",
-         "findings_notes": "pós-cirurgia - nódulo com regiao espiculada+ micros",
+         "findings_notes": "pos-cirurgia - nodulo com regiao espiculada+ micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\53586960_809e3f43339f93c6_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -2928,10 +2989,11 @@
       }
    },
    {
+      "study_name": "micros_61_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53586987",
@@ -2976,16 +3038,17 @@
       }
    },
    {
+      "study_name": "pos-cirurgia_62_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53587014",
          "acr": "1",
          "bi-rads": "2",
-         "findings_notes": "pós-cirurgia - nódulo com regiao espiculada+ micros",
+         "findings_notes": "pos-cirurgia - nodulo com regiao espiculada+ micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\53587014_809e3f43339f93c6_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -3024,10 +3087,11 @@
       }
    },
    {
+      "study_name": "micros_63_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53587041",
@@ -3072,10 +3136,11 @@
       }
    },
    {
+      "study_name": "micros_64_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "51048891",
@@ -3120,10 +3185,11 @@
       }
    },
    {
+      "study_name": "micros_65_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "51048918",
@@ -3168,10 +3234,11 @@
       }
    },
    {
+      "study_name": "micros_66_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "51048945",
@@ -3216,10 +3283,11 @@
       }
    },
    {
+      "study_name": "micros_67_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "51048972",
@@ -3264,10 +3332,11 @@
       }
    },
    {
+      "study_name": "micros_68_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "20588458",
@@ -3312,10 +3381,11 @@
       }
    },
    {
+      "study_name": "2_69_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "20588510",
@@ -3360,10 +3430,11 @@
       }
    },
    {
+      "study_name": "nodulo_70_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "20588536",
@@ -3408,10 +3479,11 @@
       }
    },
    {
+      "study_name": "nodulo_71_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "20588562",
@@ -3456,16 +3528,17 @@
       }
    },
    {
+      "study_name": "nodulo_72_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22670809",
          "acr": "1",
          "bi-rads": "4a",
-         "findings_notes": "nódulo +  micros",
+         "findings_notes": "nodulo +  micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22670809_0b7396cdccacca82_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -3504,10 +3577,11 @@
       }
    },
    {
+      "study_name": "micros_73_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22670832",
@@ -3552,16 +3626,17 @@
       }
    },
    {
+      "study_name": "nodulo_74_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22670855",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "nódulo +  duas calcificações",
+         "findings_notes": "nodulo +  duas calcificações",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22670855_0b7396cdccacca82_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -3600,10 +3675,11 @@
       }
    },
    {
+      "study_name": "micros_75_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22670878",
@@ -3648,10 +3724,11 @@
       }
    },
    {
+      "study_name": "microcalcificações_76_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200802",
          "file_name": "22678953",
@@ -3696,10 +3773,11 @@
       }
    },
    {
+      "study_name": "micros_77_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200802",
          "file_name": "22678980",
@@ -3744,10 +3822,11 @@
       }
    },
    {
+      "study_name": "microcalcificações_78_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200802",
          "file_name": "22679008",
@@ -3792,10 +3871,11 @@
       }
    },
    {
+      "study_name": "micros_79_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200802",
          "file_name": "22679036",
@@ -3840,10 +3920,11 @@
       }
    },
    {
+      "study_name": "micros_80_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50998413",
@@ -3888,10 +3969,11 @@
       }
    },
    {
+      "study_name": "micros_81_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50998440",
@@ -3936,10 +4018,11 @@
       }
    },
    {
+      "study_name": "micros_82_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50998467",
@@ -3984,10 +4067,11 @@
       }
    },
    {
+      "study_name": "micros_83_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50998494",
@@ -4032,10 +4116,11 @@
       }
    },
    {
+      "study_name": "micros_84_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20587294",
@@ -4080,10 +4165,11 @@
       }
    },
    {
+      "study_name": "micros_85_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20587320",
@@ -4128,10 +4214,11 @@
       }
    },
    {
+      "study_name": "micros_86_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20587346",
@@ -4176,10 +4263,11 @@
       }
    },
    {
+      "study_name": "micros_87_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20587372",
@@ -4224,10 +4312,11 @@
       }
    },
    {
+      "study_name": "micros_88_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20587466",
@@ -4272,10 +4361,11 @@
       }
    },
    {
+      "study_name": "micros_89_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20587492",
@@ -4320,10 +4410,11 @@
       }
    },
    {
+      "study_name": "micros_90_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20587518",
@@ -4368,10 +4459,11 @@
       }
    },
    {
+      "study_name": "micros_91_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20587544",
@@ -4416,10 +4508,11 @@
       }
    },
    {
+      "study_name": "micros_92_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50996201",
@@ -4464,10 +4557,11 @@
       }
    },
    {
+      "study_name": "micros_93_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50996228",
@@ -4512,10 +4606,11 @@
       }
    },
    {
+      "study_name": "calcificações_94_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50993787",
@@ -4560,10 +4655,11 @@
       }
    },
    {
+      "study_name": "calcificações_95_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50993814",
@@ -4608,10 +4704,11 @@
       }
    },
    {
+      "study_name": "calcificações_96_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50993841",
@@ -4656,10 +4753,11 @@
       }
    },
    {
+      "study_name": "calcificações_97_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50993868",
@@ -4704,10 +4802,11 @@
       }
    },
    {
+      "study_name": "calcificações_98_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200802",
          "file_name": "50993895",
@@ -4752,10 +4851,11 @@
       }
    },
    {
+      "study_name": "calcificações_99_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200802",
          "file_name": "50993922",
@@ -4800,10 +4900,11 @@
       }
    },
    {
+      "study_name": "calcificações_100_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200802",
          "file_name": "50993949",
@@ -4848,10 +4949,11 @@
       }
    },
    {
+      "study_name": "calcificações_101_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200802",
          "file_name": "50993976",
@@ -4896,10 +4998,11 @@
       }
    },
    {
+      "study_name": "micros_102_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "22614353",
@@ -4944,16 +5047,17 @@
       }
    },
    {
+      "study_name": "nodulo_103_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "22614379",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "nódulo + micro",
+         "findings_notes": "nodulo + micro",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22614379_d065adcb9905b973_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -4992,10 +5096,11 @@
       }
    },
    {
+      "study_name": "micros_104_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "22614405",
@@ -5040,16 +5145,17 @@
       }
    },
    {
+      "study_name": "nodulo_105_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "22614431",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "nódulo + micro",
+         "findings_notes": "nodulo + micro",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22614431_d065adcb9905b973_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -5088,10 +5194,11 @@
       }
    },
    {
+      "study_name": "calcificações_106_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53587572",
@@ -5136,10 +5243,11 @@
       }
    },
    {
+      "study_name": "calcificações_107_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53587599",
@@ -5184,10 +5292,11 @@
       }
    },
    {
+      "study_name": "micros_108_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50996800",
@@ -5232,10 +5341,11 @@
       }
    },
    {
+      "study_name": "micros_109_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50996827",
@@ -5280,10 +5390,11 @@
       }
    },
    {
+      "study_name": "micros_110_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50996854",
@@ -5328,10 +5439,11 @@
       }
    },
    {
+      "study_name": "micros_111_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50996881",
@@ -5376,10 +5488,11 @@
       }
    },
    {
+      "study_name": "micros_112_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50993399",
@@ -5424,10 +5537,11 @@
       }
    },
    {
+      "study_name": "micros_113_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50993426",
@@ -5472,16 +5586,17 @@
       }
    },
    {
+      "study_name": "nodulo;micros_114_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "27829134",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "nódulo;micros",
+         "findings_notes": "nodulo;micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\27829134_fbb55bf7fff48540_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -5520,10 +5635,11 @@
       }
    },
    {
+      "study_name": "normal_115_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "27829161",
@@ -5568,16 +5684,17 @@
       }
    },
    {
+      "study_name": "nodulo;micros_116_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "27829188",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "nódulo;micros",
+         "findings_notes": "nodulo;micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\27829188_fbb55bf7fff48540_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -5616,10 +5733,11 @@
       }
    },
    {
+      "study_name": "normal_117_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "27829215",
@@ -5664,10 +5782,11 @@
       }
    },
    {
+      "study_name": "micros_118_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50997223",
@@ -5712,10 +5831,11 @@
       }
    },
    {
+      "study_name": "micros_119_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50997250",
@@ -5760,10 +5880,11 @@
       }
    },
    {
+      "study_name": "micros_120_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50997277",
@@ -5808,10 +5929,11 @@
       }
    },
    {
+      "study_name": "micros_121_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50997304",
@@ -5856,10 +5978,11 @@
       }
    },
    {
+      "study_name": "normal_122_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22670442",
@@ -5904,16 +6027,17 @@
       }
    },
    {
+      "study_name": "nodulo_123_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22670465",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + micros - QSE; densidade + micros - quadrantes internos; Cluster",
+         "findings_notes": "nodulo + micros - QSE; densidade + micros - quadrantes internos; Cluster",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22670465_7e677f3d530e41ed_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -5952,10 +6076,11 @@
       }
    },
    {
+      "study_name": "normal_124_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22670488",
@@ -6000,16 +6125,17 @@
       }
    },
    {
+      "study_name": "nodulo_125_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22670511",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + micros - QSE; densidade + micros - quadrantes internos; Cluster",
+         "findings_notes": "nodulo + micros - QSE; densidade + micros - quadrantes internos; Cluster",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22670511_7e677f3d530e41ed_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -6048,10 +6174,11 @@
       }
    },
    {
+      "study_name": "normal_126_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53581769",
@@ -6096,10 +6223,11 @@
       }
    },
    {
+      "study_name": "normal_127_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53581796",
@@ -6144,16 +6272,17 @@
       }
    },
    {
+      "study_name": "nodulo_128_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24065530",
          "acr": "4",
          "bi-rads": "4c",
-         "findings_notes": "nódulo",
+         "findings_notes": "nodulo",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24065530_d8205a09c8173f44_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -6192,10 +6321,11 @@
       }
    },
    {
+      "study_name": "micros_129_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24065557",
@@ -6240,16 +6370,17 @@
       }
    },
    {
+      "study_name": "nodulo_130_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24065584",
          "acr": "4",
          "bi-rads": "4c",
-         "findings_notes": "nódulo",
+         "findings_notes": "nodulo",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24065584_d8205a09c8173f44_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -6288,10 +6419,11 @@
       }
    },
    {
+      "study_name": "micros_131_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24065611",
@@ -6336,10 +6468,11 @@
       }
    },
    {
+      "study_name": "micros_132_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53587104",
@@ -6384,10 +6517,11 @@
       }
    },
    {
+      "study_name": "micros_133_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53587131",
@@ -6432,10 +6566,11 @@
       }
    },
    {
+      "study_name": "micros_134_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "30011484",
@@ -6480,16 +6615,17 @@
       }
    },
    {
+      "study_name": "Nodulo_135_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "30011507",
          "acr": "1",
          "bi-rads": "4c",
-         "findings_notes": "Nódulo QSI + micros",
+         "findings_notes": "Nodulo QSI + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\30011507_349323117bf0fd93_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -6528,10 +6664,11 @@
       }
    },
    {
+      "study_name": "micros_136_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "30011530",
@@ -6576,16 +6713,17 @@
       }
    },
    {
+      "study_name": "Nodulo_137_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "30011553",
          "acr": "1",
          "bi-rads": "4c",
-         "findings_notes": "Nódulo QSI + micros",
+         "findings_notes": "Nodulo QSI + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\30011553_349323117bf0fd93_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -6624,10 +6762,11 @@
       }
    },
    {
+      "study_name": "micros_138_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24055573",
@@ -6672,10 +6811,11 @@
       }
    },
    {
+      "study_name": "distorção_139_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24055600",
@@ -6720,10 +6860,11 @@
       }
    },
    {
+      "study_name": "micros_140_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24055627",
@@ -6768,10 +6909,11 @@
       }
    },
    {
+      "study_name": "distorção_141_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24055654",
@@ -6816,10 +6958,11 @@
       }
    },
    {
+      "study_name": "micros_142_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200802",
          "file_name": "24065680",
@@ -6864,16 +7007,17 @@
       }
    },
    {
+      "study_name": "nodulo_143_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200802",
          "file_name": "24065707",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "nódulo QSE + micros",
+         "findings_notes": "nodulo QSE + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24065707_5291e1aee2bbf5df_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -6912,10 +7056,11 @@
       }
    },
    {
+      "study_name": "micros_144_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200802",
          "file_name": "24065734",
@@ -6960,16 +7105,17 @@
       }
    },
    {
+      "study_name": "nodulo_145_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200802",
          "file_name": "24065761",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "nódulo QSE + micros",
+         "findings_notes": "nodulo QSE + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24065761_5291e1aee2bbf5df_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -7008,10 +7154,11 @@
       }
    },
    {
+      "study_name": "nodulo_146_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "50999432",
@@ -7056,10 +7203,11 @@
       }
    },
    {
+      "study_name": "nodulo_147_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "50999459",
@@ -7104,10 +7252,11 @@
       }
    },
    {
+      "study_name": "fibroadenoma_148_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "51048738",
@@ -7152,10 +7301,11 @@
       }
    },
    {
+      "study_name": "fibroadenoma_149_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "51048765",
@@ -7200,10 +7350,11 @@
       }
    },
    {
+      "study_name": "calcificações_150_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50998177",
@@ -7248,10 +7399,11 @@
       }
    },
    {
+      "study_name": "micros_151_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50998204",
@@ -7296,10 +7448,11 @@
       }
    },
    {
+      "study_name": "2_152_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50998231",
@@ -7344,10 +7497,11 @@
       }
    },
    {
+      "study_name": "micros_153_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50998258",
@@ -7392,10 +7546,11 @@
       }
    },
    {
+      "study_name": "nodulo_154_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20588308",
@@ -7440,10 +7595,11 @@
       }
    },
    {
+      "study_name": "nodulo_155_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20588334",
@@ -7488,16 +7644,17 @@
       }
    },
    {
+      "study_name": "nodulo_156_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22678787",
          "acr": "3",
          "bi-rads": "2",
-         "findings_notes": "nódulo + micros",
+         "findings_notes": "nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22678787_64a22c47765f0c5c_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -7536,10 +7693,11 @@
       }
    },
    {
+      "study_name": "micros_157_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22678810",
@@ -7584,16 +7742,17 @@
       }
    },
    {
+      "study_name": "nodulo_158_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22678833",
          "acr": "3",
          "bi-rads": "2",
-         "findings_notes": "nódulo + micros",
+         "findings_notes": "nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22678833_64a22c47765f0c5c_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -7632,10 +7791,11 @@
       }
    },
    {
+      "study_name": "micros_159_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22678856",
@@ -7680,16 +7840,17 @@
       }
    },
    {
+      "study_name": "macrocistos_160_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "22580341",
          "acr": "3",
          "bi-rads": "2",
-         "findings_notes": "macrocistos – nódulos + Micros",
+         "findings_notes": "macrocistos – nodulos + Micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22580341_5eae9beae14d26fd_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -7728,16 +7889,17 @@
       }
    },
    {
+      "study_name": "macrocistos_161_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "22580367",
          "acr": "3",
          "bi-rads": "2",
-         "findings_notes": "macrocistos - nódulos",
+         "findings_notes": "macrocistos - nodulos",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22580367_5eae9beae14d26fd_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -7776,16 +7938,17 @@
       }
    },
    {
+      "study_name": "macrocistos_162_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "22580393",
          "acr": "3",
          "bi-rads": "2",
-         "findings_notes": "macrocistos – nódulos + Micros",
+         "findings_notes": "macrocistos – nodulos + Micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22580393_5eae9beae14d26fd_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -7824,16 +7987,17 @@
       }
    },
    {
+      "study_name": "macrocistos_163_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "22580419",
          "acr": "3",
          "bi-rads": "2",
-         "findings_notes": "macrocistos - nódulos",
+         "findings_notes": "macrocistos - nodulos",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22580419_5eae9beae14d26fd_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -7872,10 +8036,11 @@
       }
    },
    {
+      "study_name": "micros;Cluster_164_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24055149",
@@ -7920,10 +8085,11 @@
       }
    },
    {
+      "study_name": "micros_165_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24055176",
@@ -7968,10 +8134,11 @@
       }
    },
    {
+      "study_name": "micros;Cluster_166_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24055203",
@@ -8016,16 +8183,17 @@
       }
    },
    {
+      "study_name": "nodulo_167_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20587994",
          "acr": "3",
          "bi-rads": "6",
-         "findings_notes": "nódulo + uma micro;Spiculated Region",
+         "findings_notes": "nodulo + uma micro;Spiculated Region",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\20587994_024ee3569b2605dc_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -8064,10 +8232,11 @@
       }
    },
    {
+      "study_name": "micros_168_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20588020",
@@ -8112,16 +8281,17 @@
       }
    },
    {
+      "study_name": "Nodulo_169_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20588046",
          "acr": "3",
          "bi-rads": "6",
-         "findings_notes": "Nódulo + uma micro; spiculated region",
+         "findings_notes": "Nodulo + uma micro; spiculated region",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\20588046_024ee3569b2605dc_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -8160,10 +8330,11 @@
       }
    },
    {
+      "study_name": "micros_170_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20588072",
@@ -8208,10 +8379,11 @@
       }
    },
    {
+      "study_name": "micros_171_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "26933772",
@@ -8256,10 +8428,11 @@
       }
    },
    {
+      "study_name": "micros;Cluster_172_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "26933801",
@@ -8304,10 +8477,11 @@
       }
    },
    {
+      "study_name": "micros_173_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "26933830",
@@ -8352,10 +8526,11 @@
       }
    },
    {
+      "study_name": "micros;Cluster_174_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "26933859",
@@ -8400,10 +8575,11 @@
       }
    },
    {
+      "study_name": "nodulo_175_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "50995762",
@@ -8448,10 +8624,11 @@
       }
    },
    {
+      "study_name": "nodulo_176_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "50995789",
@@ -8496,16 +8673,17 @@
       }
    },
    {
+      "study_name": "nodulo_177_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22670278",
          "acr": "1",
          "bi-rads": "4c",
-         "findings_notes": "nódulo QSE",
+         "findings_notes": "nodulo QSE",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22670278_98429c0bdf78c0c7_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -8544,10 +8722,11 @@
       }
    },
    {
+      "study_name": "micros_178_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22670301",
@@ -8592,16 +8771,17 @@
       }
    },
    {
+      "study_name": "nodulo_179_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22670324",
          "acr": "1",
          "bi-rads": "4c",
-         "findings_notes": "nódulo QSE",
+         "findings_notes": "nodulo QSE",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22670324_98429c0bdf78c0c7_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -8640,10 +8820,11 @@
       }
    },
    {
+      "study_name": "1_180_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22670347",
@@ -8688,10 +8869,11 @@
       }
    },
    {
+      "study_name": "normal_181_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53582540",
@@ -8736,10 +8918,11 @@
       }
    },
    {
+      "study_name": "normal_182_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53582567",
@@ -8784,10 +8967,11 @@
       }
    },
    {
+      "study_name": "micros_183_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22427682",
@@ -8832,16 +9016,17 @@
       }
    },
    {
+      "study_name": "nodulo_184_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22427705",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + micros",
+         "findings_notes": "nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22427705_d713ef5849f98b6c_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -8880,10 +9065,11 @@
       }
    },
    {
+      "study_name": "micros_185_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22427728",
@@ -8928,16 +9114,17 @@
       }
    },
    {
+      "study_name": "nodulo_186_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22427751",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + micros",
+         "findings_notes": "nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22427751_d713ef5849f98b6c_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -8976,10 +9163,11 @@
       }
    },
    {
+      "study_name": "tres_187_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22613624",
@@ -9024,16 +9212,17 @@
       }
    },
    {
+      "study_name": "nodulo_188_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22613650",
          "acr": "2",
          "bi-rads": "6",
-         "findings_notes": "nódulo + micros",
+         "findings_notes": "nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22613650_dcafa6ba6374ec07_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -9072,10 +9261,11 @@
       }
    },
    {
+      "study_name": "duas_189_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22613676",
@@ -9120,16 +9310,17 @@
       }
    },
    {
+      "study_name": "nodulo_190_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22613702",
          "acr": "2",
          "bi-rads": "6",
-         "findings_notes": "nódulo + micros",
+         "findings_notes": "nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22613702_dcafa6ba6374ec07_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -9168,16 +9359,17 @@
       }
    },
    {
+      "study_name": "nodulo_191_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24055274",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo mama + micros;Spiculated Region",
+         "findings_notes": "nodulo mama + micros;Spiculated Region",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24055274_1e10aef17c9fe149_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -9216,10 +9408,11 @@
       }
    },
    {
+      "study_name": "micros_192_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24055328",
@@ -9264,16 +9457,17 @@
       }
    },
    {
+      "study_name": "nodulo_193_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24055355",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo mama + micros;Spiculated Region",
+         "findings_notes": "nodulo mama + micros;Spiculated Region",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24055355_1e10aef17c9fe149_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -9312,10 +9506,11 @@
       }
    },
    {
+      "study_name": "micros_194_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24055382",
@@ -9360,10 +9555,11 @@
       }
    },
    {
+      "study_name": "normal_195_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53586361",
@@ -9408,10 +9604,11 @@
       }
    },
    {
+      "study_name": "normal_196_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53586388",
@@ -9456,10 +9653,11 @@
       }
    },
    {
+      "study_name": "normal_197_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53586415",
@@ -9504,10 +9702,11 @@
       }
    },
    {
+      "study_name": "normal_198_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53586442",
@@ -9552,10 +9751,11 @@
       }
    },
    {
+      "study_name": "micros_199_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "30011647",
@@ -9600,16 +9800,17 @@
       }
    },
    {
+      "study_name": "Nodulo_200_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "30011674",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "Nódulo + micros",
+         "findings_notes": "Nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\30011674_6968748e66837bc7_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -9648,10 +9849,11 @@
       }
    },
    {
+      "study_name": "micros_201_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "30011700",
@@ -9696,16 +9898,17 @@
       }
    },
    {
+      "study_name": "Nodulo_202_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "30011727",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "Nódulo +micros",
+         "findings_notes": "Nodulo +micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\30011727_6968748e66837bc7_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -9744,10 +9947,11 @@
       }
    },
    {
+      "study_name": "normal_203_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53581860",
@@ -9792,10 +9996,11 @@
       }
    },
    {
+      "study_name": "micro_204_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53581887",
@@ -9840,10 +10045,11 @@
       }
    },
    {
+      "study_name": "normal_205_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53581914",
@@ -9888,10 +10094,11 @@
       }
    },
    {
+      "study_name": "micro_206_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53581941",
@@ -9936,10 +10143,11 @@
       }
    },
    {
+      "study_name": "normal_207_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20588138",
@@ -9984,10 +10192,11 @@
       }
    },
    {
+      "study_name": "normal_208_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20588164",
@@ -10032,10 +10241,11 @@
       }
    },
    {
+      "study_name": "nodulo_209_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20588190",
@@ -10080,10 +10290,11 @@
       }
    },
    {
+      "study_name": "nodulo_210_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20588216",
@@ -10128,10 +10339,11 @@
       }
    },
    {
+      "study_name": "microS_211_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50996945",
@@ -10176,10 +10388,11 @@
       }
    },
    {
+      "study_name": "follow_212_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50996972",
@@ -10224,10 +10437,11 @@
       }
    },
    {
+      "study_name": "micros_213_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50996999",
@@ -10272,10 +10486,11 @@
       }
    },
    {
+      "study_name": "follow_214_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50997026",
@@ -10320,10 +10535,11 @@
       }
    },
    {
+      "study_name": "normal_215_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "50997053",
@@ -10368,10 +10584,11 @@
       }
    },
    {
+      "study_name": "normal_216_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "50997080",
@@ -10416,10 +10633,11 @@
       }
    },
    {
+      "study_name": "micros_217_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "50997107",
@@ -10464,10 +10682,11 @@
       }
    },
    {
+      "study_name": "micros_218_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "50997134",
@@ -10512,16 +10731,17 @@
       }
    },
    {
+      "study_name": "nodulo_219_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20587758",
          "acr": "3",
          "bi-rads": "3",
-         "findings_notes": "nódulo QSE",
+         "findings_notes": "nodulo QSE",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\20587758_81cd83d2f4d78528_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -10560,10 +10780,11 @@
       }
    },
    {
+      "study_name": "Duas_220_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20587784",
@@ -10608,16 +10829,17 @@
       }
    },
    {
+      "study_name": "nodulo_221_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20587810",
          "acr": "3",
          "bi-rads": "3",
-         "findings_notes": "nódulo QSE ",
+         "findings_notes": "nodulo QSE ",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\20587810_81cd83d2f4d78528_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -10656,10 +10878,11 @@
       }
    },
    {
+      "study_name": "micro_222_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20587836",
@@ -10704,10 +10927,11 @@
       }
    },
    {
+      "study_name": "micros_223_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50996056",
@@ -10752,10 +10976,11 @@
       }
    },
    {
+      "study_name": "micros_224_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50996083",
@@ -10800,10 +11025,11 @@
       }
    },
    {
+      "study_name": "micros_225_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50996110",
@@ -10848,10 +11074,11 @@
       }
    },
    {
+      "study_name": "micros_226_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50996137",
@@ -10896,10 +11123,11 @@
       }
    },
    {
+      "study_name": "normal_227_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53582395",
@@ -10944,10 +11172,11 @@
       }
    },
    {
+      "study_name": "micro_228_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53582422",
@@ -10992,10 +11221,11 @@
       }
    },
    {
+      "study_name": "normal_229_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53582449",
@@ -11040,10 +11270,11 @@
       }
    },
    {
+      "study_name": "micro_230_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53582476",
@@ -11088,10 +11319,11 @@
       }
    },
    {
+      "study_name": "micros_231_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "50999094",
@@ -11136,10 +11368,11 @@
       }
    },
    {
+      "study_name": "normal_232_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "50999121",
@@ -11184,10 +11417,11 @@
       }
    },
    {
+      "study_name": "micros_233_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "50999148",
@@ -11232,10 +11466,11 @@
       }
    },
    {
+      "study_name": "normal_234_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "50999175",
@@ -11280,10 +11515,11 @@
       }
    },
    {
+      "study_name": "micros_235_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "50999246",
@@ -11328,10 +11564,11 @@
       }
    },
    {
+      "study_name": "normal_236_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "50999273",
@@ -11376,10 +11613,11 @@
       }
    },
    {
+      "study_name": "micros_237_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "50999300",
@@ -11424,10 +11662,11 @@
       }
    },
    {
+      "study_name": "normal_238_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "50999327",
@@ -11472,10 +11711,11 @@
       }
    },
    {
+      "study_name": "micros_239_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50994535",
@@ -11520,10 +11760,11 @@
       }
    },
    {
+      "study_name": "micros_240_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50994562",
@@ -11568,10 +11809,11 @@
       }
    },
    {
+      "study_name": "micros_241_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "50994589",
@@ -11616,10 +11858,11 @@
       }
    },
    {
+      "study_name": "micros_242_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "50994616",
@@ -11664,16 +11907,17 @@
       }
    },
    {
+      "study_name": "nodulo_243_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22427840",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + micros",
+         "findings_notes": "nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22427840_bbd6a3a35438c11b_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -11712,10 +11956,11 @@
       }
    },
    {
+      "study_name": "micro_244_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22427864",
@@ -11760,16 +12005,17 @@
       }
    },
    {
+      "study_name": "2_245_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22579730",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "2 nódulos + micros",
+         "findings_notes": "2 nodulos + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22579730_bbd6a3a35438c11b_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -11808,10 +12054,11 @@
       }
    },
    {
+      "study_name": "micros_246_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22579754",
@@ -11856,10 +12103,11 @@
       }
    },
    {
+      "study_name": "follow-up_247_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "30011798",
@@ -11904,10 +12152,11 @@
       }
    },
    {
+      "study_name": "micros;Cluster_248_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "30011824",
@@ -11952,10 +12201,11 @@
       }
    },
    {
+      "study_name": "follow_249_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "30011850",
@@ -12000,10 +12250,11 @@
       }
    },
    {
+      "study_name": "micros;Cluster_250_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "30318067",
@@ -12048,10 +12299,11 @@
       }
    },
    {
+      "study_name": "micros_251_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50996709",
@@ -12096,10 +12348,11 @@
       }
    },
    {
+      "study_name": "micros_252_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50996736",
@@ -12144,10 +12397,11 @@
       }
    },
    {
+      "study_name": "opacidade_253_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "51049053",
@@ -12192,10 +12446,11 @@
       }
    },
    {
+      "study_name": "micros_254_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "51049080",
@@ -12240,10 +12495,11 @@
       }
    },
    {
+      "study_name": "3_255_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "51049107",
@@ -12288,10 +12544,11 @@
       }
    },
    {
+      "study_name": "micros_256_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "51049134",
@@ -12336,16 +12593,17 @@
       }
    },
    {
+      "study_name": "nodulo_257_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22614236",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + micros",
+         "findings_notes": "nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22614236_1e5c3af078f74b05_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -12384,16 +12642,17 @@
       }
    },
    {
+      "study_name": "nodulo_258_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22614266",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + micros",
+         "findings_notes": "nodulo + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22614266_1e5c3af078f74b05_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -12432,10 +12691,11 @@
       }
    },
    {
+      "study_name": "normal_259_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50994706",
@@ -12480,10 +12740,11 @@
       }
    },
    {
+      "study_name": "normal_260_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50994733",
@@ -12528,10 +12789,11 @@
       }
    },
    {
+      "study_name": "normal_261_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50994760",
@@ -12576,10 +12838,11 @@
       }
    },
    {
+      "study_name": "normal_262_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50994787",
@@ -12624,10 +12887,11 @@
       }
    },
    {
+      "study_name": "normal_263_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "50994814",
@@ -12672,10 +12936,11 @@
       }
    },
    {
+      "study_name": "micros_264_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "50994841",
@@ -12720,10 +12985,11 @@
       }
    },
    {
+      "study_name": "normal_265_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "50994868",
@@ -12768,10 +13034,11 @@
       }
    },
    {
+      "study_name": "micros_266_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "50994895",
@@ -12816,10 +13083,11 @@
       }
    },
    {
+      "study_name": "micros_267_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53586724",
@@ -12864,10 +13132,11 @@
       }
    },
    {
+      "study_name": "micros_268_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53586751",
@@ -12912,10 +13181,11 @@
       }
    },
    {
+      "study_name": "micros_269_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53586778",
@@ -12960,10 +13230,11 @@
       }
    },
    {
+      "study_name": "micros_270_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53586805",
@@ -13008,10 +13279,11 @@
       }
    },
    {
+      "study_name": "micros_271_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22614499",
@@ -13056,16 +13328,17 @@
       }
    },
    {
+      "study_name": "nodulo_272_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22614522",
          "acr": "3",
          "bi-rads": "4a",
-         "findings_notes": "nódulo QSE + micros",
+         "findings_notes": "nodulo QSE + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22614522_2dec4948fbe6336d_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -13104,10 +13377,11 @@
       }
    },
    {
+      "study_name": "micros_273_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22614545",
@@ -13152,16 +13426,17 @@
       }
    },
    {
+      "study_name": "nodulo_274_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22614568",
          "acr": "3",
          "bi-rads": "4a",
-         "findings_notes": "nódulo QSE + micros",
+         "findings_notes": "nodulo QSE + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22614568_2dec4948fbe6336d_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -13200,10 +13475,11 @@
       }
    },
    {
+      "study_name": "micros_275_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "51049249",
@@ -13248,10 +13524,11 @@
       }
    },
    {
+      "study_name": "micros_276_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "51049276",
@@ -13296,10 +13573,11 @@
       }
    },
    {
+      "study_name": "densidade_277_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "24058660",
@@ -13344,10 +13622,11 @@
       }
    },
    {
+      "study_name": "densidade_278_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "24058686",
@@ -13392,10 +13671,11 @@
       }
    },
    {
+      "study_name": "densidade_279_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "24058712",
@@ -13440,10 +13720,11 @@
       }
    },
    {
+      "study_name": "densidade_280_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "24058738",
@@ -13488,10 +13769,11 @@
       }
    },
    {
+      "study_name": "micros_281_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22613918",
@@ -13536,10 +13818,11 @@
       }
    },
    {
+      "study_name": "normal_282_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22613944",
@@ -13584,10 +13867,11 @@
       }
    },
    {
+      "study_name": "micros_283_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22613970",
@@ -13632,10 +13916,11 @@
       }
    },
    {
+      "study_name": "normal_284_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22613996",
@@ -13680,16 +13965,17 @@
       }
    },
    {
+      "study_name": "nodulo_285_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53580804",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo QIE + micros",
+         "findings_notes": "nodulo QIE + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\53580804_51bec6477a7898b9_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -13728,10 +14014,11 @@
       }
    },
    {
+      "study_name": "micros_286_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53580831",
@@ -13776,16 +14063,17 @@
       }
    },
    {
+      "study_name": "nodulo_287_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53580858",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo QIE + micros",
+         "findings_notes": "nodulo QIE + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\53580858_51bec6477a7898b9_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -13824,10 +14112,11 @@
       }
    },
    {
+      "study_name": "micros_288_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53580885",
@@ -13872,16 +14161,17 @@
       }
    },
    {
+      "study_name": "nodulo_289_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20587612",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "nódulo direita + micros",
+         "findings_notes": "nodulo direita + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\20587612_f4b2d377f43ba0bd_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -13920,10 +14210,11 @@
       }
    },
    {
+      "study_name": "micros_290_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20587638",
@@ -13968,16 +14259,17 @@
       }
    },
    {
+      "study_name": "nodulo_291_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20587664",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "nódulo direita + micros",
+         "findings_notes": "nodulo direita + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\20587664_f4b2d377f43ba0bd_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -14016,10 +14308,11 @@
       }
    },
    {
+      "study_name": "micros_292_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20587690",
@@ -14064,10 +14357,11 @@
       }
    },
    {
+      "study_name": "densidade_293_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24065380",
@@ -14112,10 +14406,11 @@
       }
    },
    {
+      "study_name": "densidade_294_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24065407",
@@ -14160,10 +14455,11 @@
       }
    },
    {
+      "study_name": "densidade_295_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24065434",
@@ -14208,10 +14504,11 @@
       }
    },
    {
+      "study_name": "densidade_296_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24065461",
@@ -14256,10 +14553,11 @@
       }
    },
    {
+      "study_name": "normal_297_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53581237",
@@ -14304,10 +14602,11 @@
       }
    },
    {
+      "study_name": "normal_298_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53581264",
@@ -14352,16 +14651,17 @@
       }
    },
    {
+      "study_name": "nodulo_299_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22670094",
          "acr": "1",
          "bi-rads": "6",
-         "findings_notes": "nódulo (pós QT)+ micro1",
+         "findings_notes": "nodulo (pos QT)+ micro1",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22670094_e1f51192f7bf3f5f_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -14400,10 +14700,11 @@
       }
    },
    {
+      "study_name": "micros_300_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22670124",
@@ -14448,16 +14749,17 @@
       }
    },
    {
+      "study_name": "nodulo(_301_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22670147",
          "acr": "1",
          "bi-rads": "6",
-         "findings_notes": "nódulo( pós QT) + 1micro",
+         "findings_notes": "nodulo( pos QT) + 1micro",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22670147_e1f51192f7bf3f5f_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -14496,10 +14798,11 @@
       }
    },
    {
+      "study_name": "micros_302_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22670177",
@@ -14544,10 +14847,11 @@
       }
    },
    {
+      "study_name": "micros_303_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50993616",
@@ -14592,10 +14896,11 @@
       }
    },
    {
+      "study_name": "micros_304_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50993643",
@@ -14640,10 +14945,11 @@
       }
    },
    {
+      "study_name": "micros_305_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200802",
          "file_name": "50993670",
@@ -14688,10 +14994,11 @@
       }
    },
    {
+      "study_name": "micros_306_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200802",
          "file_name": "50993697",
@@ -14736,10 +15043,11 @@
       }
    },
    {
+      "study_name": "calcificações_307_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "20587148",
@@ -14784,10 +15092,11 @@
       }
    },
    {
+      "study_name": "follow_308_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "20587174",
@@ -14832,10 +15141,11 @@
       }
    },
    {
+      "study_name": "calcificações_309_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "20587200",
@@ -14880,10 +15190,11 @@
       }
    },
    {
+      "study_name": "follow_310_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "20587226",
@@ -14928,10 +15239,11 @@
       }
    },
    {
+      "study_name": "densidade_311_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "22580492",
@@ -14976,10 +15288,11 @@
       }
    },
    {
+      "study_name": "densidade_312_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "22580520",
@@ -15024,10 +15337,11 @@
       }
    },
    {
+      "study_name": "densidade_313_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "22580548",
@@ -15072,10 +15386,11 @@
       }
    },
    {
+      "study_name": "densidade_314_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "22580576",
@@ -15120,10 +15435,11 @@
       }
    },
    {
+      "study_name": "micros_315_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22579847",
@@ -15168,10 +15484,11 @@
       }
    },
    {
+      "study_name": "micros_316_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22579870",
@@ -15216,10 +15533,11 @@
       }
    },
    {
+      "study_name": "micros_317_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22579893",
@@ -15264,10 +15582,11 @@
       }
    },
    {
+      "study_name": "micros_318_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22579916",
@@ -15312,10 +15631,11 @@
       }
    },
    {
+      "study_name": "massa_319_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53582656",
@@ -15360,10 +15680,11 @@
       }
    },
    {
+      "study_name": "massa_320_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53582683",
@@ -15408,10 +15729,11 @@
       }
    },
    {
+      "study_name": "calcificações_321_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "53582710",
@@ -15456,10 +15778,11 @@
       }
    },
    {
+      "study_name": "calcificações_322_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "53582737",
@@ -15504,10 +15827,11 @@
       }
    },
    {
+      "study_name": "calcificações_323_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "53582764",
@@ -15552,10 +15876,11 @@
       }
    },
    {
+      "study_name": "calcificações_324_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "53582791",
@@ -15600,10 +15925,11 @@
       }
    },
    {
+      "study_name": "calcificações_325_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "53582818",
@@ -15648,10 +15974,11 @@
       }
    },
    {
+      "study_name": "micros_326_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22670978",
@@ -15696,10 +16023,11 @@
       }
    },
    {
+      "study_name": "micros_327_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22671003",
@@ -15744,10 +16072,11 @@
       }
    },
    {
+      "study_name": "normal_328_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53582304",
@@ -15792,10 +16121,11 @@
       }
    },
    {
+      "study_name": "normal_329_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53582331",
@@ -15840,10 +16170,11 @@
       }
    },
    {
+      "study_name": "nodulo_330_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20586908",
@@ -15888,10 +16219,11 @@
       }
    },
    {
+      "study_name": "nodulo_331_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20586934",
@@ -15936,10 +16268,11 @@
       }
    },
    {
+      "study_name": "nodulo_332_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20586986",
@@ -15984,10 +16317,11 @@
       }
    },
    {
+      "study_name": "2nodulos_333_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20586960",
@@ -16032,10 +16366,11 @@
       }
    },
    {
+      "study_name": "cc_334_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53587663",
@@ -16080,10 +16415,11 @@
       }
    },
    {
+      "study_name": "normal_335_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53587690",
@@ -16128,10 +16464,11 @@
       }
    },
    {
+      "study_name": "calcificações_336_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53587717",
@@ -16176,10 +16513,11 @@
       }
    },
    {
+      "study_name": "normal_337_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53587744",
@@ -16224,16 +16562,17 @@
       }
    },
    {
+      "study_name": "nodulo_338_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50998981",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo QSE + micros",
+         "findings_notes": "nodulo QSE + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\50998981_a78eba834ef6ee88_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -16272,16 +16611,17 @@
       }
    },
    {
+      "study_name": "nodulo_339_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50999008",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo QSE + micros",
+         "findings_notes": "nodulo QSE + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\50999008_a78eba834ef6ee88_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -16320,16 +16660,17 @@
       }
    },
    {
+      "study_name": "nodulo_340_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53586869",
          "acr": "1",
          "bi-rads": "2",
-         "findings_notes": "nódulo QII, benigno + micros",
+         "findings_notes": "nodulo QII, benigno + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\53586869_6ac23356b912ee9b_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -16368,16 +16709,17 @@
       }
    },
    {
+      "study_name": "nodulo_341_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53586896",
          "acr": "1",
          "bi-rads": "2",
-         "findings_notes": "nódulo QII, benigno + micros",
+         "findings_notes": "nodulo QII, benigno + micros",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\53586896_6ac23356b912ee9b_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -16416,10 +16758,11 @@
       }
    },
    {
+      "study_name": "normal_342_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24054997",
@@ -16464,10 +16807,11 @@
       }
    },
    {
+      "study_name": "micros_343_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "24055024",
@@ -16512,10 +16856,11 @@
       }
    },
    {
+      "study_name": "normal_344_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24055051",
@@ -16560,10 +16905,11 @@
       }
    },
    {
+      "study_name": "micro_345_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "24055078",
@@ -16608,10 +16954,11 @@
       }
    },
    {
+      "study_name": "micros;Cluster_346_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20587054",
@@ -16656,10 +17003,11 @@
       }
    },
    {
+      "study_name": "micros;Cluster_347_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20587080",
@@ -16704,16 +17052,17 @@
       }
    },
    {
+      "study_name": "nodulo_348_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200801",
          "file_name": "24065251",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + micros QSE ",
+         "findings_notes": "nodulo + micros QSE ",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24065251_c4b995eddb3c510c_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -16752,10 +17101,11 @@
       }
    },
    {
+      "study_name": "normal_349_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200801",
          "file_name": "24065270",
@@ -16800,16 +17150,17 @@
       }
    },
    {
+      "study_name": "nodulo_350_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200801",
          "file_name": "24065289",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + micros QSE ",
+         "findings_notes": "nodulo + micros QSE ",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\24065289_c4b995eddb3c510c_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -16848,10 +17199,11 @@
       }
    },
    {
+      "study_name": "normal_351_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200801",
          "file_name": "24065308",
@@ -16896,10 +17248,11 @@
       }
    },
    {
+      "study_name": "normal_352_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50998322",
@@ -16944,10 +17297,11 @@
       }
    },
    {
+      "study_name": "normal_353_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50998349",
@@ -16992,10 +17346,11 @@
       }
    },
    {
+      "study_name": "normal_354_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50996325",
@@ -17040,10 +17395,11 @@
       }
    },
    {
+      "study_name": "nodulo_355_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50996352",
@@ -17088,10 +17444,11 @@
       }
    },
    {
+      "study_name": "normal_356_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50996379",
@@ -17136,10 +17493,11 @@
       }
    },
    {
+      "study_name": "nodulo_357_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50996406",
@@ -17184,10 +17542,11 @@
       }
    },
    {
+      "study_name": "micros_358_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50997597",
@@ -17232,10 +17591,11 @@
       }
    },
    {
+      "study_name": "micros_359_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50997624",
@@ -17280,10 +17640,11 @@
       }
    },
    {
+      "study_name": "micros_360_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50997651",
@@ -17328,10 +17689,11 @@
       }
    },
    {
+      "study_name": "micros_361_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50997678",
@@ -17376,10 +17738,11 @@
       }
    },
    {
+      "study_name": "normal_362_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "50995872",
@@ -17424,10 +17787,11 @@
       }
    },
    {
+      "study_name": "normal_363_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "50995899",
@@ -17472,16 +17836,17 @@
       }
    },
    {
+      "study_name": "Nodulo_364_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22580654",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "Nódulo + 1 micro",
+         "findings_notes": "Nodulo + 1 micro",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22580654_fe7d005dcbbfb46d_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -17520,10 +17885,11 @@
       }
    },
    {
+      "study_name": "nodulo_365_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22580680",
@@ -17568,16 +17934,17 @@
       }
    },
    {
+      "study_name": "Nodulo_366_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22580706",
          "acr": "1",
          "bi-rads": "5",
-         "findings_notes": "Nódulo + 1micro",
+         "findings_notes": "Nodulo + 1micro",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22580706_fe7d005dcbbfb46d_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -17616,10 +17983,11 @@
       }
    },
    {
+      "study_name": "nodulo_367_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22580732",
@@ -17664,10 +18032,11 @@
       }
    },
    {
+      "study_name": "micros_368_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "50995963",
@@ -17712,10 +18081,11 @@
       }
    },
    {
+      "study_name": "micros_369_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "50995990",
@@ -17760,10 +18130,11 @@
       }
    },
    {
+      "study_name": "micros_370_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "20588654",
@@ -17808,10 +18179,11 @@
       }
    },
    {
+      "study_name": "nodulo_371_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "20588680",
@@ -17856,10 +18228,11 @@
       }
    },
    {
+      "study_name": "micros_372_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "50994110",
@@ -17904,10 +18277,11 @@
       }
    },
    {
+      "study_name": "normal_373_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "50994137",
@@ -17952,10 +18326,11 @@
       }
    },
    {
+      "study_name": "micros_374_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "50994164",
@@ -18000,10 +18375,11 @@
       }
    },
    {
+      "study_name": "normal_375_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "50994191",
@@ -18048,16 +18424,17 @@
       }
    },
    {
+      "study_name": "nodulo_376_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "50994273",
          "acr": "3",
          "bi-rads": "4a",
-         "findings_notes": "nódulo ",
+         "findings_notes": "nodulo ",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\50994273_cc9e66c5b31baab8_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -18096,10 +18473,11 @@
       }
    },
    {
+      "study_name": "1_377_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "FB",
          "acquisition_date": "200901",
          "file_name": "50994300",
@@ -18144,10 +18522,11 @@
       }
    },
    {
+      "study_name": "micros_378_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "50994327",
@@ -18192,16 +18571,17 @@
       }
    },
    {
+      "study_name": "nodulo_379_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200901",
          "file_name": "50994354",
          "acr": "3",
          "bi-rads": "4a",
-         "findings_notes": "nódulo ",
+         "findings_notes": "nodulo ",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\50994354_cc9e66c5b31baab8_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -18240,10 +18620,11 @@
       }
    },
    {
+      "study_name": "micros_380_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "50994381",
@@ -18288,10 +18669,11 @@
       }
    },
    {
+      "study_name": "pequeno_381_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200901",
          "file_name": "50994408",
@@ -18336,10 +18718,11 @@
       }
    },
    {
+      "study_name": "normal_382_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53581124",
@@ -18384,10 +18767,11 @@
       }
    },
    {
+      "study_name": "normal_383_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53581151",
@@ -18432,16 +18816,17 @@
       }
    },
    {
+      "study_name": "nodulo_384_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200902",
          "file_name": "20587902",
          "acr": "4",
          "bi-rads": "3",
-         "findings_notes": "nódulo + uma micro",
+         "findings_notes": "nodulo + uma micro",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\20587902_8dbbd4e51f549ff0_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -18480,16 +18865,17 @@
       }
    },
    {
+      "study_name": "nodulo_385_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200902",
          "file_name": "20587928",
          "acr": "4",
          "bi-rads": "3",
-         "findings_notes": "nódulo + uma micro",
+         "findings_notes": "nodulo + uma micro",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\20587928_8dbbd4e51f549ff0_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -18528,10 +18914,11 @@
       }
    },
    {
+      "study_name": "normal_386_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53580979",
@@ -18576,10 +18963,11 @@
       }
    },
    {
+      "study_name": "normal_387_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "53581006",
@@ -18624,10 +19012,11 @@
       }
    },
    {
+      "study_name": "normal_388_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53581033",
@@ -18672,10 +19061,11 @@
       }
    },
    {
+      "study_name": "normal_389_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "53581060",
@@ -18720,10 +19110,11 @@
       }
    },
    {
+      "study_name": "micros_390_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50998580",
@@ -18768,10 +19159,11 @@
       }
    },
    {
+      "study_name": "normal_391_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "50998607",
@@ -18816,10 +19208,11 @@
       }
    },
    {
+      "study_name": "distorção_392_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50998634",
@@ -18864,10 +19257,11 @@
       }
    },
    {
+      "study_name": "normal_393_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "50998661",
@@ -18912,10 +19306,11 @@
       }
    },
    {
+      "study_name": "calcificações_394_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22678449",
@@ -18960,10 +19355,11 @@
       }
    },
    {
+      "study_name": "calcificações_395_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22678472",
@@ -19008,10 +19404,11 @@
       }
    },
    {
+      "study_name": "calcificações_396_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22678495",
@@ -19056,10 +19453,11 @@
       }
    },
    {
+      "study_name": "calcificações_397_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22678518",
@@ -19104,10 +19502,11 @@
       }
    },
    {
+      "study_name": "micros_398_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22580015",
@@ -19152,16 +19551,17 @@
       }
    },
    {
+      "study_name": "nodulo_399_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22580038",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + microcalcificações ",
+         "findings_notes": "nodulo + microcalcificações ",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22580038_6200187f3f1ccc18_MG_L_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -19200,10 +19600,11 @@
       }
    },
    {
+      "study_name": "micros_400_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22580068",
@@ -19248,16 +19649,17 @@
       }
    },
    {
+      "study_name": "nodulo_401_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22580098",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + microcalcificações",
+         "findings_notes": "nodulo + microcalcificações",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22580098_6200187f3f1ccc18_MG_L_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -19296,16 +19698,17 @@
       }
    },
    {
+      "study_name": "nodulo_402_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22613770",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + microcalcificações",
+         "findings_notes": "nodulo + microcalcificações",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22613770_45c7f44839fd9e68_MG_R_CC_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -19344,10 +19747,11 @@
       }
    },
    {
+      "study_name": "micros_403_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "201001",
          "file_name": "22613796",
@@ -19392,16 +19796,17 @@
       }
    },
    {
+      "study_name": "nodulo_404_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22613822",
          "acr": "2",
          "bi-rads": "5",
-         "findings_notes": "nódulo + microcalcificações",
+         "findings_notes": "nodulo + microcalcificações",
          "image_path": "D:\\mathe\\Documents\\BancoDados_IC\\INbreast Release 1.0\\AllDICOMs\\22613822_45c7f44839fd9e68_MG_R_ML_ANON.dcm"
       },
       "metadata_dicom_files": {
@@ -19440,10 +19845,11 @@
       }
    },
    {
+      "study_name": "normal_405_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "201001",
          "file_name": "22613848",
@@ -19488,10 +19894,11 @@
       }
    },
    {
+      "study_name": "micros_406_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "MLO",
          "acquisition_date": "200802",
          "file_name": "24055725",
@@ -19536,10 +19943,11 @@
       }
    },
    {
+      "study_name": "micros_407_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "MLO",
          "acquisition_date": "200802",
          "file_name": "24055752",
@@ -19584,10 +19992,11 @@
       }
    },
    {
+      "study_name": "micros_408_Left",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "L",
+         "laterality": "Left",
          "view": "CC",
          "acquisition_date": "200802",
          "file_name": "24055779",
@@ -19632,10 +20041,11 @@
       }
    },
    {
+      "study_name": "micros_409_Right",
       "metadata_csv": {
          "patient_id": "removed",
          "patient_age": "removed",
-         "laterality": "R",
+         "laterality": "Right",
          "view": "CC",
          "acquisition_date": "200802",
          "file_name": "24055806",
