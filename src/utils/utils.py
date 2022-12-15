@@ -191,7 +191,8 @@ def create_dict_meta(metadata: list, type:str) -> dict:
         "reference_number": "Patient_id",
         "laterality": "Left or right breast",
         "view": "Image View",
-        'assessment': "Bi-Rads"
+        "assessment": "Bi-Rads",
+        "Age": "Patient_age"
     }
 
     for current_meta in metadata: # Iterar sobre os estudos
