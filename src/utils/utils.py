@@ -184,28 +184,29 @@ def create_dict_meta(metadata: list, type:str) -> dict:
     """
     dictionary_metadata = {}
     dict_keys_to_rename = {
-        "ID1": "Patient_id",
-        "LeftRight": "Left or right breast",
-        "abnormality": "Abnormality_type",
-        "classification": "Pathology",
-        "reference_number": "Patient_id",
-        "laterality": "Left or right breast",
-        "view": "Image View",
-        "assessment": "Bi-Rads",
-        "Age": "Patient_age"
+        "id1": "patient_id",
+        "leftright": "left_or_right_breast",
+        "abnormality": "abnormality_type",
+        "classification": "pathology",
+        "reference_number": "patient_id",
+        "laterality": "left_or_right breast",
+        "view": "image_view",
+        "assessment": "bi-rads",
+        "age": "patient_age",
+        "acr": "breast_density"
     }
 
     for current_meta in metadata: # Iterar sobre os estudos
         meta_csv_files = current_meta[f'metadata_{type}']
         
         for key, value in meta_csv_files.items():
+            key = key.lower().replace(" ", "_")
+            
             if key in dict_keys_to_rename.keys():
                 key = dict_keys_to_rename[key]
                 
             if key == 'image_path' or key == 'cropped_image_path' or key == 'original_image_path' or key == 'file_name':
                 continue
-            
-            key = key.lower()
             
             if key not in dictionary_metadata.keys():
                 if value in ['NaN', '']:

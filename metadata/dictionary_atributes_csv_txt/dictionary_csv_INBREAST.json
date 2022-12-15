@@ -1,10 +1,10 @@
 {
    "patient_id": 410,
    "patient_age": 410,
-   "left or right breast": 410,
-   "image view": 410,
+   "left_or_right breast": 410,
+   "image_view": 410,
    "acquisition_date": 410,
-   "acr": 410,
+   "breast_density": 410,
    "bi-rads": 410,
    "findings_notes": 410
 }
