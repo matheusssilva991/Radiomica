@@ -125,8 +125,6 @@ def preprocessing_path(path: str) -> str:
     
     return path
 
-
-
 def read_pgm(filename, byteorder='>'):
     """Return image data from a raw PGM file as numpy array.
 
