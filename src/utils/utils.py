@@ -1,12 +1,18 @@
 # Carregar metadados no json
-import os
 import json
-from pydicom.valuerep import PersonName
-from pydicom.sequence import Sequence
-from pydicom.multival import MultiValue
+import os
 import re
+import sys
+from pathlib import Path
+
+import cv2
 import numpy as np
 import pandas as pd
+from pydicom import dcmread
+from pydicom.multival import MultiValue
+from pydicom.sequence import Sequence
+from pydicom.valuerep import PersonName
+
 
 def load_json(object_name: str, path = None) -> None | object:
     """Carregar arquivos em JSON"""
@@ -228,3 +234,29 @@ def create_df(dictionary: dict, x_label: str) -> pd.DataFrame:
 
     df = pd.DataFrame({x_label: keys, "frequencia": values})
     return df
+
+def get_images_size(path: str, image_type: str="", multiple=False) -> float | int:
+    """ Retorna o tamanho da imagem em MegaBytes (MB)"""
+    
+    if multiple:
+        directory = Path(path)
+        paths_images = list(directory.rglob(f"*.{image_type}*"))
+    else:
+        paths_images = [path]
+        
+    images_size = []    
+    for path_image in paths_images:
+        try:
+            if image_type.lower() == "dcm": 
+                image = dcmread(path_image).pixel_array
+            else: 
+                image = cv2.imread(str(path_image))
+                
+            images_size.append(round(image.nbytes / 1000000, 2)) 
+        except FileNotFoundError:
+            return None 
+
+    if multiple:
+        return images_size
+    else:
+        return images_size[0]
