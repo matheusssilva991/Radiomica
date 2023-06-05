@@ -12,6 +12,7 @@ from pydicom import dcmread
 from pydicom.multival import MultiValue
 from pydicom.sequence import Sequence
 from pydicom.valuerep import PersonName
+from copy import deepcopy
 
 
 def load_json(object_name: str, path = None) -> None | object:
@@ -260,3 +261,32 @@ def get_images_size(path: str, image_type: str="", multiple=False) -> float | in
         return images_size
     else:
         return images_size[0]
+
+def rename_keys(dictionary):
+    dict_keys_to_rename = {
+        "id1": "patient_id",
+        "leftright": "left_or_right_breast",
+        "abnormality": "abnormality_type",
+        "classification": "pathology",
+        "reference_number": "patient_id",
+        "laterality": "left_or_right breast",
+        "view": "image_view",
+        "assessment": "bi-rads",
+        "age": "patient_age",
+        "acr": "breast_density",
+    }
+
+    keys_order = dictionary.keys()
+    
+    for key in dictionary.keys():
+        key_lower = deepcopy(key)
+        key_lower = key_lower.lower().replace(" ", "_")
+        
+        if key in dict_keys_to_rename.keys():
+            keys_order = list(map(lambda x: x.replace(key, dict_keys_to_rename[key_lower]), keys_order))
+            
+    new_dict = {}
+    for key_order, key in zip(keys_order, dictionary.keys()):
+        new_dict[key_order.lower().replace(" ", "_").replace("-", "_")] = dictionary[key]
+           
+    return new_dict
