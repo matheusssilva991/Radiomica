@@ -282,7 +282,7 @@ def rename_keys(dictionary):
         key_lower = deepcopy(key)
         key_lower = key_lower.lower().replace(" ", "_")
         
-        if key in dict_keys_to_rename.keys():
+        if key_lower in dict_keys_to_rename.keys():
             keys_order = list(map(lambda x: x.replace(key, dict_keys_to_rename[key_lower]), keys_order))
             
     new_dict = {}
