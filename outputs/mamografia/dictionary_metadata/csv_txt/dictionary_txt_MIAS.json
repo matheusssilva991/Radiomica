@@ -1,0 +1,9 @@
+{
+   "patient_id": 330,
+   "background_tissue": 330,
+   "abnormality_type": 330,
+   "pathology": 121,
+   "x_centre_abnormality": 121,
+   "y_centre_abnormality": 119,
+   "radius": 119
+}

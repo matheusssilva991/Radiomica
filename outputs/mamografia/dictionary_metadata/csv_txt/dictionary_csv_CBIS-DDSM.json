@@ -1,0 +1,15 @@
+{
+   "patient_id": 3568,
+   "breast_density": 3568,
+   "left_or_right_breast": 3568,
+   "image_view": 3568,
+   "abnormality_id": 3568,
+   "abnormality_type": 3568,
+   "calc_type": 1848,
+   "calc_distribution": 1433,
+   "bi-rads": 3568,
+   "pathology": 3568,
+   "subtlety": 3568,
+   "mass_shape": 1692,
+   "mass_margins": 1636
+}
