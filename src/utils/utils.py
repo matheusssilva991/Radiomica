@@ -13,6 +13,7 @@ from pydicom.multival import MultiValue
 from pydicom.sequence import Sequence
 from pydicom.valuerep import PersonName
 from copy import deepcopy
+from skimage.feature import graycomatrix, graycoprops
 
 
 def load_json(object_name: str, path = None) -> None | object:
@@ -290,3 +291,91 @@ def rename_keys(dictionary):
         new_dict[key_order.lower().replace(" ", "_").replace("-", "_")] = dictionary[key]
            
     return new_dict
+
+def get_angles_labels(angles):
+    labels = []
+    
+    for angle in angles:
+        if angle == 0:
+            labels.append('0')
+        elif angle == np.pi/4:
+            labels.append('45')
+        elif angle == np.pi/2:
+            labels.append('90')
+        elif angle == 3*np.pi/4:
+            labels.append('135')
+    return labels
+
+def get_glcm_features(name_json, path_json, angles, properties, distances):    
+    list_metadata = load_json(name_json, path_json)
+
+    labels = []
+    glcm_features = [] # Cada uma das propriedades é trazida para a lista de features
+
+    for metadata in list_metadata:
+        metadata_csv = metadata['metadata_csv']
+        
+        directory = None
+        
+        if 'CBIS-DDSM' in name_json:
+            directory = Path(metadata_csv['original_image_path'])   
+        elif 'CMMD' in name_json:
+            tmp_path = "\\".join(metadata_csv['image_path'][0].split("\\")[:-1])
+            directory = Path(tmp_path)
+        #elif 'INBREAST' in name_json:
+            #tmp_path = "\\".join(metadata_csv['image_path'].split("\\")[:-1])
+            #directory = Path(tmp_path)
+                
+        if 'INBREAST' in name_json:
+            paths_dicom_file = [metadata_csv['image_path']]
+        else:    
+            paths_dicom_file = list(directory.rglob("*.dcm*"))
+        
+        for path_dicom_file in paths_dicom_file:
+            dicom_file = dcmread(path_dicom_file)
+            
+            if 'CBIS-DDSM' in name_json:
+                labels.append(metadata_csv['pathology'])
+            elif 'CMMD' in name_json:
+                labels.append(metadata_csv['classification'])
+            elif 'INBREAST' in name_json:
+                label = metadata_csv['bi-rads'].replace("a", "").replace("b", "").replace("c", "")
+                label = int(label)
+                if label < 2:
+                    label = 'NORMAL'
+                elif label < 4:
+                    label = 'BENIGN'
+                else:
+                    label = 'MALIGNANT'
+                labels.append(label)
+                
+            # Carrega a matriz da imagem original
+            image = dicom_file.pixel_array
+            
+            # Redimensiona a imagem original e salva no array
+            if image.max() > 256:
+                image = (image / 256).astype(np.uint8)
+            
+            glcm = graycomatrix(image, distances=distances, angles=angles, levels=256, symmetric=True, normed=True)
+            feature = []
+            glcm_props = [propery for name in properties for propery in graycoprops(glcm, name)]
+            
+            for glcm_props_distance in glcm_props:
+                for item in glcm_props_distance:
+                    feature.append(item)
+
+            
+            glcm_features.append(feature)
+        
+    columns = []
+    angles_labels = get_angles_labels(angles)
+
+    for name in properties:
+        for distance in distances:
+            for ang in angles_labels:
+                columns.append(name + "_ang_" + ang + "_dist_" + str(distance))
+                
+    glcm_df = pd.DataFrame(glcm_features, columns = columns)
+    glcm_df['pathology'] = labels 
+    
+    return glcm_df 
