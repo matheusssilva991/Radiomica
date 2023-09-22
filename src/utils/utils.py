@@ -226,7 +226,6 @@ def create_dict_meta(metadata: list, type: str) -> dict:
             else:
                 if value not in ['NaN', '']:
                     dictionary_metadata[key] += 1
-  
     return dictionary_metadata
 
 
@@ -253,10 +252,11 @@ def get_images_size(path: str, image_type: str = "", multiple=False) -> float | 
     else:
         paths_images = [path]
 
-    images_size = []    
+    images_size = []
     for path_image in paths_images:
         try:
-            if image_type.lower() == "dcm": 
+            image = []
+            if image_type.lower() == "dcm":
                 image = dcmread(path_image).pixel_array
             else:
                 image = cv2.imread(str(path_image))
