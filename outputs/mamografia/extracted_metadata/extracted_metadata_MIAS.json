@@ -9,7 +9,7 @@
          "x_centre_abnormality": "535",
          "y_centre_abnormality": "425",
          "radius": "197",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb001.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb001.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -28,7 +28,7 @@
          "x_centre_abnormality": "522",
          "y_centre_abnormality": "280",
          "radius": "69",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb002.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb002.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -43,7 +43,7 @@
          "reference_number": "mdb003",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb003.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb003.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -58,7 +58,7 @@
          "reference_number": "mdb004",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb004.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb004.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -77,7 +77,7 @@
          "x_centre_abnormality": "477",
          "y_centre_abnormality": "133",
          "radius": "30",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb005.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb005.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -96,7 +96,7 @@
          "x_centre_abnormality": "500",
          "y_centre_abnormality": "168",
          "radius": "26",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb005.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb005.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -111,7 +111,7 @@
          "reference_number": "mdb006",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb006.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb006.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -126,7 +126,7 @@
          "reference_number": "mdb007",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb007.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb007.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -141,7 +141,7 @@
          "reference_number": "mdb008",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb008.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb008.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -156,7 +156,7 @@
          "reference_number": "mdb009",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb009.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb009.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -175,7 +175,7 @@
          "x_centre_abnormality": "525",
          "y_centre_abnormality": "425",
          "radius": "33",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb010.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb010.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -190,7 +190,7 @@
          "reference_number": "mdb011",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb011.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb011.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -209,7 +209,7 @@
          "x_centre_abnormality": "471",
          "y_centre_abnormality": "458",
          "radius": "40",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb012.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb012.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -228,7 +228,7 @@
          "x_centre_abnormality": "667",
          "y_centre_abnormality": "365",
          "radius": "31",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb013.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb013.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -243,7 +243,7 @@
          "reference_number": "mdb014",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb014.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb014.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -262,7 +262,7 @@
          "x_centre_abnormality": "595",
          "y_centre_abnormality": "864",
          "radius": "68",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb015.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb015.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -277,7 +277,7 @@
          "reference_number": "mdb016",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb016.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb016.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -296,7 +296,7 @@
          "x_centre_abnormality": "547",
          "y_centre_abnormality": "573",
          "radius": "48",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb017.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb017.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -311,7 +311,7 @@
          "reference_number": "mdb018",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb018.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb018.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -330,7 +330,7 @@
          "x_centre_abnormality": "653",
          "y_centre_abnormality": "477",
          "radius": "49",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb019.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb019.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -345,7 +345,7 @@
          "reference_number": "mdb020",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb020.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb020.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -364,7 +364,7 @@
          "x_centre_abnormality": "493",
          "y_centre_abnormality": "125",
          "radius": "49",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb021.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb021.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -379,7 +379,7 @@
          "reference_number": "mdb022",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb022.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb022.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -398,7 +398,7 @@
          "x_centre_abnormality": "538",
          "y_centre_abnormality": "681",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb023.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb023.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -413,7 +413,7 @@
          "reference_number": "mdb024",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb024.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb024.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -432,7 +432,7 @@
          "x_centre_abnormality": "674",
          "y_centre_abnormality": "443",
          "radius": "79",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb025.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb025.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -447,7 +447,7 @@
          "reference_number": "mdb026",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb026.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb026.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -462,7 +462,7 @@
          "reference_number": "mdb027",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb027.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb027.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -481,7 +481,7 @@
          "x_centre_abnormality": "338",
          "y_centre_abnormality": "314",
          "radius": "56",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb028.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb028.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -496,7 +496,7 @@
          "reference_number": "mdb029",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb029.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb029.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -515,7 +515,7 @@
          "x_centre_abnormality": "322",
          "y_centre_abnormality": "676",
          "radius": "43",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb030.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb030.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -530,7 +530,7 @@
          "reference_number": "mdb031",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb031.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb031.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -549,7 +549,7 @@
          "x_centre_abnormality": "388",
          "y_centre_abnormality": "742",
          "radius": "66",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb032.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb032.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -564,7 +564,7 @@
          "reference_number": "mdb033",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb033.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb033.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -579,7 +579,7 @@
          "reference_number": "mdb034",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb034.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb034.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -594,7 +594,7 @@
          "reference_number": "mdb035",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb035.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb035.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -609,7 +609,7 @@
          "reference_number": "mdb036",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb036.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb036.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -624,7 +624,7 @@
          "reference_number": "mdb037",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb037.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb037.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -639,7 +639,7 @@
          "reference_number": "mdb038",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb038.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb038.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -654,7 +654,7 @@
          "reference_number": "mdb039",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb039.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb039.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -669,7 +669,7 @@
          "reference_number": "mdb040",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb040.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb040.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -684,7 +684,7 @@
          "reference_number": "mdb041",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb041.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb041.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -699,7 +699,7 @@
          "reference_number": "mdb042",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb042.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb042.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -714,7 +714,7 @@
          "reference_number": "mdb043",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb043.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb043.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -729,7 +729,7 @@
          "reference_number": "mdb044",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb044.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb044.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -744,7 +744,7 @@
          "reference_number": "mdb045",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb045.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb045.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -759,7 +759,7 @@
          "reference_number": "mdb046",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb046.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb046.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -774,7 +774,7 @@
          "reference_number": "mdb047",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb047.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb047.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -789,7 +789,7 @@
          "reference_number": "mdb048",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb048.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb048.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -804,7 +804,7 @@
          "reference_number": "mdb049",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb049.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb049.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -819,7 +819,7 @@
          "reference_number": "mdb050",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb050.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb050.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -834,7 +834,7 @@
          "reference_number": "mdb051",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb051.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb051.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -849,7 +849,7 @@
          "reference_number": "mdb052",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb052.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb052.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -864,7 +864,7 @@
          "reference_number": "mdb053",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb053.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb053.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -879,7 +879,7 @@
          "reference_number": "mdb054",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb054.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb054.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -894,7 +894,7 @@
          "reference_number": "mdb055",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb055.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb055.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -909,7 +909,7 @@
          "reference_number": "mdb056",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb056.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb056.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -924,7 +924,7 @@
          "reference_number": "mdb057",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb057.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb057.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -943,7 +943,7 @@
          "x_centre_abnormality": "318",
          "y_centre_abnormality": "359",
          "radius": "27",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb058.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb058.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -958,7 +958,7 @@
          "reference_number": "mdb059",
          "background_tissue": "Fatty",
          "abnormality": "Well-defined/circumscribed masses",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb059.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb059.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -973,7 +973,7 @@
          "reference_number": "mdb060",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb060.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb060.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -988,7 +988,7 @@
          "reference_number": "mdb061",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb061.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb061.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1003,7 +1003,7 @@
          "reference_number": "mdb062",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb062.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb062.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1022,7 +1022,7 @@
          "x_centre_abnormality": "546",
          "y_centre_abnormality": "463",
          "radius": "33",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb063.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb063.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1037,7 +1037,7 @@
          "reference_number": "mdb064",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb064.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb064.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1052,7 +1052,7 @@
          "reference_number": "mdb065",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb065.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb065.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1067,7 +1067,7 @@
          "reference_number": "mdb066",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb066.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb066.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1082,7 +1082,7 @@
          "reference_number": "mdb067",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb067.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb067.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1097,7 +1097,7 @@
          "reference_number": "mdb068",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb068.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb068.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1116,7 +1116,7 @@
          "x_centre_abnormality": "462",
          "y_centre_abnormality": "406",
          "radius": "44",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb069.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb069.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1131,7 +1131,7 @@
          "reference_number": "mdb070",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb070.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb070.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1146,7 +1146,7 @@
          "reference_number": "mdb071",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb071.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb071.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1165,7 +1165,7 @@
          "x_centre_abnormality": "266",
          "y_centre_abnormality": "517",
          "radius": "28",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb072.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb072.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1180,7 +1180,7 @@
          "reference_number": "mdb073",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb073.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb073.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1195,7 +1195,7 @@
          "reference_number": "mdb074",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb074.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb074.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1214,7 +1214,7 @@
          "x_centre_abnormality": "468",
          "y_centre_abnormality": "717",
          "radius": "23",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb075.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb075.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1229,7 +1229,7 @@
          "reference_number": "mdb076",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb076.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb076.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1244,7 +1244,7 @@
          "reference_number": "mdb077",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb077.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb077.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1259,7 +1259,7 @@
          "reference_number": "mdb078",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb078.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb078.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1274,7 +1274,7 @@
          "reference_number": "mdb079",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb079.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb079.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1293,7 +1293,7 @@
          "x_centre_abnormality": "432",
          "y_centre_abnormality": "149",
          "radius": "20",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb080.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb080.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1312,7 +1312,7 @@
          "x_centre_abnormality": "492",
          "y_centre_abnormality": "473",
          "radius": "131",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb081.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb081.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1327,7 +1327,7 @@
          "reference_number": "mdb082",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb082.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb082.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1346,7 +1346,7 @@
          "x_centre_abnormality": "544",
          "y_centre_abnormality": "194",
          "radius": "38",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb083.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb083.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1361,7 +1361,7 @@
          "reference_number": "mdb084",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb084.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb084.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1376,7 +1376,7 @@
          "reference_number": "mdb085",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb085.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb085.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1391,7 +1391,7 @@
          "reference_number": "mdb086",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb086.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb086.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1406,7 +1406,7 @@
          "reference_number": "mdb087",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb087.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb087.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1421,7 +1421,7 @@
          "reference_number": "mdb088",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb088.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb088.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1436,7 +1436,7 @@
          "reference_number": "mdb089",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb089.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb089.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1455,7 +1455,7 @@
          "x_centre_abnormality": "510",
          "y_centre_abnormality": "547",
          "radius": "49",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb090.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb090.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1474,7 +1474,7 @@
          "x_centre_abnormality": "680",
          "y_centre_abnormality": "494",
          "radius": "20",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb091.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb091.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1493,7 +1493,7 @@
          "x_centre_abnormality": "423",
          "y_centre_abnormality": "662",
          "radius": "43",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb092.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb092.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1508,7 +1508,7 @@
          "reference_number": "mdb093",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb093.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb093.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1523,7 +1523,7 @@
          "reference_number": "mdb094",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb094.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb094.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1542,7 +1542,7 @@
          "x_centre_abnormality": "466",
          "y_centre_abnormality": "517",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb095.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb095.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1557,7 +1557,7 @@
          "reference_number": "mdb096",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb096.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb096.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1576,7 +1576,7 @@
          "x_centre_abnormality": "612",
          "y_centre_abnormality": "297",
          "radius": "34",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb097.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb097.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1591,7 +1591,7 @@
          "reference_number": "mdb098",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb098.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb098.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1610,7 +1610,7 @@
          "x_centre_abnormality": "714",
          "y_centre_abnormality": "340",
          "radius": "23",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb099.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb099.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1625,7 +1625,7 @@
          "reference_number": "mdb100",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb100.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb100.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1640,7 +1640,7 @@
          "reference_number": "mdb101",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb101.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb101.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1659,7 +1659,7 @@
          "x_centre_abnormality": "415",
          "y_centre_abnormality": "460",
          "radius": "38",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb102.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb102.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1674,7 +1674,7 @@
          "reference_number": "mdb103",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb103.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb103.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1693,7 +1693,7 @@
          "x_centre_abnormality": "357",
          "y_centre_abnormality": "365",
          "radius": "50",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb104.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb104.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1712,7 +1712,7 @@
          "x_centre_abnormality": "516",
          "y_centre_abnormality": "279",
          "radius": "98",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb105.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb105.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1727,7 +1727,7 @@
          "reference_number": "mdb106",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb106.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb106.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1746,7 +1746,7 @@
          "x_centre_abnormality": "600",
          "y_centre_abnormality": "621",
          "radius": "111",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb107.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb107.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1761,7 +1761,7 @@
          "reference_number": "mdb108",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb108.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb108.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1776,7 +1776,7 @@
          "reference_number": "mdb109",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb109.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb109.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1795,7 +1795,7 @@
          "x_centre_abnormality": "190",
          "y_centre_abnormality": "427",
          "radius": "51",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb110.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb110.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1814,7 +1814,7 @@
          "x_centre_abnormality": "505",
          "y_centre_abnormality": "575",
          "radius": "107",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb111.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb111.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1829,7 +1829,7 @@
          "reference_number": "mdb112",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb112.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb112.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1844,7 +1844,7 @@
          "reference_number": "mdb113",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb113.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb113.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1859,7 +1859,7 @@
          "reference_number": "mdb114",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb114.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb114.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1878,7 +1878,7 @@
          "x_centre_abnormality": "461",
          "y_centre_abnormality": "532",
          "radius": "117",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb115.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb115.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1893,7 +1893,7 @@
          "reference_number": "mdb116",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb116.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb116.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1912,7 +1912,7 @@
          "x_centre_abnormality": "480",
          "y_centre_abnormality": "576",
          "radius": "84",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb117.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb117.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1927,7 +1927,7 @@
          "reference_number": "mdb118",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb118.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb118.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1942,7 +1942,7 @@
          "reference_number": "mdb119",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb119.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb119.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1961,7 +1961,7 @@
          "x_centre_abnormality": "423",
          "y_centre_abnormality": "262",
          "radius": "79",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb120.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb120.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1980,7 +1980,7 @@
          "x_centre_abnormality": "492",
          "y_centre_abnormality": "434",
          "radius": "87",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb121.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb121.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1995,7 +1995,7 @@
          "reference_number": "mdb122",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb122.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb122.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2010,7 +2010,7 @@
          "reference_number": "mdb123",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb123.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb123.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2029,7 +2029,7 @@
          "x_centre_abnormality": "366",
          "y_centre_abnormality": "620",
          "radius": "33",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb124.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb124.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2048,7 +2048,7 @@
          "x_centre_abnormality": "700",
          "y_centre_abnormality": "552",
          "radius": "60",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb125.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb125.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2067,7 +2067,7 @@
          "x_centre_abnormality": "191",
          "y_centre_abnormality": "549",
          "radius": "23",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb126.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb126.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2086,7 +2086,7 @@
          "x_centre_abnormality": "523",
          "y_centre_abnormality": "551",
          "radius": "48",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb127.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb127.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2101,7 +2101,7 @@
          "reference_number": "mdb128",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb128.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb128.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2116,7 +2116,7 @@
          "reference_number": "mdb129",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb129.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb129.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2135,7 +2135,7 @@
          "x_centre_abnormality": "220",
          "y_centre_abnormality": "552",
          "radius": "28",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb130.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb130.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2150,7 +2150,7 @@
          "reference_number": "mdb131",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb131.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb131.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2169,7 +2169,7 @@
          "x_centre_abnormality": "252",
          "y_centre_abnormality": "788",
          "radius": "52",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb132.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb132.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2188,7 +2188,7 @@
          "x_centre_abnormality": "335",
          "y_centre_abnormality": "766",
          "radius": "18",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb132.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb132.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2203,7 +2203,7 @@
          "reference_number": "mdb133",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb133.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb133.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2222,7 +2222,7 @@
          "x_centre_abnormality": "469",
          "y_centre_abnormality": "728",
          "radius": "49",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb134.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb134.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2237,7 +2237,7 @@
          "reference_number": "mdb135",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb135.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb135.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2252,7 +2252,7 @@
          "reference_number": "mdb136",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb136.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb136.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2267,7 +2267,7 @@
          "reference_number": "mdb137",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb137.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb137.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2282,7 +2282,7 @@
          "reference_number": "mdb138",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb138.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb138.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2297,7 +2297,7 @@
          "reference_number": "mdb139",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb139.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb139.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2312,7 +2312,7 @@
          "reference_number": "mdb140",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb140.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb140.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2331,7 +2331,7 @@
          "x_centre_abnormality": "470",
          "y_centre_abnormality": "759",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb141.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb141.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2350,7 +2350,7 @@
          "x_centre_abnormality": "347",
          "y_centre_abnormality": "636",
          "radius": "26",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb142.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb142.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2365,7 +2365,7 @@
          "reference_number": "mdb143",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb143.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb143.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2384,7 +2384,7 @@
          "x_centre_abnormality": "233",
          "y_centre_abnormality": "994",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb144.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb144.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2403,7 +2403,7 @@
          "x_centre_abnormality": "313",
          "y_centre_abnormality": "540",
          "radius": "27",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb144.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb144.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2422,7 +2422,7 @@
          "x_centre_abnormality": "669",
          "y_centre_abnormality": "543",
          "radius": "49",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb145.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb145.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2437,7 +2437,7 @@
          "reference_number": "mdb146",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb146.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb146.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2452,7 +2452,7 @@
          "reference_number": "mdb147",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb147.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb147.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2471,7 +2471,7 @@
          "x_centre_abnormality": "326",
          "y_centre_abnormality": "607",
          "radius": "174",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb148.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb148.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2486,7 +2486,7 @@
          "reference_number": "mdb149",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb149.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb149.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2505,7 +2505,7 @@
          "x_centre_abnormality": "351",
          "y_centre_abnormality": "661",
          "radius": "62",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb150.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb150.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2520,7 +2520,7 @@
          "reference_number": "mdb151",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb151.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb151.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2539,7 +2539,7 @@
          "x_centre_abnormality": "675",
          "y_centre_abnormality": "486",
          "radius": "48",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb152.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb152.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2554,7 +2554,7 @@
          "reference_number": "mdb153",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb153.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb153.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2569,7 +2569,7 @@
          "reference_number": "mdb154",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb154.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb154.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2588,7 +2588,7 @@
          "x_centre_abnormality": "448",
          "y_centre_abnormality": "480",
          "radius": "95",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb155.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb155.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2603,7 +2603,7 @@
          "reference_number": "mdb156",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb156.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb156.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2618,7 +2618,7 @@
          "reference_number": "mdb157",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb157.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb157.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2637,7 +2637,7 @@
          "x_centre_abnormality": "540",
          "y_centre_abnormality": "565",
          "radius": "88",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb158.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb158.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2652,7 +2652,7 @@
          "reference_number": "mdb159",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb159.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb159.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2671,7 +2671,7 @@
          "x_centre_abnormality": "536",
          "y_centre_abnormality": "519",
          "radius": "61",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb160.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb160.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2686,7 +2686,7 @@
          "reference_number": "mdb161",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb161.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb161.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2701,7 +2701,7 @@
          "reference_number": "mdb162",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb162.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb162.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2720,7 +2720,7 @@
          "x_centre_abnormality": "391",
          "y_centre_abnormality": "365",
          "radius": "50",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb163.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb163.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2735,7 +2735,7 @@
          "reference_number": "mdb164",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb164.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb164.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2754,7 +2754,7 @@
          "x_centre_abnormality": "537",
          "y_centre_abnormality": "490",
          "radius": "42",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb165.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb165.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2769,7 +2769,7 @@
          "reference_number": "mdb166",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb166.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb166.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2788,7 +2788,7 @@
          "x_centre_abnormality": "574",
          "y_centre_abnormality": "657",
          "radius": "35",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb167.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb167.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2803,7 +2803,7 @@
          "reference_number": "mdb168",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb168.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb168.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2818,7 +2818,7 @@
          "reference_number": "mdb169",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb169.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb169.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2837,7 +2837,7 @@
          "x_centre_abnormality": "489",
          "y_centre_abnormality": "480",
          "radius": "82",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb170.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb170.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2856,7 +2856,7 @@
          "x_centre_abnormality": "462",
          "y_centre_abnormality": "627",
          "radius": "62",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb171.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb171.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2871,7 +2871,7 @@
          "reference_number": "mdb172",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb172.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb172.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2886,7 +2886,7 @@
          "reference_number": "mdb173",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb173.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb173.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2901,7 +2901,7 @@
          "reference_number": "mdb174",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb174.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb174.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2920,7 +2920,7 @@
          "x_centre_abnormality": "592",
          "y_centre_abnormality": "670",
          "radius": "33",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb175.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb175.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2935,7 +2935,7 @@
          "reference_number": "mdb176",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb176.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb176.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2950,7 +2950,7 @@
          "reference_number": "mdb177",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb177.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb177.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2969,7 +2969,7 @@
          "x_centre_abnormality": "492",
          "y_centre_abnormality": "600",
          "radius": "70",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb178.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb178.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2988,7 +2988,7 @@
          "x_centre_abnormality": "600",
          "y_centre_abnormality": "514",
          "radius": "67",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb179.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb179.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3003,7 +3003,7 @@
          "reference_number": "mdb180",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb180.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb180.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3022,7 +3022,7 @@
          "x_centre_abnormality": "519",
          "y_centre_abnormality": "362",
          "radius": "54",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb181.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb181.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3037,7 +3037,7 @@
          "reference_number": "mdb182",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb182.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb182.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3052,7 +3052,7 @@
          "reference_number": "mdb183",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb183.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb183.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3071,7 +3071,7 @@
          "x_centre_abnormality": "352",
          "y_centre_abnormality": "624",
          "radius": "114",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb184.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb184.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3086,7 +3086,7 @@
          "reference_number": "mdb185",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb185.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb185.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3105,7 +3105,7 @@
          "x_centre_abnormality": "403",
          "y_centre_abnormality": "524",
          "radius": "47",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb186.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb186.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3120,7 +3120,7 @@
          "reference_number": "mdb187",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb187.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb187.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3139,7 +3139,7 @@
          "x_centre_abnormality": "406",
          "y_centre_abnormality": "617",
          "radius": "61",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb188.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb188.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3154,7 +3154,7 @@
          "reference_number": "mdb189",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb189.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb189.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3173,7 +3173,7 @@
          "x_centre_abnormality": "512",
          "y_centre_abnormality": "621",
          "radius": "31",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb190.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb190.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3192,7 +3192,7 @@
          "x_centre_abnormality": "594",
          "y_centre_abnormality": "516",
          "radius": "41",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb191.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb191.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3207,7 +3207,7 @@
          "reference_number": "mdb192",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb192.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb192.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3226,7 +3226,7 @@
          "x_centre_abnormality": "399",
          "y_centre_abnormality": "563",
          "radius": "132",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb193.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb193.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3241,7 +3241,7 @@
          "reference_number": "mdb194",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb194.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb194.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3260,7 +3260,7 @@
          "x_centre_abnormality": "725",
          "y_centre_abnormality": "129",
          "radius": "26",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb195.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb195.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3275,7 +3275,7 @@
          "reference_number": "mdb196",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb196.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb196.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3290,7 +3290,7 @@
          "reference_number": "mdb197",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb197.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb197.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3309,7 +3309,7 @@
          "x_centre_abnormality": "568",
          "y_centre_abnormality": "612",
          "radius": "93",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb198.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb198.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3328,7 +3328,7 @@
          "x_centre_abnormality": "641",
          "y_centre_abnormality": "177",
          "radius": "31",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb199.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb199.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3343,7 +3343,7 @@
          "reference_number": "mdb200",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb200.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb200.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3358,7 +3358,7 @@
          "reference_number": "mdb201",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb201.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb201.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3377,7 +3377,7 @@
          "x_centre_abnormality": "557",
          "y_centre_abnormality": "772",
          "radius": "37",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb202.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb202.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3392,7 +3392,7 @@
          "reference_number": "mdb203",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb203.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb203.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3411,7 +3411,7 @@
          "x_centre_abnormality": "336",
          "y_centre_abnormality": "399",
          "radius": "21",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb204.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb204.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3426,7 +3426,7 @@
          "reference_number": "mdb205",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb205.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb205.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3445,7 +3445,7 @@
          "x_centre_abnormality": "368",
          "y_centre_abnormality": "200",
          "radius": "17",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb206.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb206.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3464,7 +3464,7 @@
          "x_centre_abnormality": "571",
          "y_centre_abnormality": "564",
          "radius": "19",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb207.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb207.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3479,7 +3479,7 @@
          "reference_number": "mdb208",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb208.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb208.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3498,7 +3498,7 @@
          "x_centre_abnormality": "647",
          "y_centre_abnormality": "503",
          "radius": "87",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb209.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb209.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3513,7 +3513,7 @@
          "reference_number": "mdb210",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb210.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb210.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3532,7 +3532,7 @@
          "x_centre_abnormality": "680",
          "y_centre_abnormality": "327",
          "radius": "13",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb211.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb211.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3551,7 +3551,7 @@
          "x_centre_abnormality": "687",
          "y_centre_abnormality": "882",
          "radius": "3",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb212.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb212.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3570,7 +3570,7 @@
          "x_centre_abnormality": "547",
          "y_centre_abnormality": "520",
          "radius": "45",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb213.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb213.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3589,7 +3589,7 @@
          "x_centre_abnormality": "582",
          "y_centre_abnormality": "916",
          "radius": "11",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb214.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb214.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3604,7 +3604,7 @@
          "reference_number": "mdb215",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb215.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb215.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3619,7 +3619,7 @@
          "reference_number": "mdb216",
          "background_tissue": "Dense-glandular",
          "abnormality": "Calcification",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb216.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb216.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3634,7 +3634,7 @@
          "reference_number": "mdb217",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb217.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb217.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3653,7 +3653,7 @@
          "x_centre_abnormality": "519",
          "y_centre_abnormality": "629",
          "radius": "8",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb218.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb218.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3672,7 +3672,7 @@
          "x_centre_abnormality": "546",
          "y_centre_abnormality": "756",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb219.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb219.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3687,7 +3687,7 @@
          "reference_number": "mdb220",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb220.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb220.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3702,7 +3702,7 @@
          "reference_number": "mdb221",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb221.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb221.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3721,7 +3721,7 @@
          "x_centre_abnormality": "398",
          "y_centre_abnormality": "427",
          "radius": "17",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb222.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb222.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3740,7 +3740,7 @@
          "x_centre_abnormality": "523",
          "y_centre_abnormality": "482",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb223.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb223.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3759,7 +3759,7 @@
          "x_centre_abnormality": "591",
          "y_centre_abnormality": "529",
          "radius": "6",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb223.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb223.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3774,7 +3774,7 @@
          "reference_number": "mdb224",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb224.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb224.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3789,7 +3789,7 @@
          "reference_number": "mdb225",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb225.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb225.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3808,7 +3808,7 @@
          "x_centre_abnormality": "287",
          "y_centre_abnormality": "610",
          "radius": "7",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb226.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb226.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3827,7 +3827,7 @@
          "x_centre_abnormality": "329",
          "y_centre_abnormality": "550",
          "radius": "25",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb226.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb226.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3846,7 +3846,7 @@
          "x_centre_abnormality": "531",
          "y_centre_abnormality": "721",
          "radius": "8",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb226.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb226.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3865,7 +3865,7 @@
          "x_centre_abnormality": "504",
          "y_centre_abnormality": "467",
          "radius": "9",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb227.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb227.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3880,7 +3880,7 @@
          "reference_number": "mdb228",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb228.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb228.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3895,7 +3895,7 @@
          "reference_number": "mdb229",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb229.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb229.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3910,7 +3910,7 @@
          "reference_number": "mdb230",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb230.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb230.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3929,7 +3929,7 @@
          "x_centre_abnormality": "603",
          "y_centre_abnormality": "538",
          "radius": "44",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb231.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb231.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3944,7 +3944,7 @@
          "reference_number": "mdb232",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb232.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb232.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3961,7 +3961,7 @@
          "abnormality": "Calcification",
          "classification": "Malignant",
          "x_centre_abnormality": "\n",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb233.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb233.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3976,7 +3976,7 @@
          "reference_number": "mdb234",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb234.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb234.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3991,7 +3991,7 @@
          "reference_number": "mdb235",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb235.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb235.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4010,7 +4010,7 @@
          "x_centre_abnormality": "276",
          "y_centre_abnormality": "824",
          "radius": "14",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb236.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb236.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4025,7 +4025,7 @@
          "reference_number": "mdb237",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb237.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb237.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4044,7 +4044,7 @@
          "x_centre_abnormality": "522",
          "y_centre_abnormality": "553",
          "radius": "17",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb238.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb238.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4063,7 +4063,7 @@
          "x_centre_abnormality": "645",
          "y_centre_abnormality": "755",
          "radius": "40",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb239.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb239.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4082,7 +4082,7 @@
          "x_centre_abnormality": "567",
          "y_centre_abnormality": "808",
          "radius": "25",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb239.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb239.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4101,7 +4101,7 @@
          "x_centre_abnormality": "643",
          "y_centre_abnormality": "614",
          "radius": "23",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb240.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb240.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4120,7 +4120,7 @@
          "x_centre_abnormality": "453",
          "y_centre_abnormality": "678",
          "radius": "38",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb241.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb241.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4135,7 +4135,7 @@
          "reference_number": "mdb242",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb242.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb242.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4150,7 +4150,7 @@
          "reference_number": "mdb243",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb243.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb243.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4169,7 +4169,7 @@
          "x_centre_abnormality": "466",
          "y_centre_abnormality": "567",
          "radius": "52",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb244.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb244.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4186,7 +4186,7 @@
          "abnormality": "Calcification",
          "classification": "Malignant",
          "x_centre_abnormality": "\n",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb245.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb245.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4201,7 +4201,7 @@
          "reference_number": "mdb246",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb246.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb246.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4216,7 +4216,7 @@
          "reference_number": "mdb247",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb247.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb247.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4235,7 +4235,7 @@
          "x_centre_abnormality": "378",
          "y_centre_abnormality": "601",
          "radius": "10",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb248.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb248.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4254,7 +4254,7 @@
          "x_centre_abnormality": "544",
          "y_centre_abnormality": "508",
          "radius": "48",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb249.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb249.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4273,7 +4273,7 @@
          "x_centre_abnormality": "575",
          "y_centre_abnormality": "639",
          "radius": "64",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb249.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb249.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4288,7 +4288,7 @@
          "reference_number": "mdb250",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb250.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb250.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4303,7 +4303,7 @@
          "reference_number": "mdb251",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb251.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb251.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4322,7 +4322,7 @@
          "x_centre_abnormality": "439",
          "y_centre_abnormality": "367",
          "radius": "23",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb252.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb252.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4341,7 +4341,7 @@
          "x_centre_abnormality": "733",
          "y_centre_abnormality": "564",
          "radius": "28",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb253.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb253.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4356,7 +4356,7 @@
          "reference_number": "mdb254",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb254.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb254.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4371,7 +4371,7 @@
          "reference_number": "mdb255",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb255.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb255.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4390,7 +4390,7 @@
          "x_centre_abnormality": "400",
          "y_centre_abnormality": "484",
          "radius": "37",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb256.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb256.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4405,7 +4405,7 @@
          "reference_number": "mdb257",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb257.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb257.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4420,7 +4420,7 @@
          "reference_number": "mdb258",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb258.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb258.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4435,7 +4435,7 @@
          "reference_number": "mdb259",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb259.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb259.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4450,7 +4450,7 @@
          "reference_number": "mdb260",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb260.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb260.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4465,7 +4465,7 @@
          "reference_number": "mdb261",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb261.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb261.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4480,7 +4480,7 @@
          "reference_number": "mdb262",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb262.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb262.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4495,7 +4495,7 @@
          "reference_number": "mdb263",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb263.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb263.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4514,7 +4514,7 @@
          "x_centre_abnormality": "596",
          "y_centre_abnormality": "431",
          "radius": "36",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb264.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb264.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4533,7 +4533,7 @@
          "x_centre_abnormality": "593",
          "y_centre_abnormality": "498",
          "radius": "60",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb265.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb265.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4548,7 +4548,7 @@
          "reference_number": "mdb266",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb266.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb266.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4567,7 +4567,7 @@
          "x_centre_abnormality": "793",
          "y_centre_abnormality": "481",
          "radius": "56",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb267.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb267.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4582,7 +4582,7 @@
          "reference_number": "mdb268",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb268.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb268.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4597,7 +4597,7 @@
          "reference_number": "mdb269",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb269.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb269.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4616,7 +4616,7 @@
          "x_centre_abnormality": "356",
          "y_centre_abnormality": "945",
          "radius": "72",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb270.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb270.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4635,7 +4635,7 @@
          "x_centre_abnormality": "784",
          "y_centre_abnormality": "270",
          "radius": "68",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb271.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb271.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4650,7 +4650,7 @@
          "reference_number": "mdb272",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb272.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb272.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4665,7 +4665,7 @@
          "reference_number": "mdb273",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb273.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb273.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4684,7 +4684,7 @@
          "x_centre_abnormality": "127",
          "y_centre_abnormality": "505",
          "radius": "123",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb274.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb274.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4699,7 +4699,7 @@
          "reference_number": "mdb275",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb275.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb275.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4714,7 +4714,7 @@
          "reference_number": "mdb276",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb276.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb276.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4729,7 +4729,7 @@
          "reference_number": "mdb277",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb277.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb277.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4744,7 +4744,7 @@
          "reference_number": "mdb278",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb278.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb278.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4759,7 +4759,7 @@
          "reference_number": "mdb279",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb279.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb279.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4774,7 +4774,7 @@
          "reference_number": "mdb280",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb280.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb280.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4789,7 +4789,7 @@
          "reference_number": "mdb281",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb281.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb281.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4804,7 +4804,7 @@
          "reference_number": "mdb282",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb282.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb282.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4819,7 +4819,7 @@
          "reference_number": "mdb283",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb283.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb283.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4834,7 +4834,7 @@
          "reference_number": "mdb284",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb284.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb284.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4849,7 +4849,7 @@
          "reference_number": "mdb285",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb285.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb285.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4864,7 +4864,7 @@
          "reference_number": "mdb286",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb286.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb286.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4879,7 +4879,7 @@
          "reference_number": "mdb287",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb287.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb287.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4894,7 +4894,7 @@
          "reference_number": "mdb288",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb288.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb288.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4909,7 +4909,7 @@
          "reference_number": "mdb289",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb289.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb289.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4928,7 +4928,7 @@
          "x_centre_abnormality": "337",
          "y_centre_abnormality": "353",
          "radius": "45",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb290.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb290.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4943,7 +4943,7 @@
          "reference_number": "mdb291",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb291.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb291.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4958,7 +4958,7 @@
          "reference_number": "mdb292",
          "background_tissue": "Fatty-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb292.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb292.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4973,7 +4973,7 @@
          "reference_number": "mdb293",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb293.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb293.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4988,7 +4988,7 @@
          "reference_number": "mdb294",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb294.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb294.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5003,7 +5003,7 @@
          "reference_number": "mdb295",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb295.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb295.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5018,7 +5018,7 @@
          "reference_number": "mdb296",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb296.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb296.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5033,7 +5033,7 @@
          "reference_number": "mdb297",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb297.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb297.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5048,7 +5048,7 @@
          "reference_number": "mdb298",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb298.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb298.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5063,7 +5063,7 @@
          "reference_number": "mdb299",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb299.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb299.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5078,7 +5078,7 @@
          "reference_number": "mdb300",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb300.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb300.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5093,7 +5093,7 @@
          "reference_number": "mdb301",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb301.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb301.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5108,7 +5108,7 @@
          "reference_number": "mdb302",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb302.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb302.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5123,7 +5123,7 @@
          "reference_number": "mdb303",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb303.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb303.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5138,7 +5138,7 @@
          "reference_number": "mdb304",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb304.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb304.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5153,7 +5153,7 @@
          "reference_number": "mdb305",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb305.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb305.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5168,7 +5168,7 @@
          "reference_number": "mdb306",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb306.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb306.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5183,7 +5183,7 @@
          "reference_number": "mdb307",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb307.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb307.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5198,7 +5198,7 @@
          "reference_number": "mdb308",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb308.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb308.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5213,7 +5213,7 @@
          "reference_number": "mdb309",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb309.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb309.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5228,7 +5228,7 @@
          "reference_number": "mdb310",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb310.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb310.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5243,7 +5243,7 @@
          "reference_number": "mdb311",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb311.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb311.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5262,7 +5262,7 @@
          "x_centre_abnormality": "240",
          "y_centre_abnormality": "263",
          "radius": "20",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb312.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb312.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5277,7 +5277,7 @@
          "reference_number": "mdb313",
          "background_tissue": "Fatty",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb313.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb313.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5296,7 +5296,7 @@
          "x_centre_abnormality": "518",
          "y_centre_abnormality": "191",
          "radius": "39",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb314.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb314.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5315,7 +5315,7 @@
          "x_centre_abnormality": "516",
          "y_centre_abnormality": "447",
          "radius": "93",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb315.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb315.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5330,7 +5330,7 @@
          "reference_number": "mdb316",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb316.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb316.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5345,7 +5345,7 @@
          "reference_number": "mdb317",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb317.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb317.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5360,7 +5360,7 @@
          "reference_number": "mdb318",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb318.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb318.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5375,7 +5375,7 @@
          "reference_number": "mdb319",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb319.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb319.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5390,7 +5390,7 @@
          "reference_number": "mdb320",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb320.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb320.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5405,7 +5405,7 @@
          "reference_number": "mdb321",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb321.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb321.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5420,7 +5420,7 @@
          "reference_number": "mdb322",
          "background_tissue": "Dense-glandular",
          "abnormality": "Normal",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/MIAS/all-mias/mdb322.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb322.pgm"
       },
       "metadata_pgm_file": {
          "header": "P5",
