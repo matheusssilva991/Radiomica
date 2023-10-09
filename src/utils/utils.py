@@ -264,6 +264,8 @@ def get_images_size(path: str, image_type: str = "", multiple=False) -> float | 
             images_size.append(round(image.nbytes / 1000000, 2))
         except FileNotFoundError:
             return None
+        except AttributeError:
+            return None
 
     if multiple:
         return images_size
