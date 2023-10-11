@@ -182,7 +182,9 @@ def get_bits_allocated(value: int) -> int:
         return 8
     elif 256 <= value < 4096:
         return 12
-    elif 4096 <= value < 65536:
+    elif 4096 <= value < 16.383:
+        return 14
+    elif 16.383 <= value < 65536:
         return 16
 
 
@@ -275,30 +277,55 @@ def get_images_size(path: str, image_type: str = "", multiple=False) -> float | 
 
 def rename_keys(dictionary):
     dict_keys_to_rename = {
-        "id1": "patient_id",
-        "leftright": "left_or_right_breast",
-        "abnormality": "abnormality_type",
+        "id1": "patientId",
+        "id": "patientId",
+        "image_name": "patientId",
+        "abnormality_id": "abnormalityId",
+        "assessment": "biRads",
+        "age": "patientAge",
+        "acr": "breastDensity",
+        "leftright": "leftOrRightBreast",
+        "abnormality": "abnormalityType",
         "classification": "pathology",
-        "reference_number": "patient_id",
-        "laterality": "left_or_right breast",
-        "view": "image_view",
-        "assessment": "bi-rads",
-        "age": "patient_age",
-        "acr": "breast_density",
+        "reference_number": "patientId",
+        "laterality": "leftOrRightBreast",
+        "view": "orientation",
+        "patient_id": "patientId",
+        "left_or_right_breast": "leftOrRightBreast",
+        "abnormality_type": "abnormalityType",
+        "image_view": "orientation",
+        "bi_rads": "biRads",
+        "bi-rads": "biRads",
+        "patient_age": "patientAge",
+        "breast_density": "breastDensity",
+        "calc_type": "calcificationType",
+        "calc_distribution": "calcificationDistribution",
+        "mass_shape": "massShape",
+        "mass_margins": "massMargins",
+        "cropped_image_path": "croppedImagePath",
+        "cropped_path": "croppedImagePath",
+        "image_path": "imagePath",
+        "findings_notes": "findingsNotes",
+        "acquisition_date": "acquisitionDate",
+        "file_name": "fileName",
+        "x_centre_abnormality": "xCentreAbnormality",
+        "y_centre_abnormality": "yCentreAbnormality",
+        'background_tissue': 'backgroundTissue',
+        "image_size_mb": "imageSizeMb",
     }
 
-    keys_order = dictionary.keys()
+    keys_order = list(dictionary.keys())
 
-    for key in dictionary.keys():
+    for i, key in enumerate(dictionary.keys()):
         key_lower = deepcopy(key)
         key_lower = key_lower.lower().replace(" ", "_")
 
         if key_lower in dict_keys_to_rename.keys():
-            keys_order = list(map(lambda x: x.replace(key, dict_keys_to_rename[key_lower]), keys_order))  # noqa: E501
+            keys_order[i] = dict_keys_to_rename[key_lower]  # noqa: E501
 
     new_dict = {}
     for key_order, key in zip(keys_order, dictionary.keys()):
-        new_dict[key_order.lower().replace(" ", "_").replace("-", "_")] = dictionary[key]  # noqa: E501
+        new_dict[key_order] = dictionary[key]  # noqa: E501
 
     return new_dict
 

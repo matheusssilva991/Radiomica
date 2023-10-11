@@ -1,4 +1,4 @@
-id,image_path,pathology,image_view,image_size_mb
+patientId,imagePath,pathology,orientation,imageSizeMb
 Cisto_LEMD_1,D:\mathe\Documents\BancoDados_IC\Termografia\MammoTherm\Cisto\Cisto_LEMD_1.jpg,Cisto,LEMD,0.92
 Cisto_LEMD_10,D:\mathe\Documents\BancoDados_IC\Termografia\MammoTherm\Cisto\Cisto_LEMD_10.jpg,Cisto,LEMD,0.92
 Cisto_LEMD_11,D:\mathe\Documents\BancoDados_IC\Termografia\MammoTherm\Cisto\Cisto_LEMD_11.jpg,Cisto,LEMD,0.92

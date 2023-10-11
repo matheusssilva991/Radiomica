@@ -1,0 +1,111 @@
+[
+   {
+      "name": "DICOM",
+      "description": "O formato DICOM (Digital Imaging and Communications in Medicine) é um padrão amplamente utilizadopara imagens médicas em ambientes de assistência à saúde. Ele permite o armazenamento, transmissão etroca de informações médicas, incluindo imagens radiológicas, como radiografias, tomografias,ressonâncias magnéticas e ultrassonografias, juntamente com dados clínicos associados. O formatoDICOM é altamente reconhecido por sua capacidade de preservar informações cruciais de pacientes e de imagens médicas, garantindo a interoperabilidade entre diferentes sistemas e dispositivos de imagem, e desempenha um papel fundamental no diagnóstico, tratamento e gerenciamento de pacientesem ambientes de saúde.",
+      "requiredData": [
+         "sop_instance_uid (0008, 0018)",
+         "high_bit (0028, 0102)",
+         "bits_allocated (0028, 0100)",
+         "columns (0028, 0011)",
+         "content_date (0008, 0023)",
+         "modality (0008, 0060)",
+         "pixel_representation (0028, 0103)",
+         "sop_class_uid (0008, 0016)",
+         "series_instance_uid (0020, 000e)",
+         "study_instance_uid (0020, 000d)",
+         "samples_per_pixel (0028, 0002)",
+         "rows (0028, 0010)",
+         "photometric_interpretation (0028, 0004)",
+         "content_time (0008, 0033)",
+         "bits_stored (0028, 0101)",
+         "pathology"
+      ],
+      "optionalData": [
+         "leftOrRightBreast",
+         "calcificationDistribution",
+         "number",
+         "secondary_capture_device_manufacturer (0018, 1016)",
+         "orientation",
+         "massMargins",
+         "smallest_image_pixel_value (0028, 0106)",
+         "conversion_type (0008, 0064)",
+         "secondary_capture_device_manufacturer's_model_name (0018, 1018)",
+         "subtlety",
+         "study_date (0008, 0020)",
+         "body_part_examined (0018, 0015)",
+         "patient_orientation (0020, 0020)",
+         "acquisitionDate",
+         "private_creator (0013, 0010)",
+         "private_tag_data (0013, 1013)",
+         "series_description (0008, 103e)",
+         "abnormalityType",
+         "biRads",
+         "study_id (0020, 0010)",
+         "series_number (0020, 0011)",
+         "specific_character_set (0008, 0005)",
+         "patient's_name (0010, 0010)",
+         "calcificationType",
+         "patientAge",
+         "massShape",
+         "private_tag_data (0013, 1010)",
+         "largest_image_pixel_value (0028, 0107)",
+         "subtype",
+         "croppedImagePath",
+         "findingsNotes",
+         "fileName",
+         "instance_number (0020, 0013)",
+         "breastDensity",
+         "laterality (0020, 0060)",
+         "abnormalityId",
+         "study_time (0008, 0030)",
+         "patient_id (0010, 0020)"
+      ]
+   },
+   {
+      "name": "PGM",
+      "description": "O formato PGM (Portable Gray Map) é um formato de arquivo de imagem que é usado para representarimagens em tons de cinza (escala de cinza). O PGM é um dos formatos simples e diretos para armazenar imagens em tons de cinza e é frequentemente usado em processamento de imagens e visãocomputacional.",
+      "requiredData": [
+         "header",
+         "rows",
+         "columns",
+         "max_value",
+         "pathology",
+         "pathology"
+      ],
+      "optionalData": [
+         "xCentreAbnormality",
+         "backgroundTissue",
+         "abnormalityType",
+         "radius",
+         "yCentreAbnormality"
+      ]
+   },
+   {
+      "name": "PNG",
+      "description": "Formato de imagem PNG",
+      "requiredData": [
+         "pathology"
+      ],
+      "optionalData": [
+         "imageSizeMb",
+         "studyId",
+         "biRads"
+      ]
+   },
+   {
+      "name": "JPG",
+      "description": "Formato de imagem JPG",
+      "requiredData": [
+         "pathology"
+      ],
+      "optionalData": [
+         "subgroupUrl",
+         "group",
+         "subgroup",
+         "imageSizeMb",
+         "orientation",
+         "imgUrl",
+         "caseDescription"
+      ]
+   }
+]

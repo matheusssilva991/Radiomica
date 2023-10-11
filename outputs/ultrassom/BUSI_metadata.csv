@@ -1,4 +1,4 @@
-image_name,image_path,cropped_path,pathology,image_size_mb
+patientId,imagePath,croppedImagePath,pathology,imageSizeMb
 benign_1,D:\mathe\Documents\BancoDados_IC\Ultrassom\Dataset_BUSI_with_GT\benign\benign (1).png,D:\mathe\Documents\BancoDados_IC\Ultrassom\Dataset_BUSI_with_GT\benign\benign (1)_mask.png,Benign,0.79
 benign_10,D:\mathe\Documents\BancoDados_IC\Ultrassom\Dataset_BUSI_with_GT\benign\benign (10).png,D:\mathe\Documents\BancoDados_IC\Ultrassom\Dataset_BUSI_with_GT\benign\benign (10)_mask.png,Benign,1.2
 benign_100,D:\mathe\Documents\BancoDados_IC\Ultrassom\Dataset_BUSI_with_GT\benign\benign (100).png,D:\mathe\Documents\BancoDados_IC\Ultrassom\Dataset_BUSI_with_GT\benign\benign (100)_mask.png,Benign,0.46

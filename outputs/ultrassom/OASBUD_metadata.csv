@@ -1,4 +1,4 @@
-id,pathology,bi-rads,image_path,cropped_path,image_size_mb
+patientId,pathology,biRads,imagePath,croppedImagePath,imageSizeMb
 1mm,Benign,3,D:\mathe\Documents\BancoDados_IC\Ultrassom\OASBUD\1mm\1mm_0.png,D:\mathe\Documents\BancoDados_IC\Ultrassom\OASBUD\1mm\1mm_0_roi.png,0.44
 1mm,Benign,3,D:\mathe\Documents\BancoDados_IC\Ultrassom\OASBUD\1mm\1mm_1.png,D:\mathe\Documents\BancoDados_IC\Ultrassom\OASBUD\1mm\1mm_1_roi.png,0.44
 2mm,Benign,3,D:\mathe\Documents\BancoDados_IC\Ultrassom\OASBUD\2mm\2mm_0.png,D:\mathe\Documents\BancoDados_IC\Ultrassom\OASBUD\2mm\2mm_0_roi.png,0.49

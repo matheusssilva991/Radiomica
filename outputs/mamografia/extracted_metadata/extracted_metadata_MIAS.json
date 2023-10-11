@@ -9,7 +9,8 @@
          "x_centre_abnormality": "535",
          "y_centre_abnormality": "425",
          "radius": "197",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb001.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb001.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb001.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -28,7 +29,8 @@
          "x_centre_abnormality": "522",
          "y_centre_abnormality": "280",
          "radius": "69",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb002.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb002.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb002.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -77,7 +79,8 @@
          "x_centre_abnormality": "477",
          "y_centre_abnormality": "133",
          "radius": "30",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb005.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb005.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb005.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -96,7 +99,8 @@
          "x_centre_abnormality": "500",
          "y_centre_abnormality": "168",
          "radius": "26",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb005.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb005.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb005.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -175,7 +179,8 @@
          "x_centre_abnormality": "525",
          "y_centre_abnormality": "425",
          "radius": "33",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb010.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb010.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb010.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -209,7 +214,8 @@
          "x_centre_abnormality": "471",
          "y_centre_abnormality": "458",
          "radius": "40",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb012.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb012.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb012.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -228,7 +234,8 @@
          "x_centre_abnormality": "667",
          "y_centre_abnormality": "365",
          "radius": "31",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb013.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb013.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb013.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -262,7 +269,8 @@
          "x_centre_abnormality": "595",
          "y_centre_abnormality": "864",
          "radius": "68",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb015.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb015.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb015.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -296,7 +304,8 @@
          "x_centre_abnormality": "547",
          "y_centre_abnormality": "573",
          "radius": "48",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb017.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb017.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb017.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -330,7 +339,8 @@
          "x_centre_abnormality": "653",
          "y_centre_abnormality": "477",
          "radius": "49",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb019.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb019.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb019.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -364,7 +374,8 @@
          "x_centre_abnormality": "493",
          "y_centre_abnormality": "125",
          "radius": "49",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb021.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb021.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb021.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -398,7 +409,8 @@
          "x_centre_abnormality": "538",
          "y_centre_abnormality": "681",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb023.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb023.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb023.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -432,7 +444,8 @@
          "x_centre_abnormality": "674",
          "y_centre_abnormality": "443",
          "radius": "79",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb025.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb025.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb025.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -481,7 +494,8 @@
          "x_centre_abnormality": "338",
          "y_centre_abnormality": "314",
          "radius": "56",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb028.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb028.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb028.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -515,7 +529,8 @@
          "x_centre_abnormality": "322",
          "y_centre_abnormality": "676",
          "radius": "43",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb030.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb030.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb030.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -549,7 +564,8 @@
          "x_centre_abnormality": "388",
          "y_centre_abnormality": "742",
          "radius": "66",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb032.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb032.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb032.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -943,7 +959,8 @@
          "x_centre_abnormality": "318",
          "y_centre_abnormality": "359",
          "radius": "27",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb058.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb058.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb058.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1022,7 +1039,8 @@
          "x_centre_abnormality": "546",
          "y_centre_abnormality": "463",
          "radius": "33",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb063.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb063.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb063.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1116,7 +1134,8 @@
          "x_centre_abnormality": "462",
          "y_centre_abnormality": "406",
          "radius": "44",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb069.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb069.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb069.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1165,7 +1184,8 @@
          "x_centre_abnormality": "266",
          "y_centre_abnormality": "517",
          "radius": "28",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb072.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb072.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb072.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1214,7 +1234,8 @@
          "x_centre_abnormality": "468",
          "y_centre_abnormality": "717",
          "radius": "23",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb075.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb075.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb075.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1293,7 +1314,8 @@
          "x_centre_abnormality": "432",
          "y_centre_abnormality": "149",
          "radius": "20",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb080.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb080.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb080.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1312,7 +1334,8 @@
          "x_centre_abnormality": "492",
          "y_centre_abnormality": "473",
          "radius": "131",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb081.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb081.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb081.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1346,7 +1369,8 @@
          "x_centre_abnormality": "544",
          "y_centre_abnormality": "194",
          "radius": "38",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb083.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb083.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb083.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1455,7 +1479,8 @@
          "x_centre_abnormality": "510",
          "y_centre_abnormality": "547",
          "radius": "49",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb090.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb090.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb090.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1474,7 +1499,8 @@
          "x_centre_abnormality": "680",
          "y_centre_abnormality": "494",
          "radius": "20",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb091.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb091.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb091.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1493,7 +1519,8 @@
          "x_centre_abnormality": "423",
          "y_centre_abnormality": "662",
          "radius": "43",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb092.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb092.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb092.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1542,7 +1569,8 @@
          "x_centre_abnormality": "466",
          "y_centre_abnormality": "517",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb095.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb095.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb095.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1576,7 +1604,8 @@
          "x_centre_abnormality": "612",
          "y_centre_abnormality": "297",
          "radius": "34",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb097.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb097.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb097.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1610,7 +1639,8 @@
          "x_centre_abnormality": "714",
          "y_centre_abnormality": "340",
          "radius": "23",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb099.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb099.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb099.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1659,7 +1689,8 @@
          "x_centre_abnormality": "415",
          "y_centre_abnormality": "460",
          "radius": "38",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb102.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb102.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb102.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1693,7 +1724,8 @@
          "x_centre_abnormality": "357",
          "y_centre_abnormality": "365",
          "radius": "50",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb104.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb104.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb104.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1712,7 +1744,8 @@
          "x_centre_abnormality": "516",
          "y_centre_abnormality": "279",
          "radius": "98",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb105.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb105.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb105.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1746,7 +1779,8 @@
          "x_centre_abnormality": "600",
          "y_centre_abnormality": "621",
          "radius": "111",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb107.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb107.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb107.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1795,7 +1829,8 @@
          "x_centre_abnormality": "190",
          "y_centre_abnormality": "427",
          "radius": "51",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb110.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb110.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb110.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1814,7 +1849,8 @@
          "x_centre_abnormality": "505",
          "y_centre_abnormality": "575",
          "radius": "107",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb111.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb111.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb111.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1878,7 +1914,8 @@
          "x_centre_abnormality": "461",
          "y_centre_abnormality": "532",
          "radius": "117",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb115.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb115.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb115.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1912,7 +1949,8 @@
          "x_centre_abnormality": "480",
          "y_centre_abnormality": "576",
          "radius": "84",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb117.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb117.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb117.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1961,7 +1999,8 @@
          "x_centre_abnormality": "423",
          "y_centre_abnormality": "262",
          "radius": "79",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb120.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb120.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb120.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -1980,7 +2019,8 @@
          "x_centre_abnormality": "492",
          "y_centre_abnormality": "434",
          "radius": "87",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb121.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb121.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb121.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2029,7 +2069,8 @@
          "x_centre_abnormality": "366",
          "y_centre_abnormality": "620",
          "radius": "33",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb124.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb124.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb124.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2048,7 +2089,8 @@
          "x_centre_abnormality": "700",
          "y_centre_abnormality": "552",
          "radius": "60",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb125.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb125.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb125.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2067,7 +2109,8 @@
          "x_centre_abnormality": "191",
          "y_centre_abnormality": "549",
          "radius": "23",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb126.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb126.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb126.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2086,7 +2129,8 @@
          "x_centre_abnormality": "523",
          "y_centre_abnormality": "551",
          "radius": "48",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb127.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb127.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb127.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2135,7 +2179,8 @@
          "x_centre_abnormality": "220",
          "y_centre_abnormality": "552",
          "radius": "28",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb130.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb130.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb130.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2169,7 +2214,8 @@
          "x_centre_abnormality": "252",
          "y_centre_abnormality": "788",
          "radius": "52",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb132.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb132.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb132.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2188,7 +2234,8 @@
          "x_centre_abnormality": "335",
          "y_centre_abnormality": "766",
          "radius": "18",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb132.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb132.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb132.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2222,7 +2269,8 @@
          "x_centre_abnormality": "469",
          "y_centre_abnormality": "728",
          "radius": "49",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb134.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb134.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb134.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2331,7 +2379,8 @@
          "x_centre_abnormality": "470",
          "y_centre_abnormality": "759",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb141.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb141.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb141.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2350,7 +2399,8 @@
          "x_centre_abnormality": "347",
          "y_centre_abnormality": "636",
          "radius": "26",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb142.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb142.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb142.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2384,7 +2434,8 @@
          "x_centre_abnormality": "233",
          "y_centre_abnormality": "994",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb144.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb144.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb144.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2403,7 +2454,8 @@
          "x_centre_abnormality": "313",
          "y_centre_abnormality": "540",
          "radius": "27",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb144.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb144.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb144.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2422,7 +2474,8 @@
          "x_centre_abnormality": "669",
          "y_centre_abnormality": "543",
          "radius": "49",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb145.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb145.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb145.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2471,7 +2524,8 @@
          "x_centre_abnormality": "326",
          "y_centre_abnormality": "607",
          "radius": "174",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb148.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb148.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb148.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2505,7 +2559,8 @@
          "x_centre_abnormality": "351",
          "y_centre_abnormality": "661",
          "radius": "62",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb150.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb150.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb150.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2539,7 +2594,8 @@
          "x_centre_abnormality": "675",
          "y_centre_abnormality": "486",
          "radius": "48",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb152.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb152.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb152.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2588,7 +2644,8 @@
          "x_centre_abnormality": "448",
          "y_centre_abnormality": "480",
          "radius": "95",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb155.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb155.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb155.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2637,7 +2694,8 @@
          "x_centre_abnormality": "540",
          "y_centre_abnormality": "565",
          "radius": "88",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb158.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb158.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb158.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2671,7 +2729,8 @@
          "x_centre_abnormality": "536",
          "y_centre_abnormality": "519",
          "radius": "61",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb160.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb160.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb160.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2720,7 +2779,8 @@
          "x_centre_abnormality": "391",
          "y_centre_abnormality": "365",
          "radius": "50",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb163.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb163.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb163.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2754,7 +2814,8 @@
          "x_centre_abnormality": "537",
          "y_centre_abnormality": "490",
          "radius": "42",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb165.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb165.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb165.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2788,7 +2849,8 @@
          "x_centre_abnormality": "574",
          "y_centre_abnormality": "657",
          "radius": "35",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb167.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb167.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb167.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2837,7 +2899,8 @@
          "x_centre_abnormality": "489",
          "y_centre_abnormality": "480",
          "radius": "82",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb170.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb170.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb170.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2856,7 +2919,8 @@
          "x_centre_abnormality": "462",
          "y_centre_abnormality": "627",
          "radius": "62",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb171.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb171.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb171.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2920,7 +2984,8 @@
          "x_centre_abnormality": "592",
          "y_centre_abnormality": "670",
          "radius": "33",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb175.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb175.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb175.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2969,7 +3034,8 @@
          "x_centre_abnormality": "492",
          "y_centre_abnormality": "600",
          "radius": "70",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb178.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb178.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb178.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -2988,7 +3054,8 @@
          "x_centre_abnormality": "600",
          "y_centre_abnormality": "514",
          "radius": "67",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb179.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb179.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb179.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3022,7 +3089,8 @@
          "x_centre_abnormality": "519",
          "y_centre_abnormality": "362",
          "radius": "54",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb181.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb181.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb181.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3071,7 +3139,8 @@
          "x_centre_abnormality": "352",
          "y_centre_abnormality": "624",
          "radius": "114",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb184.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb184.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb184.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3105,7 +3174,8 @@
          "x_centre_abnormality": "403",
          "y_centre_abnormality": "524",
          "radius": "47",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb186.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb186.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb186.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3139,7 +3209,8 @@
          "x_centre_abnormality": "406",
          "y_centre_abnormality": "617",
          "radius": "61",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb188.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb188.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb188.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3173,7 +3244,8 @@
          "x_centre_abnormality": "512",
          "y_centre_abnormality": "621",
          "radius": "31",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb190.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb190.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb190.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3192,7 +3264,8 @@
          "x_centre_abnormality": "594",
          "y_centre_abnormality": "516",
          "radius": "41",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb191.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb191.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb191.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3226,7 +3299,8 @@
          "x_centre_abnormality": "399",
          "y_centre_abnormality": "563",
          "radius": "132",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb193.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb193.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb193.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3260,7 +3334,8 @@
          "x_centre_abnormality": "725",
          "y_centre_abnormality": "129",
          "radius": "26",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb195.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb195.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb195.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3309,7 +3384,8 @@
          "x_centre_abnormality": "568",
          "y_centre_abnormality": "612",
          "radius": "93",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb198.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb198.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb198.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3328,7 +3404,8 @@
          "x_centre_abnormality": "641",
          "y_centre_abnormality": "177",
          "radius": "31",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb199.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb199.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb199.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3377,7 +3454,8 @@
          "x_centre_abnormality": "557",
          "y_centre_abnormality": "772",
          "radius": "37",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb202.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb202.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb202.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3411,7 +3489,8 @@
          "x_centre_abnormality": "336",
          "y_centre_abnormality": "399",
          "radius": "21",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb204.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb204.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb204.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3445,7 +3524,8 @@
          "x_centre_abnormality": "368",
          "y_centre_abnormality": "200",
          "radius": "17",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb206.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb206.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb206.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3464,7 +3544,8 @@
          "x_centre_abnormality": "571",
          "y_centre_abnormality": "564",
          "radius": "19",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb207.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb207.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb207.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3498,7 +3579,8 @@
          "x_centre_abnormality": "647",
          "y_centre_abnormality": "503",
          "radius": "87",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb209.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb209.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb209.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3532,7 +3614,8 @@
          "x_centre_abnormality": "680",
          "y_centre_abnormality": "327",
          "radius": "13",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb211.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb211.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb211.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3551,7 +3634,8 @@
          "x_centre_abnormality": "687",
          "y_centre_abnormality": "882",
          "radius": "3",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb212.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb212.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb212.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3570,7 +3654,8 @@
          "x_centre_abnormality": "547",
          "y_centre_abnormality": "520",
          "radius": "45",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb213.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb213.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb213.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3589,7 +3674,8 @@
          "x_centre_abnormality": "582",
          "y_centre_abnormality": "916",
          "radius": "11",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb214.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb214.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb214.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3653,7 +3739,8 @@
          "x_centre_abnormality": "519",
          "y_centre_abnormality": "629",
          "radius": "8",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb218.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb218.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb218.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3672,7 +3759,8 @@
          "x_centre_abnormality": "546",
          "y_centre_abnormality": "756",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb219.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb219.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb219.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3721,7 +3809,8 @@
          "x_centre_abnormality": "398",
          "y_centre_abnormality": "427",
          "radius": "17",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb222.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb222.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb222.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3740,7 +3829,8 @@
          "x_centre_abnormality": "523",
          "y_centre_abnormality": "482",
          "radius": "29",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb223.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb223.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb223.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3759,7 +3849,8 @@
          "x_centre_abnormality": "591",
          "y_centre_abnormality": "529",
          "radius": "6",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb223.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb223.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb223.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3808,7 +3899,8 @@
          "x_centre_abnormality": "287",
          "y_centre_abnormality": "610",
          "radius": "7",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb226.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb226.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb226.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3827,7 +3919,8 @@
          "x_centre_abnormality": "329",
          "y_centre_abnormality": "550",
          "radius": "25",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb226.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb226.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb226.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3846,7 +3939,8 @@
          "x_centre_abnormality": "531",
          "y_centre_abnormality": "721",
          "radius": "8",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb226.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb226.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb226.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3865,7 +3959,8 @@
          "x_centre_abnormality": "504",
          "y_centre_abnormality": "467",
          "radius": "9",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb227.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb227.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb227.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -3929,7 +4024,8 @@
          "x_centre_abnormality": "603",
          "y_centre_abnormality": "538",
          "radius": "44",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb231.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb231.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb231.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4010,7 +4106,8 @@
          "x_centre_abnormality": "276",
          "y_centre_abnormality": "824",
          "radius": "14",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb236.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb236.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb236.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4044,7 +4141,8 @@
          "x_centre_abnormality": "522",
          "y_centre_abnormality": "553",
          "radius": "17",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb238.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb238.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb238.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4063,7 +4161,8 @@
          "x_centre_abnormality": "645",
          "y_centre_abnormality": "755",
          "radius": "40",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb239.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb239.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb239.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4082,7 +4181,8 @@
          "x_centre_abnormality": "567",
          "y_centre_abnormality": "808",
          "radius": "25",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb239.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb239.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb239.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4101,7 +4201,8 @@
          "x_centre_abnormality": "643",
          "y_centre_abnormality": "614",
          "radius": "23",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb240.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb240.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb240.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4120,7 +4221,8 @@
          "x_centre_abnormality": "453",
          "y_centre_abnormality": "678",
          "radius": "38",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb241.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb241.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb241.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4169,7 +4271,8 @@
          "x_centre_abnormality": "466",
          "y_centre_abnormality": "567",
          "radius": "52",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb244.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb244.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb244.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4235,7 +4338,8 @@
          "x_centre_abnormality": "378",
          "y_centre_abnormality": "601",
          "radius": "10",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb248.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb248.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb248.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4254,7 +4358,8 @@
          "x_centre_abnormality": "544",
          "y_centre_abnormality": "508",
          "radius": "48",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb249.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb249.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb249.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4273,7 +4378,8 @@
          "x_centre_abnormality": "575",
          "y_centre_abnormality": "639",
          "radius": "64",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb249.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb249.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb249.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4322,7 +4428,8 @@
          "x_centre_abnormality": "439",
          "y_centre_abnormality": "367",
          "radius": "23",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb252.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb252.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb252.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4341,7 +4448,8 @@
          "x_centre_abnormality": "733",
          "y_centre_abnormality": "564",
          "radius": "28",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb253.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb253.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb253.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4390,7 +4498,8 @@
          "x_centre_abnormality": "400",
          "y_centre_abnormality": "484",
          "radius": "37",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb256.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb256.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb256.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4514,7 +4623,8 @@
          "x_centre_abnormality": "596",
          "y_centre_abnormality": "431",
          "radius": "36",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb264.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb264.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb264.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4533,7 +4643,8 @@
          "x_centre_abnormality": "593",
          "y_centre_abnormality": "498",
          "radius": "60",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb265.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb265.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb265.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4567,7 +4678,8 @@
          "x_centre_abnormality": "793",
          "y_centre_abnormality": "481",
          "radius": "56",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb267.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb267.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb267.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4616,7 +4728,8 @@
          "x_centre_abnormality": "356",
          "y_centre_abnormality": "945",
          "radius": "72",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb270.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb270.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb270.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4635,7 +4748,8 @@
          "x_centre_abnormality": "784",
          "y_centre_abnormality": "270",
          "radius": "68",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb271.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb271.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb271.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4684,7 +4798,8 @@
          "x_centre_abnormality": "127",
          "y_centre_abnormality": "505",
          "radius": "123",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb274.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb274.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb274.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -4928,7 +5043,8 @@
          "x_centre_abnormality": "337",
          "y_centre_abnormality": "353",
          "radius": "45",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb290.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb290.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb290.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5262,7 +5378,8 @@
          "x_centre_abnormality": "240",
          "y_centre_abnormality": "263",
          "radius": "20",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb312.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb312.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb312.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5296,7 +5413,8 @@
          "x_centre_abnormality": "518",
          "y_centre_abnormality": "191",
          "radius": "39",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb314.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb314.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb314.png"
       },
       "metadata_pgm_file": {
          "header": "P5",
@@ -5315,7 +5433,8 @@
          "x_centre_abnormality": "516",
          "y_centre_abnormality": "447",
          "radius": "93",
-         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb315.pgm"
+         "image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-mias/mdb315.pgm",
+         "cropped_image_path": "D:/mathe/Documents/BancoDados_IC/Mamografia/MIAS/all-roi/mdb315.png"
       },
       "metadata_pgm_file": {
          "header": "P5",

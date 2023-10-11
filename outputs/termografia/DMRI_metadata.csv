@@ -1,4 +1,4 @@
-study_id,id,image_path,pathology,cropped_path,image_size_mb
+studyId,patientId,imagePath,pathology,croppedImagePath,imageSizeMb
 1050,PAC_65_DN0,D:\mathe\Documents\BancoDados_IC\Termografia\DMRI_processado/1050/original/PAC_65_DN0.png,Doente,D:\mathe\Documents\BancoDados_IC\Termografia\DMRI_processado/1050/cropped/PAC_65_DN0-esq.png,0.54
 1050,PAC_65_DN1,D:\mathe\Documents\BancoDados_IC\Termografia\DMRI_processado/1050/original/PAC_65_DN1.png,Doente,D:\mathe\Documents\BancoDados_IC\Termografia\DMRI_processado/1050/cropped/PAC_65_DN1-esq.png,0.54
 1050,PAC_65_DN10,D:\mathe\Documents\BancoDados_IC\Termografia\DMRI_processado/1050/original/PAC_65_DN10.png,Doente,D:\mathe\Documents\BancoDados_IC\Termografia\DMRI_processado/1050/cropped/PAC_65_DN10-esq.png,0.54

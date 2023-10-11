@@ -1,4 +1,4 @@
-id,img_url,image_path,pathology,image_size_mb
+patientId,imgUrl,imagePath,pathology,imageSizeMb
 Case-1-U-1-1,http://onlinemedicalimages.com//media/com_record/Case-1-U-1-1.jpg,D:\mathe\Documents\BancoDados_IC\Ultrassom\Thammasat\Case-1-U-1-1.jpg,Malignant,1.1
 Case-2-U-2-1,http://onlinemedicalimages.com//media/com_record/Case-2-U-2-1.jpg,D:\mathe\Documents\BancoDados_IC\Ultrassom\Thammasat\Case-2-U-2-1.jpg,Malignant,1.28
 Case-2-U-2-2,http://onlinemedicalimages.com//media/com_record/Case-2-U-2-2.jpg,D:\mathe\Documents\BancoDados_IC\Ultrassom\Thammasat\Case-2-U-2-2.jpg,Malignant,1.28
