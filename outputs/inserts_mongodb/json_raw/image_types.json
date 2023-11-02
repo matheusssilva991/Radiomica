@@ -21,44 +21,44 @@
          "pathology"
       ],
       "optionalData": [
-         "leftOrRightBreast",
+         "biRads",
+         "largest_image_pixel_value (0028, 0107)",
+         "abnormalityType",
+         "study_time (0008, 0030)",
+         "calcificationType",
+         "instance_number (0020, 0013)",
+         "series_number (0020, 0011)",
+         "massShape",
+         "series_description (0008, 103e)",
+         "patient_orientation (0020, 0020)",
+         "fileName",
+         "private_creator (0013, 0010)",
+         "study_id (0020, 0010)",
          "calcificationDistribution",
-         "number",
+         "private_tag_data (0013, 1013)",
+         "private_tag_data (0013, 1010)",
+         "patient_id (0010, 0020)",
+         "patientAge",
+         "conversion_type (0008, 0064)",
+         "specific_character_set (0008, 0005)",
+         "subtlety",
+         "subtype",
+         "patient's_name (0010, 0010)",
+         "body_part_examined (0018, 0015)",
+         "smallest_image_pixel_value (0028, 0106)",
+         "breastDensity",
+         "massMargins",
+         "secondary_capture_device_manufacturer's_model_name (0018, 1018)",
          "secondary_capture_device_manufacturer (0018, 1016)",
          "orientation",
-         "massMargins",
-         "smallest_image_pixel_value (0028, 0106)",
-         "conversion_type (0008, 0064)",
-         "secondary_capture_device_manufacturer's_model_name (0018, 1018)",
-         "subtlety",
-         "study_date (0008, 0020)",
-         "body_part_examined (0018, 0015)",
-         "patient_orientation (0020, 0020)",
-         "acquisitionDate",
-         "private_creator (0013, 0010)",
-         "private_tag_data (0013, 1013)",
-         "series_description (0008, 103e)",
-         "abnormalityType",
-         "biRads",
-         "study_id (0020, 0010)",
-         "series_number (0020, 0011)",
-         "specific_character_set (0008, 0005)",
-         "patient's_name (0010, 0010)",
-         "calcificationType",
-         "patientAge",
-         "massShape",
-         "private_tag_data (0013, 1010)",
-         "largest_image_pixel_value (0028, 0107)",
-         "subtype",
-         "croppedImagePath",
-         "findingsNotes",
-         "fileName",
-         "instance_number (0020, 0013)",
-         "breastDensity",
-         "laterality (0020, 0060)",
          "abnormalityId",
-         "study_time (0008, 0030)",
-         "patient_id (0010, 0020)"
+         "leftOrRightBreast",
+         "acquisitionDate",
+         "number",
+         "findingsNotes",
+         "study_date (0008, 0020)",
+         "laterality (0020, 0060)",
+         "croppedImagePath"
       ]
    },
    {
@@ -73,11 +73,11 @@
          "pathology"
       ],
       "optionalData": [
-         "xCentreAbnormality",
-         "backgroundTissue",
          "abnormalityType",
-         "radius",
-         "yCentreAbnormality"
+         "yCentreAbnormality",
+         "backgroundTissue",
+         "xCentreAbnormality",
+         "radius"
       ]
    },
    {
@@ -87,9 +87,9 @@
          "pathology"
       ],
       "optionalData": [
-         "imageSizeMb",
+         "biRads",
          "studyId",
-         "biRads"
+         "imageSizeMb"
       ]
    },
    {
@@ -99,13 +99,13 @@
          "pathology"
       ],
       "optionalData": [
-         "subgroupUrl",
-         "group",
+         "caseDescription",
          "subgroup",
+         "group",
          "imageSizeMb",
+         "subgroupUrl",
          "orientation",
-         "imgUrl",
-         "caseDescription"
+         "imgUrl"
       ]
    }
 ]
