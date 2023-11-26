@@ -414,3 +414,37 @@ def load_inbreast_mask(mask_path, imshape=(4084, 3328)):
                 poly_x, poly_y = polygon(row, col, shape=imshape)
                 mask[poly_x, poly_y] = 1
     return mask
+
+
+def get_first_order_features(image: np.ndarray) -> list:  # noqa: E501
+    """Retorna as features de primeira ordem de uma imagem"""
+    features = []
+
+    # Mean
+    mean = np.mean(image)
+    features.append(mean)
+
+    # Variance
+    variance = np.var(image)
+    features.append(variance)
+
+    # Standard deviation
+    stddev = np.std(image)
+    features.append(stddev)
+    
+    # Skewness
+    # Check for invalid values before calculating skewness
+    if stddev != 0:
+        skewness = (np.mean((image - mean)**3) / stddev**3)
+    else:
+        skewness = 0  # Assign a default value if stddev is zero
+    features.append(skewness)
+
+    # Check for invalid values before calculating kurtosis
+    if stddev != 0:
+        kurtosis = (np.mean((image - mean)**4) / stddev**4) - 3
+    else:
+        kurtosis = 0  # Assign a default value if stddev is zero
+    features.append(kurtosis)
+
+    return features
