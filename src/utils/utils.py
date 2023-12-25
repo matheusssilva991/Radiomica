@@ -16,34 +16,27 @@ from copy import deepcopy
 from skimage.feature import graycomatrix, graycoprops
 from skimage.draw import polygon
 import plistlib
+import matplotlib.pyplot as plt
 
 
-def load_json(object_name: str, path=None) -> None | object:
+def load_json(path: str) -> object:
     """Carregar arquivos em JSON"""
-
-    if path is None:
-        path = os.getcwd().replace("\\", "/") 
-    path = path + f"/{object_name}.json"
-
     try:
         with open(path, 'r') as json_file:
-            return json.load(json_file)  
+            return json.load(json_file)
     except json.decoder.JSONDecodeError:
-        print("error")
-        return None
+        raise json.decoder.JSONDecodeError(f"Arquivo {path} não é um JSON válido")  # noqa: E501
     except FileNotFoundError:
-        # with open(path, 'w', encoding='utf-8') as json_file:
-        return None
+        raise FileNotFoundError(f"Arquivo {path} não encontrado")
 
 
-def save_json(object_name: str, data: list | dict, path=None) -> None:
+def save_json(path: str, data: list | dict) -> None:
     """Salvar arquivos em JSON"""
-
-    if path is None:
-        path = os.getcwd().replace("\\", "/")
-
-    with open(path + f"/{object_name}.json", 'w', encoding='utf-8') as json_file:  # noqa: E501
-        json.dump(data, json_file, ensure_ascii=False, indent=3)
+    try:
+        with open(path, 'w', encoding='utf-8') as json_file:  # noqa: E501
+            json.dump(data, json_file, ensure_ascii=False, indent=3)
+    except FileNotFoundError:
+        raise FileNotFoundError(f"Arquivo {path} não encontrado")
 
 
 def get_dicom_meta_seq(seq_element):
@@ -110,15 +103,6 @@ def get_dicom_meta(dicom_file: object, drop=False) -> dict:
     return dictionary
 
 
-def study_factory(study_name: str, metadata_csv: dict, metadata_dicom_files: list) -> dict:  # noqa: E501
-    """Gerar dicionario de estudo"""
-
-    return {'study_name': study_name,
-            'metadata_csv': metadata_csv,
-            'metadata_dicom_files': metadata_dicom_files
-            }
-
-
 def update_count_tag(list_tags: list | set, dictionary_tags: dict) -> None:
     """Itera sobre uma lista de tags e adiciona no dicionário se não estiver
     nele ou aumentar o contador se estiver nele"""
@@ -128,36 +112,6 @@ def update_count_tag(list_tags: list | set, dictionary_tags: dict) -> None:
             dictionary_tags[key] += 1
         else:
             dictionary_tags[key] = 1
-
-
-def preprocessing_path(path: str) -> str:
-    path = path.split("/")
-    path = path[0]
-
-    return path
-
-
-def read_pgm(filename, byteorder='>'):
-    """Return image data from a raw PGM file as numpy array.
-
-    Format specification: http://netpbm.sourceforge.net/doc/pgm.html
-
-    """
-    with open(filename, 'rb') as f:
-        buffer = f.read()
-    try:
-        header, width, height, maxval = re.search(
-            b"(^P5\s(?:\s*#.*[\r\n])*"  # noqa: W605
-            b"(\d+)\s(?:\s*#.*[\r\n])*"  # noqa: W605
-            b"(\d+)\s(?:\s*#.*[\r\n])*"  # noqa: W605
-            b"(\d+)\s(?:\s*#.*[\r\n]\s)*)", buffer).groups()  # noqa: W605
-    except AttributeError:
-        raise ValueError("Not a raw PGM file: '%s'" % filename)
-    return np.frombuffer(buffer,
-                         dtype='u1' if int(maxval) < 256 else byteorder+'u2',  # noqa: E501
-                         count=int(width)*int(height),
-                         offset=len(header)
-                         ).reshape((int(height), int(width))), bytes.decode(header)  # noqa: E501
 
 
 def merge_dictionary(left_dict: dict, right_dict: dict) -> dict:
@@ -253,18 +207,14 @@ def get_images_size(path: str, image_type: str = "", multiple=False) -> float | 
     if multiple:
         directory = Path(path)
         paths_images = list(directory.rglob(f"*.{image_type}*"))
+        paths_images.sort()
     else:
         paths_images = [path]
 
     images_size = []
     for path_image in paths_images:
         try:
-            image = []
-            if image_type.lower() == "dcm":
-                image = dcmread(path_image).pixel_array
-            else:
-                image = cv2.imread(str(path_image))
-
+            image = cv2.imread(str(path_image))
             images_size.append(round(image.nbytes / 1000000, 2))
         except FileNotFoundError:
             return None
@@ -291,11 +241,11 @@ def rename_keys(dictionary):
         "classification": "pathology",
         "reference_number": "patientId",
         "laterality": "leftOrRightBreast",
-        "view": "orientation",
+        "view": "imageView",
         "patient_id": "patientId",
         "left_or_right_breast": "leftOrRightBreast",
         "abnormality_type": "abnormalityType",
-        "image_view": "orientation",
+        "image_view": "imageView",
         "bi_rads": "biRads",
         "bi-rads": "biRads",
         "patient_age": "patientAge",
@@ -387,8 +337,8 @@ def get_glcm_features(image, distances, angles, levels, symmetric, normed, prope
 
 def load_inbreast_mask(mask_path, imshape=(4084, 3328)):
     """
-    This function loads a osirix xml region as a binary numpy array for INBREAST
-    dataset
+    This function loads a osirix xml region as a binary numpy array for 
+    INBREAST dataset
     @mask_path : Path to the xml file
     @imshape : The shape of the image as an array e.g. [4084, 3328]
     return: numpy array where positions in the roi are assigned a value of 1.
@@ -431,7 +381,6 @@ def get_first_order_features(image: np.ndarray) -> list:  # noqa: E501
     # Standard deviation
     stddev = np.std(image)
     features.append(stddev)
-    
     # Skewness
     # Check for invalid values before calculating skewness
     if stddev != 0:
@@ -448,3 +397,19 @@ def get_first_order_features(image: np.ndarray) -> list:  # noqa: E501
     features.append(kurtosis)
 
     return features
+
+
+def draw_image_mias(df: pd.DataFrame, idx: int) -> None:
+    ''' draw image with location of center of abnormality '''
+    img = cv2.imread(df['image_path'][idx])
+    plt.imshow(img, cmap='gray')
+
+    #  account for horizontal flip of some images
+    if idx % 2 == 0:
+        x_loc = df.x_center_abnormality[idx]
+    else:
+        x_loc = 1024 - df.x_center_abnormality[idx]
+    plt.plot([x_loc], [1024-df.y_center_abnormality[idx]], 'ro')
+    radius = str(df.radius[idx]) if df.radius[idx] == 'nan' else "N/A"
+    plt.title("Radius:" + radius)
+    plt.show()

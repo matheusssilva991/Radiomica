@@ -1,0 +1,331 @@
+id,background_tissue,abnormality_type,pathology,x_center_abnormality,y_center_abnormality,radius,image_path,roi_image_path
+mdb001,Fatty-glandular,Well-defined/circumscribed masses,benign,535.0,425.0,197.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb001.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb001_roi.png
+mdb002,Fatty-glandular,Well-defined/circumscribed masses,benign,522.0,280.0,69.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb002.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb002_roi.png
+mdb003,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb003.pgm,
+mdb004,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb004.pgm,
+mdb005,Fatty,Well-defined/circumscribed masses,benign,477.0,133.0,30.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb005.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb005_roi.png
+mdb005,Fatty,Well-defined/circumscribed masses,benign,500.0,168.0,26.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb005.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb005_roi.png
+mdb006,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb006.pgm,
+mdb007,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb007.pgm,
+mdb008,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb008.pgm,
+mdb009,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb009.pgm,
+mdb010,Fatty,Well-defined/circumscribed masses,benign,525.0,425.0,33.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb010.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb010_roi.png
+mdb011,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb011.pgm,
+mdb012,Fatty,Well-defined/circumscribed masses,benign,471.0,458.0,40.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb012.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb012_roi.png
+mdb013,Fatty-glandular,"Other, ill-defined masses",benign,667.0,365.0,31.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb013.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb013_roi.png
+mdb014,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb014.pgm,
+mdb015,Fatty-glandular,Well-defined/circumscribed masses,benign,595.0,864.0,68.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb015.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb015_roi.png
+mdb016,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb016.pgm,
+mdb017,Fatty-glandular,Well-defined/circumscribed masses,benign,547.0,573.0,48.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb017.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb017_roi.png
+mdb018,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb018.pgm,
+mdb019,Fatty-glandular,Well-defined/circumscribed masses,benign,653.0,477.0,49.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb019.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb019_roi.png
+mdb020,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb020.pgm,
+mdb021,Fatty-glandular,Well-defined/circumscribed masses,benign,493.0,125.0,49.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb021.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb021_roi.png
+mdb022,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb022.pgm,
+mdb023,Fatty-glandular,Well-defined/circumscribed masses,malignant,538.0,681.0,29.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb023.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb023_roi.png
+mdb024,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb024.pgm,
+mdb025,Fatty,Well-defined/circumscribed masses,benign,674.0,443.0,79.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb025.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb025_roi.png
+mdb026,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb026.pgm,
+mdb027,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb027.pgm,
+mdb028,Fatty,Well-defined/circumscribed masses,malignant,338.0,314.0,56.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb028.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb028_roi.png
+mdb029,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb029.pgm,
+mdb030,Fatty-glandular,"Other, ill-defined masses",benign,322.0,676.0,43.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb030.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb030_roi.png
+mdb031,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb031.pgm,
+mdb032,Fatty-glandular,"Other, ill-defined masses",benign,388.0,742.0,66.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb032.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb032_roi.png
+mdb033,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb033.pgm,
+mdb034,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb034.pgm,
+mdb035,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb035.pgm,
+mdb036,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb036.pgm,
+mdb037,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb037.pgm,
+mdb038,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb038.pgm,
+mdb039,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb039.pgm,
+mdb040,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb040.pgm,
+mdb041,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb041.pgm,
+mdb042,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb042.pgm,
+mdb043,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb043.pgm,
+mdb044,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb044.pgm,
+mdb045,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb045.pgm,
+mdb046,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb046.pgm,
+mdb047,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb047.pgm,
+mdb048,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb048.pgm,
+mdb049,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb049.pgm,
+mdb050,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb050.pgm,
+mdb051,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb051.pgm,
+mdb052,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb052.pgm,
+mdb053,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb053.pgm,
+mdb054,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb054.pgm,
+mdb055,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb055.pgm,
+mdb056,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb056.pgm,
+mdb057,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb057.pgm,
+mdb058,Dense-glandular,"Other, ill-defined masses",malignant,318.0,359.0,27.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb058.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb058_roi.png
+mdb059,Fatty,Well-defined/circumscribed masses,benign,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb059.pgm,
+mdb060,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb060.pgm,
+mdb061,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb061.pgm,
+mdb062,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb062.pgm,
+mdb063,Dense-glandular,"Other, ill-defined masses",benign,546.0,463.0,33.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb063.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb063_roi.png
+mdb064,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb064.pgm,
+mdb065,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb065.pgm,
+mdb066,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb066.pgm,
+mdb067,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb067.pgm,
+mdb068,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb068.pgm,
+mdb069,Fatty,Well-defined/circumscribed masses,benign,462.0,406.0,44.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb069.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb069_roi.png
+mdb070,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb070.pgm,
+mdb071,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb071.pgm,
+mdb072,Fatty-glandular,Asymmetry,malignant,266.0,517.0,28.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb072.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb072_roi.png
+mdb073,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb073.pgm,
+mdb074,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb074.pgm,
+mdb075,Fatty,Asymmetry,malignant,468.0,717.0,23.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb075.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb075_roi.png
+mdb076,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb076.pgm,
+mdb077,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb077.pgm,
+mdb078,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb078.pgm,
+mdb079,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb079.pgm,
+mdb080,Fatty,Well-defined/circumscribed masses,benign,432.0,149.0,20.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb080.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb080_roi.png
+mdb081,Fatty-glandular,Asymmetry,benign,492.0,473.0,131.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb081.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb081_roi.png
+mdb082,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb082.pgm,
+mdb083,Fatty-glandular,Asymmetry,benign,544.0,194.0,38.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb083.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb083_roi.png
+mdb084,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb084.pgm,
+mdb085,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb085.pgm,
+mdb086,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb086.pgm,
+mdb087,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb087.pgm,
+mdb088,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb088.pgm,
+mdb089,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb089.pgm,
+mdb090,Fatty-glandular,Asymmetry,malignant,510.0,547.0,49.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb090.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb090_roi.png
+mdb091,Fatty,Well-defined/circumscribed masses,benign,680.0,494.0,20.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb091.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb091_roi.png
+mdb092,Fatty,Asymmetry,malignant,423.0,662.0,43.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb092.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb092_roi.png
+mdb093,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb093.pgm,
+mdb094,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb094.pgm,
+mdb095,Fatty,Asymmetry,malignant,466.0,517.0,29.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb095.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb095_roi.png
+mdb096,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb096.pgm,
+mdb097,Fatty,Asymmetry,benign,612.0,297.0,34.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb097.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb097_roi.png
+mdb098,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb098.pgm,
+mdb099,Dense-glandular,Asymmetry,benign,714.0,340.0,23.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb099.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb099_roi.png
+mdb100,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb100.pgm,
+mdb101,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb101.pgm,
+mdb102,Dense-glandular,Asymmetry,malignant,415.0,460.0,38.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb102.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb102_roi.png
+mdb103,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb103.pgm,
+mdb104,Dense-glandular,Asymmetry,benign,357.0,365.0,50.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb104.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb104_roi.png
+mdb105,Dense-glandular,Asymmetry,malignant,516.0,279.0,98.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb105.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb105_roi.png
+mdb106,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb106.pgm,
+mdb107,Dense-glandular,Asymmetry,benign,600.0,621.0,111.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb107.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb107_roi.png
+mdb108,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb108.pgm,
+mdb109,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb109.pgm,
+mdb110,Dense-glandular,Asymmetry,malignant,190.0,427.0,51.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb110.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb110_roi.png
+mdb111,Dense-glandular,Asymmetry,malignant,505.0,575.0,107.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb111.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb111_roi.png
+mdb112,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb112.pgm,
+mdb113,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb113.pgm,
+mdb114,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb114.pgm,
+mdb115,Fatty-glandular,Architectural distortion,malignant,461.0,532.0,117.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb115.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb115_roi.png
+mdb116,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb116.pgm,
+mdb117,Fatty-glandular,Architectural distortion,malignant,480.0,576.0,84.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb117.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb117_roi.png
+mdb118,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb118.pgm,
+mdb119,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb119.pgm,
+mdb120,Fatty-glandular,Architectural distortion,malignant,423.0,262.0,79.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb120.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb120_roi.png
+mdb121,Fatty-glandular,Architectural distortion,benign,492.0,434.0,87.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb121.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb121_roi.png
+mdb122,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb122.pgm,
+mdb123,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb123.pgm,
+mdb124,Fatty-glandular,Architectural distortion,malignant,366.0,620.0,33.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb124.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb124_roi.png
+mdb125,Dense-glandular,Architectural distortion,malignant,700.0,552.0,60.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb125.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb125_roi.png
+mdb126,Dense-glandular,Architectural distortion,benign,191.0,549.0,23.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb126.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb126_roi.png
+mdb127,Fatty-glandular,Architectural distortion,benign,523.0,551.0,48.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb127.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb127_roi.png
+mdb128,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb128.pgm,
+mdb129,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb129.pgm,
+mdb130,Dense-glandular,Architectural distortion,malignant,220.0,552.0,28.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb130.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb130_roi.png
+mdb131,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb131.pgm,
+mdb132,Fatty,Well-defined/circumscribed masses,benign,252.0,788.0,52.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb132.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb132_roi.png
+mdb132,Fatty,Well-defined/circumscribed masses,benign,335.0,766.0,18.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb132.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb132_roi.png
+mdb133,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb133.pgm,
+mdb134,Fatty,"Other, ill-defined masses",malignant,469.0,728.0,49.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb134.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb134_roi.png
+mdb135,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb135.pgm,
+mdb136,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb136.pgm,
+mdb137,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb137.pgm,
+mdb138,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb138.pgm,
+mdb139,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb139.pgm,
+mdb140,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb140.pgm,
+mdb141,Fatty,Well-defined/circumscribed masses,malignant,470.0,759.0,29.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb141.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb141_roi.png
+mdb142,Fatty,Well-defined/circumscribed masses,benign,347.0,636.0,26.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb142.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb142_roi.png
+mdb143,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb143.pgm,
+mdb144,Fatty,"Other, ill-defined masses",benign,233.0,994.0,29.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb144.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb144_roi.png
+mdb144,Fatty,"Other, ill-defined masses",malignant,313.0,540.0,27.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb144.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb144_roi.png
+mdb145,Dense-glandular,Spiculated masses,benign,669.0,543.0,49.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb145.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb145_roi.png
+mdb146,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb146.pgm,
+mdb147,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb147.pgm,
+mdb148,Fatty,Spiculated masses,malignant,326.0,607.0,174.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb148.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb148_roi.png
+mdb149,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb149.pgm,
+mdb150,Fatty,Architectural distortion,benign,351.0,661.0,62.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb150.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb150_roi.png
+mdb151,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb151.pgm,
+mdb152,Fatty,Architectural distortion,benign,675.0,486.0,48.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb152.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb152_roi.png
+mdb153,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb153.pgm,
+mdb154,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb154.pgm,
+mdb155,Fatty,Architectural distortion,malignant,448.0,480.0,95.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb155.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb155_roi.png
+mdb156,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb156.pgm,
+mdb157,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb157.pgm,
+mdb158,Fatty,Architectural distortion,malignant,540.0,565.0,88.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb158.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb158_roi.png
+mdb159,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb159.pgm,
+mdb160,Fatty,Architectural distortion,benign,536.0,519.0,61.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb160.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb160_roi.png
+mdb161,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb161.pgm,
+mdb162,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb162.pgm,
+mdb163,Dense-glandular,Architectural distortion,benign,391.0,365.0,50.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb163.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb163_roi.png
+mdb164,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb164.pgm,
+mdb165,Dense-glandular,Architectural distortion,benign,537.0,490.0,42.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb165.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb165_roi.png
+mdb166,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb166.pgm,
+mdb167,Fatty,Architectural distortion,benign,574.0,657.0,35.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb167.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb167_roi.png
+mdb168,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb168.pgm,
+mdb169,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb169.pgm,
+mdb170,Dense-glandular,Architectural distortion,malignant,489.0,480.0,82.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb170.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb170_roi.png
+mdb171,Dense-glandular,Architectural distortion,malignant,462.0,627.0,62.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb171.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb171_roi.png
+mdb172,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb172.pgm,
+mdb173,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb173.pgm,
+mdb174,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb174.pgm,
+mdb175,Fatty-glandular,Spiculated masses,benign,592.0,670.0,33.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb175.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb175_roi.png
+mdb176,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb176.pgm,
+mdb177,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb177.pgm,
+mdb178,Fatty-glandular,Spiculated masses,malignant,492.0,600.0,70.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb178.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb178_roi.png
+mdb179,Dense-glandular,Spiculated masses,malignant,600.0,514.0,67.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb179.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb179_roi.png
+mdb180,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb180.pgm,
+mdb181,Fatty-glandular,Spiculated masses,malignant,519.0,362.0,54.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb181.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb181_roi.png
+mdb182,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb182.pgm,
+mdb183,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb183.pgm,
+mdb184,Fatty,Spiculated masses,malignant,352.0,624.0,114.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb184.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb184_roi.png
+mdb185,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb185.pgm,
+mdb186,Fatty-glandular,Spiculated masses,malignant,403.0,524.0,47.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb186.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb186_roi.png
+mdb187,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb187.pgm,
+mdb188,Fatty-glandular,Spiculated masses,benign,406.0,617.0,61.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb188.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb188_roi.png
+mdb189,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb189.pgm,
+mdb190,Fatty-glandular,Spiculated masses,benign,512.0,621.0,31.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb190.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb190_roi.png
+mdb191,Fatty-glandular,Spiculated masses,benign,594.0,516.0,41.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb191.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb191_roi.png
+mdb192,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb192.pgm,
+mdb193,Dense-glandular,Spiculated masses,benign,399.0,563.0,132.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb193.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb193_roi.png
+mdb194,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb194.pgm,
+mdb195,Fatty,Spiculated masses,benign,725.0,129.0,26.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb195.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb195_roi.png
+mdb196,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb196.pgm,
+mdb197,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb197.pgm,
+mdb198,Dense-glandular,Spiculated masses,benign,568.0,612.0,93.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb198.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb198_roi.png
+mdb199,Dense-glandular,Spiculated masses,benign,641.0,177.0,31.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb199.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb199_roi.png
+mdb200,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb200.pgm,
+mdb201,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb201.pgm,
+mdb202,Dense-glandular,Spiculated masses,malignant,557.0,772.0,37.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb202.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb202_roi.png
+mdb203,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb203.pgm,
+mdb204,Fatty,Spiculated masses,benign,336.0,399.0,21.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb204.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb204_roi.png
+mdb205,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb205.pgm,
+mdb206,Fatty,Spiculated masses,malignant,368.0,200.0,17.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb206.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb206_roi.png
+mdb207,Dense-glandular,Spiculated masses,benign,571.0,564.0,19.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb207.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb207_roi.png
+mdb208,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb208.pgm,
+mdb209,Fatty-glandular,Calcification,malignant,647.0,503.0,87.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb209.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb209_roi.png
+mdb210,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb210.pgm,
+mdb211,Fatty-glandular,Calcification,malignant,680.0,327.0,13.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb211.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb211_roi.png
+mdb212,Fatty-glandular,Calcification,benign,687.0,882.0,3.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb212.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb212_roi.png
+mdb213,Fatty-glandular,Calcification,malignant,547.0,520.0,45.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb213.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb213_roi.png
+mdb214,Fatty-glandular,Calcification,benign,582.0,916.0,11.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb214.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb214_roi.png
+mdb215,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb215.pgm,
+mdb216,Dense-glandular,Calcification,malignant,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb216.pgm,
+mdb217,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb217.pgm,
+mdb218,Fatty-glandular,Calcification,benign,519.0,629.0,8.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb218.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb218_roi.png
+mdb219,Fatty-glandular,Calcification,benign,546.0,756.0,29.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb219.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb219_roi.png
+mdb220,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb220.pgm,
+mdb221,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb221.pgm,
+mdb222,Dense-glandular,Calcification,benign,398.0,427.0,17.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb222.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb222_roi.png
+mdb223,Dense-glandular,Calcification,benign,523.0,482.0,29.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb223.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb223_roi.png
+mdb223,Dense-glandular,Calcification,benign,591.0,529.0,6.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb223.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb223_roi.png
+mdb224,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb224.pgm,
+mdb225,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb225.pgm,
+mdb226,Dense-glandular,Calcification,benign,287.0,610.0,7.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb226.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb226_roi.png
+mdb226,Dense-glandular,Calcification,benign,329.0,550.0,25.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb226.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb226_roi.png
+mdb226,Dense-glandular,Calcification,benign,531.0,721.0,8.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb226.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb226_roi.png
+mdb227,Fatty-glandular,Calcification,benign,504.0,467.0,9.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb227.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb227_roi.png
+mdb228,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb228.pgm,
+mdb229,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb229.pgm,
+mdb230,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb230.pgm,
+mdb231,Fatty,Calcification,malignant,603.0,538.0,44.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb231.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb231_roi.png
+mdb232,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb232.pgm,
+mdb233,Fatty-glandular,Calcification,malignant,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb233.pgm,
+mdb234,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb234.pgm,
+mdb235,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb235.pgm,
+mdb236,Dense-glandular,Calcification,benign,276.0,824.0,14.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb236.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb236_roi.png
+mdb237,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb237.pgm,
+mdb238,Fatty,Calcification,malignant,522.0,553.0,17.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb238.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb238_roi.png
+mdb239,Dense-glandular,Calcification,malignant,645.0,755.0,40.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb239.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb239_roi.png
+mdb239,Dense-glandular,Calcification,malignant,567.0,808.0,25.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb239.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb239_roi.png
+mdb240,Dense-glandular,Calcification,benign,643.0,614.0,23.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb240.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb240_roi.png
+mdb241,Dense-glandular,Calcification,malignant,453.0,678.0,38.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb241.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb241_roi.png
+mdb242,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb242.pgm,
+mdb243,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb243.pgm,
+mdb244,Dense-glandular,Well-defined/circumscribed masses,benign,466.0,567.0,52.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb244.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb244_roi.png
+mdb245,Fatty,Calcification,malignant,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb245.pgm,
+mdb246,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb246.pgm,
+mdb247,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb247.pgm,
+mdb248,Fatty,Calcification,benign,378.0,601.0,10.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb248.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb248_roi.png
+mdb249,Dense-glandular,Calcification,malignant,544.0,508.0,48.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb249.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb249_roi.png
+mdb249,Dense-glandular,Calcification,malignant,575.0,639.0,64.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb249.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb249_roi.png
+mdb250,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb250.pgm,
+mdb251,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb251.pgm,
+mdb252,Fatty,Calcification,benign,439.0,367.0,23.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb252.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb252_roi.png
+mdb253,Dense-glandular,Calcification,malignant,733.0,564.0,28.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb253.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb253_roi.png
+mdb254,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb254.pgm,
+mdb255,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb255.pgm,
+mdb256,Fatty,Calcification,malignant,400.0,484.0,37.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb256.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb256_roi.png
+mdb257,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb257.pgm,
+mdb258,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb258.pgm,
+mdb259,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb259.pgm,
+mdb260,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb260.pgm,
+mdb261,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb261.pgm,
+mdb262,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb262.pgm,
+mdb263,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb263.pgm,
+mdb264,Fatty-glandular,"Other, ill-defined masses",malignant,596.0,431.0,36.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb264.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb264_roi.png
+mdb265,Fatty-glandular,"Other, ill-defined masses",malignant,593.0,498.0,60.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb265.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb265_roi.png
+mdb266,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb266.pgm,
+mdb267,Fatty,"Other, ill-defined masses",malignant,793.0,481.0,56.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb267.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb267_roi.png
+mdb268,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb268.pgm,
+mdb269,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb269.pgm,
+mdb270,Fatty-glandular,Well-defined/circumscribed masses,malignant,356.0,945.0,72.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb270.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb270_roi.png
+mdb271,Fatty,"Other, ill-defined masses",malignant,784.0,270.0,68.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb271.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb271_roi.png
+mdb272,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb272.pgm,
+mdb273,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb273.pgm,
+mdb274,Fatty,"Other, ill-defined masses",malignant,127.0,505.0,123.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb274.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb274_roi.png
+mdb275,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb275.pgm,
+mdb276,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb276.pgm,
+mdb277,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb277.pgm,
+mdb278,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb278.pgm,
+mdb279,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb279.pgm,
+mdb280,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb280.pgm,
+mdb281,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb281.pgm,
+mdb282,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb282.pgm,
+mdb283,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb283.pgm,
+mdb284,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb284.pgm,
+mdb285,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb285.pgm,
+mdb286,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb286.pgm,
+mdb287,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb287.pgm,
+mdb288,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb288.pgm,
+mdb289,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb289.pgm,
+mdb290,Dense-glandular,Well-defined/circumscribed masses,benign,337.0,353.0,45.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb290.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb290_roi.png
+mdb291,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb291.pgm,
+mdb292,Fatty-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb292.pgm,
+mdb293,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb293.pgm,
+mdb294,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb294.pgm,
+mdb295,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb295.pgm,
+mdb296,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb296.pgm,
+mdb297,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb297.pgm,
+mdb298,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb298.pgm,
+mdb299,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb299.pgm,
+mdb300,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb300.pgm,
+mdb301,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb301.pgm,
+mdb302,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb302.pgm,
+mdb303,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb303.pgm,
+mdb304,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb304.pgm,
+mdb305,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb305.pgm,
+mdb306,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb306.pgm,
+mdb307,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb307.pgm,
+mdb308,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb308.pgm,
+mdb309,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb309.pgm,
+mdb310,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb310.pgm,
+mdb311,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb311.pgm,
+mdb312,Fatty,"Other, ill-defined masses",benign,240.0,263.0,20.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb312.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb312_roi.png
+mdb313,Fatty,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb313.pgm,
+mdb314,Fatty,"Other, ill-defined masses",benign,518.0,191.0,39.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb314.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb314_roi.png
+mdb315,Dense-glandular,Well-defined/circumscribed masses,benign,516.0,447.0,93.0,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb315.pgm,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-roi/mdb315_roi.png
+mdb316,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb316.pgm,
+mdb317,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb317.pgm,
+mdb318,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb318.pgm,
+mdb319,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb319.pgm,
+mdb320,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb320.pgm,
+mdb321,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb321.pgm,
+mdb322,Dense-glandular,Normal,,,,,D:/mathe/Documents/banco_dados_ic/mamografia/mias/all-mias/mdb322.pgm,
