@@ -1,14 +1,10 @@
 # Carregar metadados no json
 import json
-import os
-import re
 from pathlib import Path
-import sys  # noqa: 
 
 import cv2
 import numpy as np
 import pandas as pd
-from pydicom import dcmread
 from pydicom.multival import MultiValue
 from pydicom.sequence import Sequence
 from pydicom.valuerep import PersonName
@@ -103,34 +99,6 @@ def get_dicom_meta(dicom_file: object, drop=False) -> dict:
     return dictionary
 
 
-def update_count_tag(list_tags: list | set, dictionary_tags: dict) -> None:
-    """Itera sobre uma lista de tags e adiciona no dicionário se não estiver
-    nele ou aumentar o contador se estiver nele"""
-
-    for key in list_tags:
-        if key in dictionary_tags.keys():
-            dictionary_tags[key] += 1
-        else:
-            dictionary_tags[key] = 1
-
-
-def merge_dictionary(left_dict: dict, right_dict: dict) -> dict:
-    """Junta dois dicionários de tags"""
-
-    list_keys = list(left_dict.keys()) + list(right_dict.keys())
-    dictionary_merged = {}
-
-    for key in list_keys:
-        if key in set(left_dict.keys()) & set(right_dict.keys()):  # key contido (left^right)  # noqa: E501
-            dictionary_merged[key] = left_dict[key] + right_dict[key]
-        elif key in left_dict.keys():  # key contido em left
-            dictionary_merged[key] = left_dict[key]
-        else:  # key contido em right
-            dictionary_merged[key] = right_dict[key]
-
-    return dictionary_merged
-
-
 def get_bits_allocated(value: int) -> int:
     value = int(value)
 
@@ -144,55 +112,12 @@ def get_bits_allocated(value: int) -> int:
         return 16
 
 
-def create_dict_meta(metadata: list, type: str) -> dict:
-    """Retorna um dicionário de tags contidas em uma lista de estudos
-
-       metadata: lista contendo os estudos
-       type: csv or txt
-    """
-    dictionary_metadata = {}
-    dict_keys_to_rename = {
-        "id1": "patient_id",
-        "leftright": "left_or_right_breast",
-        "abnormality": "abnormality_type",
-        "classification": "pathology",
-        "reference_number": "patient_id",
-        "laterality": "left_or_right breast",
-        "view": "image_view",
-        "assessment": "bi-rads",
-        "age": "patient_age",
-        "acr": "breast_density"
-    }
-
-    for current_meta in metadata:  # Iterar sobre os estudos
-        meta_csv_files = current_meta[f'metadata_{type}']
-
-        for key, value in meta_csv_files.items():
-            key = key.lower().replace(" ", "_")
-
-            if key in dict_keys_to_rename.keys():
-                key = dict_keys_to_rename[key]
-
-            if key == 'image_path' or key == 'cropped_image_path' or key == 'original_image_path' or key == 'file_name':  # noqa: E501
-                continue
-
-            if key not in dictionary_metadata.keys():
-                if value in ['NaN', '']:
-                    dictionary_metadata[key] = 0
-                else:
-                    dictionary_metadata[key] = 1
-            else:
-                if value not in ['NaN', '']:
-                    dictionary_metadata[key] += 1
-    return dictionary_metadata
-
-
 def buscar_tags(df: pd.DataFrame, freq: int) -> pd.DataFrame:
     """Retorna um DataFrame com as tags que contém a frequência informada"""
     return df.loc[df['frequencia'] == freq].copy(deep=True).reset_index(drop=True)  # noqa: E501
 
 
-def create_df(dictionary: dict, x_label: str) -> pd.DataFrame: 
+def create_df(dictionary: dict, x_label: str) -> pd.DataFrame:
     """Cria um dataframe da frequência por tag/atribute"""
     keys = [key for key in dictionary.keys()]
     values = [value for value in dictionary.values()]
@@ -303,41 +228,18 @@ def get_glcm_features(image, distances, angles, levels, symmetric, normed, prope
                         symmetric=symmetric, normed=normed)
 
     glcm_features = []
-    # manual_properties = ['mean', 'skewness', 'kurtosis']
-    # tmp_properties = set(properties) - set(manual_properties)
-
-    # glcm_props = [propery for name in tmp_properties for propery in graycoprops(glcm, name)]  # noqa: E501
     glcm_props = [propery for name in properties for propery in graycoprops(glcm, name)]  # noqa: E501
 
     for glcm_props_distance in glcm_props:
         for item in glcm_props_distance:
             glcm_features.append(item)
 
-    """ for i in range(glcm.shape[2]):
-        for j in range(glcm.shape[3]):
-            if 'mean' in properties:
-                mean = np.mean(glcm[::, ::, i, j])
-                glcm_features.append(mean)
-
-            std = np.std(glcm[::, ::, i, j])
-
-            if 'standard deviation' in properties:
-                glcm_features.append(std)
-
-            if 'skewness' in properties:
-                skewness = np.mean((glcm[::, ::, i, j] - mean) ** 3) / (std ** 3)  # noqa: E501
-                glcm_features.append(skewness)
-
-            if 'kurtosis' in properties:
-                kurtosis = np.mean((glcm[::, ::, i, j] - mean) ** 4) / (std ** 4) - 3  # noqa: E501
-                glcm_features.append(kurtosis) """
-
     return glcm_features
 
 
 def load_inbreast_mask(mask_path, imshape=(4084, 3328)):
     """
-    This function loads a osirix xml region as a binary numpy array for 
+    This function loads a osirix xml region as a binary numpy array for
     INBREAST dataset
     @mask_path : Path to the xml file
     @imshape : The shape of the image as an array e.g. [4084, 3328]
@@ -346,7 +248,7 @@ def load_inbreast_mask(mask_path, imshape=(4084, 3328)):
 
     mask = np.zeros(imshape)
     with open(mask_path, 'rb') as mask_file:
-        plist_dict = plistlib.load(mask_file, fmt=plistlib.FMT_XML)['Images'][0]
+        plist_dict = plistlib.load(mask_file, fmt=plistlib.FMT_XML)['Images'][0]  # noqa: E501
         numRois = plist_dict['NumberOfROIs']
         rois = plist_dict['ROIs']
         assert len(rois) == numRois
@@ -360,7 +262,8 @@ def load_inbreast_mask(mask_path, imshape=(4084, 3328)):
                     mask[int(point[1]), int(point[0])] = 1
             else:
                 x, y = zip(*points)
-                col, row = np.array(x), np.array(y) ##x coord is the column coord in an image and y is the row
+                # x coord is the column coord in an image and y is the row
+                col, row = np.array(x), np.array(y)
                 poly_x, poly_y = polygon(row, col, shape=imshape)
                 mask[poly_x, poly_y] = 1
     return mask
