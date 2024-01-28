@@ -16,10 +16,12 @@ import matplotlib.pyplot as plt
 def load_json(path: str) -> object:
     """Carregar arquivos em JSON"""
     try:
-        with open(path, 'r') as json_file:
+        with open(path, "r") as json_file:
             return json.load(json_file)
     except json.decoder.JSONDecodeError:
-        raise json.decoder.JSONDecodeError(f"Arquivo {path} não é um JSON válido")  # noqa: E501
+        raise json.decoder.JSONDecodeError(
+            f"Arquivo {path} não é um JSON válido"
+        )  # noqa: E501
     except FileNotFoundError:
         raise FileNotFoundError(f"Arquivo {path} não encontrado")
 
@@ -27,7 +29,7 @@ def load_json(path: str) -> object:
 def save_json(path: str, data: list | dict) -> None:
     """Salvar arquivos em JSON"""
     try:
-        with open(path, 'w', encoding='utf-8') as json_file:  # noqa: E501
+        with open(path, "w", encoding="utf-8") as json_file:  # noqa: E501
             json.dump(data, json_file, ensure_ascii=False, indent=3)
     except FileNotFoundError:
         raise FileNotFoundError(f"Arquivo {path} não encontrado")
@@ -35,10 +37,12 @@ def save_json(path: str, data: list | dict) -> None:
 
 def get_dicom_meta_seq(seq_element):
     """Extrai metadados de elementos sequencia dicom"""
-    dict_tags_seq = {"(0008, 0100)": "code_value",
-                     "(0008, 0102)": "coding_scheme_designator",
-                     "(0008, 0104)": "code_meaning",
-                     "(0054, 0222)": "View Modifier Code Sequence"}
+    dict_tags_seq = {
+        "(0008, 0100)": "code_value",
+        "(0008, 0102)": "coding_scheme_designator",
+        "(0008, 0104)": "code_meaning",
+        "(0054, 0222)": "View Modifier Code Sequence",
+    }
     elements = []
 
     for element in seq_element:
@@ -49,14 +53,16 @@ def get_dicom_meta_seq(seq_element):
 
             if new_key in dict_tags_seq.keys():
                 new_key = f"{dict_tags_seq[new_key]} {new_key}"
-            dict_temp[new_key] = value['Value'][0] if len(value['Value']) >= 1 else ""  # noqa: E501
+            dict_temp[new_key] = (
+                value["Value"][0] if len(value["Value"]) >= 1 else ""
+            )  # noqa: E501
 
         elements.append(dict_temp)
     return elements
 
 
 def get_dicom_meta(dicom_file: object, drop=False) -> dict:
-    """Extrair metadados em cabeçalhos dicom """
+    """Extrair metadados em cabeçalhos dicom"""
 
     dictionary = {}
 
@@ -112,7 +118,9 @@ def get_bits_allocated(value: int) -> int:
 
 def buscar_tags(df: pd.DataFrame, freq: int) -> pd.DataFrame:
     """Retorna um DataFrame com as tags que contém a frequência informada"""
-    return df.loc[df['frequencia'] == freq].copy(deep=True).reset_index(drop=True)  # noqa: E501
+    return (
+        df.loc[df["frequencia"] == freq].copy(deep=True).reset_index(drop=True)
+    )  # noqa: E501
 
 
 def create_df(dictionary: dict, x_label: str) -> pd.DataFrame:
@@ -124,8 +132,10 @@ def create_df(dictionary: dict, x_label: str) -> pd.DataFrame:
     return df
 
 
-def get_images_size(path: str, image_type: str = "", multiple=False) -> float | int:  # noqa: E501
-    """ Retorna o tamanho da imagem em MegaBytes (MB)"""
+def get_images_size(
+    path: str, image_type: str = "", multiple=False
+) -> float | int:  # noqa: E501
+    """Retorna o tamanho da imagem em MegaBytes (MB)"""
 
     if multiple:
         directory = Path(path)
@@ -155,13 +165,13 @@ def get_angles_labels(angles):
 
     for angle in angles:
         if angle == 0:
-            labels.append('0')
-        elif angle == np.pi/4:
-            labels.append('45')
-        elif angle == np.pi/2:
-            labels.append('90')
-        elif angle == 3*np.pi/4:
-            labels.append('135')
+            labels.append("0")
+        elif angle == np.pi / 4:
+            labels.append("45")
+        elif angle == np.pi / 2:
+            labels.append("90")
+        elif angle == 3 * np.pi / 4:
+            labels.append("135")
     return labels
 
 
@@ -175,14 +185,16 @@ def load_inbreast_mask(mask_path, imshape=(4084, 3328)):
     """
 
     mask = np.zeros(imshape)
-    with open(mask_path, 'rb') as mask_file:
-        plist_dict = plistlib.load(mask_file, fmt=plistlib.FMT_XML)['Images'][0]  # noqa: E501
-        numRois = plist_dict['NumberOfROIs']
-        rois = plist_dict['ROIs']
+    with open(mask_path, "rb") as mask_file:
+        plist_dict = plistlib.load(mask_file, fmt=plistlib.FMT_XML)["Images"][
+            0
+        ]  # noqa: E501
+        numRois = plist_dict["NumberOfROIs"]
+        rois = plist_dict["ROIs"]
         assert len(rois) == numRois
         for roi in rois:
-            numPoints = roi['NumberOfPoints']
-            points = roi['Point_px']
+            numPoints = roi["NumberOfPoints"]
+            points = roi["Point_px"]
             assert numPoints == len(points)
             points = [eval(point) for point in points]
             if len(points) <= 2:
@@ -197,50 +209,64 @@ def load_inbreast_mask(mask_path, imshape=(4084, 3328)):
     return mask
 
 
-def get_first_order_features(image: np.ndarray) -> list:  # noqa: E501
+def get_first_order_features(
+    image: np.ndarray,
+    features: list = [
+        "mean",
+        "variance",
+        "std",
+        "central_moment",
+        "skewness",
+        "kurtosis",
+    ],
+) -> list:  # noqa: E501
     """Retorna as features de primeira ordem de uma imagem"""
-    features = []
+    hist = cv2.calcHist([image], [0], None, [256], [0, 256])
+    p_hist = hist / hist.sum()
 
-    # Mean
-    mean = np.mean(image)
-    features.append(mean)
+    try:
+        mean = sum(i * p for i, p in enumerate(p_hist))
+        variance = sum(((i - mean) ** 2) * p for i, p in enumerate(p_hist))
+        std = np.sqrt(variance)
+        central_moment = sum(((i-mean) ** 3) * p for i, p in enumerate(p_hist))
+        skewness = sum((i - mean) ** 3 * p for i, p in enumerate(hist)) / (
+            sum((i - mean) ** 2 * p for i, p in enumerate(hist))
+        ) ** (3 / 2)
+        kurtosis = (
+            sum((i - mean) ** 4 * p for i, p in enumerate(hist))
+            / (sum((i - mean) ** 2 * p for i, p in enumerate(hist))) ** 2
+            - 3
+        )
 
-    # Variance
-    variance = np.var(image)
-    features.append(variance)
+        dict_features = {
+            "mean": mean[0],
+            "variance": variance[0],
+            "std": std[0],
+            "central_moment": central_moment[0],
+            "skewness": skewness[0],
+            "kurtosis": kurtosis[0],
+        }
 
-    # Standard deviation
-    stddev = np.std(image)
-    features.append(stddev)
-    # Skewness
-    # Check for invalid values before calculating skewness
-    if stddev != 0:
-        skewness = (np.mean((image - mean)**3) / stddev**3)
-    else:
-        skewness = 0  # Assign a default value if stddev is zero
-    features.append(skewness)
-
-    # Check for invalid values before calculating kurtosis
-    if stddev != 0:
-        kurtosis = (np.mean((image - mean)**4) / stddev**4) - 3
-    else:
-        kurtosis = 0  # Assign a default value if stddev is zero
-    features.append(kurtosis)
-
-    return features
+        return {feature: dict_features[feature] for feature in features}
+    except ZeroDivisionError:
+        raise ZeroDivisionError("Divisão por zero")
+    except TypeError:
+        raise TypeError("Tipo de dado inválido")
+    except KeyError:
+        raise KeyError("Feature inválida")
 
 
 def draw_image_mias(df: pd.DataFrame, idx: int) -> None:
-    ''' draw image with location of center of abnormality '''
-    img = cv2.imread(df['image_path'][idx])
-    plt.imshow(img, cmap='gray')
+    """draw image with location of center of abnormality"""
+    img = cv2.imread(df["image_path"][idx])
+    plt.imshow(img, cmap="gray")
 
     #  account for horizontal flip of some images
     if idx % 2 == 0:
         x_loc = df.x_center_abnormality[idx]
     else:
         x_loc = 1024 - df.x_center_abnormality[idx]
-    plt.plot([x_loc], [1024-df.y_center_abnormality[idx]], 'ro')
-    radius = str(df.radius[idx]) if df.radius[idx] != 'nan' else "N/A"
+    plt.plot([x_loc], [1024 - df.y_center_abnormality[idx]], "ro")
+    radius = str(df.radius[idx]) if df.radius[idx] != "nan" else "N/A"
     plt.title("Radius:" + radius)
     plt.show()
