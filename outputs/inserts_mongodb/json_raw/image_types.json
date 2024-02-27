@@ -3,82 +3,52 @@
       "name": "DICOM",
       "description": "O formato DICOM (Digital Imaging and Communications in Medicine) é um padrão amplamente utilizadopara imagens médicas em ambientes de assistência à saúde. Ele permite o armazenamento, transmissão etroca de informações médicas, incluindo imagens radiológicas, como radiografias, tomografias,ressonâncias magnéticas e ultrassonografias, juntamente com dados clínicos associados. O formatoDICOM é altamente reconhecido por sua capacidade de preservar informações cruciais de pacientes e de imagens médicas, garantindo a interoperabilidade entre diferentes sistemas e dispositivos de imagem, e desempenha um papel fundamental no diagnóstico, tratamento e gerenciamento de pacientesem ambientes de saúde.",
       "requiredData": [
-         "sop_instance_uid (0008, 0018)",
-         "high_bit (0028, 0102)",
-         "bits_allocated (0028, 0100)",
-         "columns (0028, 0011)",
-         "content_date (0008, 0023)",
-         "modality (0008, 0060)",
-         "pixel_representation (0028, 0103)",
-         "sop_class_uid (0008, 0016)",
          "series_instance_uid (0020, 000e)",
+         "bits_allocated (0028, 0100)",
+         "high_bit (0028, 0102)",
          "study_instance_uid (0020, 000d)",
-         "samples_per_pixel (0028, 0002)",
          "rows (0028, 0010)",
+         "sop_class_uid (0008, 0016)",
          "photometric_interpretation (0028, 0004)",
+         "samples_per_pixel (0028, 0002)",
          "content_time (0008, 0033)",
          "bits_stored (0028, 0101)",
+         "modality (0008, 0060)",
+         "columns (0028, 0011)",
+         "content_date (0008, 0023)",
+         "pixel_representation (0028, 0103)",
+         "sop_instance_uid (0008, 0018)",
          "pathology"
       ],
       "optionalData": [
-         "biRads",
-         "largest_image_pixel_value (0028, 0107)",
-         "abnormalityType",
-         "study_time (0008, 0030)",
-         "calcificationType",
-         "instance_number (0020, 0013)",
-         "series_number (0020, 0011)",
-         "massShape",
-         "series_description (0008, 103e)",
-         "patient_orientation (0020, 0020)",
-         "fileName",
+         "study_date (0008, 0020)",
          "private_creator (0013, 0010)",
-         "study_id (0020, 0010)",
-         "calcificationDistribution",
-         "private_tag_data (0013, 1013)",
+         "study_time (0008, 0030)",
          "private_tag_data (0013, 1010)",
-         "patient_id (0010, 0020)",
-         "patientAge",
-         "conversion_type (0008, 0064)",
+         "private_tag_data (0013, 1013)",
+         "series_number (0020, 0011)",
          "specific_character_set (0008, 0005)",
-         "subtlety",
-         "subtype",
+         "instance_number (0020, 0013)",
+         "patient_orientation (0020, 0020)",
+         "patient_id (0010, 0020)",
          "patient's_name (0010, 0010)",
          "body_part_examined (0018, 0015)",
-         "smallest_image_pixel_value (0028, 0106)",
-         "breastDensity",
-         "massMargins",
-         "secondary_capture_device_manufacturer's_model_name (0018, 1018)",
-         "secondary_capture_device_manufacturer (0018, 1016)",
-         "orientation",
-         "abnormalityId",
-         "leftOrRightBreast",
-         "acquisitionDate",
-         "number",
-         "findingsNotes",
-         "study_date (0008, 0020)",
-         "laterality (0020, 0060)",
-         "croppedImagePath"
-      ]
+         "bi_rads"
+      ],
+      "createdAt": "2024-02-27T17:09:17.460794",
+      "updatedAt": "2024-02-27T17:09:17.460794"
    },
    {
       "name": "PGM",
       "description": "O formato PGM (Portable Gray Map) é um formato de arquivo de imagem que é usado para representarimagens em tons de cinza (escala de cinza). O PGM é um dos formatos simples e diretos para armazenar imagens em tons de cinza e é frequentemente usado em processamento de imagens e visãocomputacional.",
       "requiredData": [
-         "header",
-         "rows",
-         "columns",
-         "max_value",
-         "pathology",
          "pathology"
       ],
       "optionalData": [
-         "abnormalityType",
-         "yCentreAbnormality",
-         "backgroundTissue",
-         "xCentreAbnormality",
-         "radius"
-      ]
+         "bi_rads"
+      ],
+      "createdAt": "2024-02-27T17:09:17.474506",
+      "updatedAt": "2024-02-27T17:09:17.474506"
    },
    {
       "name": "PNG",
@@ -87,10 +57,10 @@
          "pathology"
       ],
       "optionalData": [
-         "biRads",
-         "studyId",
-         "imageSizeMb"
-      ]
+         "bi_rads"
+      ],
+      "createdAt": "2024-02-27T17:09:17.495713",
+      "updatedAt": "2024-02-27T17:09:17.495713"
    },
    {
       "name": "JPG",
@@ -99,13 +69,9 @@
          "pathology"
       ],
       "optionalData": [
-         "caseDescription",
-         "subgroup",
-         "group",
-         "imageSizeMb",
-         "subgroupUrl",
-         "orientation",
-         "imgUrl"
-      ]
+         "bi_rads"
+      ],
+      "createdAt": "2024-02-27T17:09:17.524679",
+      "updatedAt": "2024-02-27T17:09:17.524679"
    }
 ]
