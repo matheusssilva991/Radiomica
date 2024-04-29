@@ -1,4 +1,3 @@
-# Carregar metadados no json
 import json
 from pathlib import Path
 
@@ -11,6 +10,8 @@ from pydicom.valuerep import PersonName
 from skimage.draw import polygon
 import plistlib
 import matplotlib.pyplot as plt
+from pydicom import dcmread
+from cv2 import imread, imwrite, COLOR_BGR2GRAY, INTER_AREA, cvtColor, resize
 
 
 def load_json(path: str) -> object:
@@ -209,42 +210,48 @@ def load_inbreast_mask(mask_path, imshape=(4084, 3328)):
     return mask
 
 
-def get_first_order_features(
+def get_fo_features(
     image: np.ndarray,
+    mask: np.ndarray = None,
     features: list = [
         "mean",
         "variance",
         "std",
-        "central_moment",
-        "skewness",
-        "kurtosis",
+        "smoothness",
+        "third_moment",
+        "uniformity",
+        "entropy"
     ],
 ) -> list:  # noqa: E501
     """Retorna as features de primeira ordem de uma imagem"""
-    hist = cv2.calcHist([image], [0], None, [256], [0, 256])
+    hist = None
+
+    if mask is not None:
+        if image.shape != mask.shape:
+            raise ValueError("Dimensões da imagem e máscara são diferentes")
+        hist = cv2.calcHist([image], [0], mask, [256], [0, 256])
+    else:
+        hist = cv2.calcHist([image], [0], None, [256], [0, 256])
+
     p_hist = hist / hist.sum()
 
     try:
         mean = sum(i * p for i, p in enumerate(p_hist))
         variance = sum(((i - mean) ** 2) * p for i, p in enumerate(p_hist))
         std = np.sqrt(variance)
-        central_moment = sum(((i-mean) ** 3) * p for i, p in enumerate(p_hist))
-        skewness = sum((i - mean) ** 3 * p for i, p in enumerate(hist)) / (
-            sum((i - mean) ** 2 * p for i, p in enumerate(hist))
-        ) ** (3 / 2)
-        kurtosis = (
-            sum((i - mean) ** 4 * p for i, p in enumerate(hist))
-            / (sum((i - mean) ** 2 * p for i, p in enumerate(hist))) ** 2
-            - 3
-        )
+        smoothness = 1 - 1 / (1 + variance)
+        third_moment = sum(((i - mean) ** 3) * p for i, p in enumerate(p_hist))
+        uniformity = sum(p_hist ** 2)
+        entropy = -sum(p * np.log2(p) for p in p_hist if p != 0)
 
         dict_features = {
             "mean": mean[0],
-            "variance": variance[0],
+            "variance": variance[0],  # noqa: E501
             "std": std[0],
-            "central_moment": central_moment[0],
-            "skewness": skewness[0],
-            "kurtosis": kurtosis[0],
+            "smoothness": smoothness[0],
+            "third_moment": third_moment[0],
+            "uniformity": uniformity[0],
+            "entropy": entropy[0]
         }
 
         return {feature: dict_features[feature] for feature in features}
@@ -270,3 +277,59 @@ def draw_image_mias(df: pd.DataFrame, idx: int) -> None:
     radius = str(df.radius[idx]) if df.radius[idx] != "nan" else "N/A"
     plt.title("Radius:" + radius)
     plt.show()
+
+
+def extract_image_dicom(image_path, save=False, path=None, image_type=None):
+    try:
+        # Read the dicom file
+        dicom_file = dcmread(image_path)
+
+        # Extract the image from dicom file
+        image = dicom_file.pixel_array
+
+        if save:
+            image_type = image_type or "png"
+            path = path or image_path.split("/")[-1].replace("dcm", image_type)
+            imwrite(path, image)
+
+        return image
+    except FileNotFoundError:
+        raise Exception("Arquivo não encontrado")
+
+
+def resize_image(image: np.array, dim, save=False, path=None, image_type=None):
+    try:
+        if isinstance(image, str):
+            image = imread(image)
+            image = cvtColor(image, COLOR_BGR2GRAY)
+
+        # resize image
+        resized = resize(image, dim, interpolation=INTER_AREA)
+
+        if save:
+            image_type = image_type or "png"
+            path = path or f"./resized_image.{image_type}"
+            imwrite(path, resized)
+
+        return resized
+    except FileNotFoundError:
+        raise Exception("Arquivo não encontrado")
+    except Exception as e:
+        raise Exception(e)
+
+
+def extract_roi(image: np.array, mask: np.array) -> np.array:
+    """
+    Extrai a região de interesse de uma imagem
+    @image: Imagem original
+    @mask: Máscara da região de interesse
+    return: Imagem com a região de interesse
+    """
+
+    if image.shape != mask.shape:
+        raise ValueError("Dimensões da imagem e máscara são diferentes")
+
+    result = np.copy(image)
+    result[mask == 0] = 0
+
+    return result
